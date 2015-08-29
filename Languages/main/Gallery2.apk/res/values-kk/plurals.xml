@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Таңдалған элементтерді жою қажет пе?</item>
+        <item quantity="one">Таңдалған элементті жою қажет пе?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="zero">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="zero">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="zero">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Альбомдарды оффлайн режимінде қолжетімді ету</item>
+        <item quantity="one">Альбомды оффлайн режимінде қолжетімді ету.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d элемент сканерленді</item>
+        <item quantity="zero">%1$d элемент сканерленді</item>
+        <item quantity="one">%1$d элемент сканерленді</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">1 секунд</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d фотосурет</item>
+        <item quantity="one">%1$d фотосурет</item>
+    </plurals>
+</resources>

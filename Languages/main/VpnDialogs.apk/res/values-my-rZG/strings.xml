@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%sသည္ VPN ခ်ိတ္ဆက္မႈတစ္ခု ဖန္တီးရန္ ႀကိဳးစားသည္။</string>
+    <string name="warning">ဆက္လုပ္ေနျခင္း အားျဖင့္၊ သင္သည္ ကြန္ရက္လမ္းေၾကာင္း အားလံုး ျဖတ္ယူရန္ လုပ္ငန္းသံုး ပ႐ိုဂရမ္ ခြင့္ျပဳခ်က္ကို ေပးေနသည္။ <b> သင္ ယံုၾကည္ရေသာ လုပ္ငန္းသံုး ပ႐ိုဂရမ္ မျဖစ္ခဲ့လွ်င္ လက္မခံပါႏွင့္။ </b> သို႔မဟုတ္လွ်င္ မေကာင္းေသာ ေဆာ့ဖ္ဝဲျဖင့္ သင့္အခ်က္အလက္ အထိအခိုက္ခံရၿပီး ေဘးေတြ႕ႏိုင္သည့္ အလားအလာ ရွိသည္။</string>
+    <string name="legacy_title">VPN ခ်ိတ္ဆက္ခဲ့သည္</string>
+    <string name="configure">စီစဥ္ထားရွိပါ</string>
+    <string name="disconnect">ခ်ိတ္ဆက္မႈျဖဳတ္ရန္</string>
+    <string name="session">အခန္းက႑-</string>
+    <string name="duration">ၾကာခ်ိန္ -</string>
+    <string name="data_transmitted">ေပးပို႔ခဲ့သည္-</string>
+    <string name="data_received">လက္ခံရရွိၿပီး-</string>
+    <string name="data_value_format">%1$s ဘိုက္/ %2$s ပက္ကက္မ်ား</string>
+</resources>

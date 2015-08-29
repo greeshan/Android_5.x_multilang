@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">"Définir comme fond d'écran"</string>
+    <string name="image_load_fail">"Impossible de charger l'image."</string>
+    <string name="wallpaper_load_fail">"Impossible de charger l'image comme fond d'écran."</string>
+    <string name="wallpaper_accessibility_name">"Fond d'écran %1$d sur %2$d"</string>
+    <string name="announce_selection">%1$s sélectionné</string>
+    <string name="wallpaper_delete">Supprimer</string>
+    <string name="pick_image">Sélectionner une image</string>
+    <string name="pick_wallpaper">"Fonds d'écran"</string>
+    <string name="crop_wallpaper">"Rogner le fond d'écran"</string>
+</resources>

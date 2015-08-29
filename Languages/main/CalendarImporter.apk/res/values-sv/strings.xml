@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importera till</string>
+    <string name="import_button">Importera</string>
+    <string name="cancel">Avbryt</string>
+    <string name="no_access_toast">Konto ej hittat. Lägg först till ett konto</string>
+    <string name="null_name">Inget</string>
+    <string name="import_message">Vill du importera # till Kalendern?</string>
+    <string name="calendar_lable">"Kalender: "</string>
+    <string name="date_lable">"Datum: "</string>
+    <string name="import_title">Importera kalenderhändelse</string>
+    <string name="importing">Importerar…</string>
+    <string name="import_complete">Importering klar</string>
+    <string name="open">Öppna</string>
+    <string name="done">Klar</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Kunde inte importera händelse.</string>
+    <string name="title_lable">"Titel: "</string>
+    <string name="no_syncable_calendars">Kunde inte importera</string>
+    <string name="no_calendars_found">Detta konto saknar stöd för kalendersynkronisering, eller senaste synkronisering har ännu inte slutförts.</string>
+    <string name="retry">Försök igen</string>
+    <string name="give_up">Avbryt</string>
+    <string name="open_calendar_failed">Kalendern är inte tillgänglig.</string>
+    <string name="loading">Laddar…</string>
+    <string name="not_support_multi_events">Filer med flera händelser stöds inte.</string>
+</resources>

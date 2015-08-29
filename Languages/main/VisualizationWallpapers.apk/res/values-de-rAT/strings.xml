@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Musik-Visualisierungs-Hintergrund</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Zeichnet eine Schallwelle eines gerade wiedergegebenen Musikstücks.</string>
+    <string name="vis3_desc">Zeichnet das Frequenzspektrum eines gerade wiedergegebenen Musikstücks.</string>
+    <string name="vis4_desc">Simuliert ein analoges Aussteuerungsmessgerät.</string>
+    <string name="vis5_desc">Alle Visualisierungen zusammen rotieren langsam in 3D.</string>
+</resources>

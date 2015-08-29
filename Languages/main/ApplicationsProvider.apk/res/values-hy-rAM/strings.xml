@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Որոնել ծրագրերի մատակարարին</string>
+    <string name="search_label">Հավելվածներ</string>
+    <string name="application_desc">Աշխատածրագիր</string>
+    <string name="settings_description">Տեղադրված ծրագրերի անունները</string>
+    <string name="search_empty">Համընկնում չկա</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Alusta vastuvõtmist...</string>
+    <string name="notification_group_title">%d faili vastuvõtmine…</string>
+    <string name="notification_download_done">Puudutage, et kuvada üksikasjad</string>
+    <string name="notification_group_received">%d faili vastu võetud</string>
+    <string name="notification_received">Vastuvõtmine õnnestus</string>
+    <string name="notification_download_failure">Vastuvõtmine ebaõnnestus, kuna %s</string>
+    <string name="notification_download_cancel">Vastuvõtmine tühistatud</string>
+    <string name="notification_group_received_failed">%d faili vastuvõtmine nurjus</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d faili vastuvõtmine nurjus, %d faili vastu võetud</string>
+    <string name="download_no_file">Fail puudub</string>
+    <string name="notification_sending">Alusta saatmist...</string>
+    <string name="notification_group_upload_title">%d faili saatmine...</string>
+    <string name="notification_group_sent">%d faili saadetud</string>
+    <string name="notification_sent">Edukalt saadetud</string>
+    <string name="notification_upload_failed">Saatmine ebaõnnestus, kuna %s</string>
+    <string name="notification_upload_cancel">Saatmine tühistatud</string>
+    <string name="notification_group_sent_failed">%d faili vastuvõtmine nurjus</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d faili vastuvõtmine nurjus, %d faili saadetud</string>
+    <string name="low_storage">mälu ei ole piisavalt</string>
+    <string name="connect_failure">Ühenduse probleem</string>
+    <string name="unknown_error">Tundmati viga</string>
+    <string name="share_label">HotKnot Share</string>
+    <string name="rx_ui_image_status">Pildi vastuvõtmine seadmelt %s</string>
+    <string name="rx_group_ui_image_status">%1$d / %2$d pildi vastuvõtmine seadmelt %3$s</string>
+    <string name="rx_ui_video_status">Video vastuvõtmine seadmelt %s</string>
+    <string name="rx_group_ui_video_status">%1$d / %2$d video vastuvõtmine seadmelt %3$s</string>
+    <string name="rx_ui_status">Faili vastuvõtmine seadmelt %s</string>
+    <string name="rx_group_ui_status">%1$d / %2$d faili vastuvõtmine seadmelt %3$s</string>
+    <string name="rx_ui_music_status">Muusika vastuvõtmine seadmelt %s</string>
+    <string name="rx_group_ui_music_status">%1$d / %2$d muusikapala vastuvõtmine seadmelt %3$s</string>
+    <string name="rx_ui_failed_status">Vastuvõtmine on pooleli</string>
+    <string name="download_no_application_title">Faili ei saa avada</string>
+    <string name="incoming_connection">Ühendan...</string>
+    <string name="outgoing_connection">Ühendan...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

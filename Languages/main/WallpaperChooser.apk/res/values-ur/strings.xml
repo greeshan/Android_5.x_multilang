@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">وال پیپر متعین کریں</string>
+    <string name="image_load_fail">تصویر لوڈ نہیں کرسکا</string>
+    <string name="wallpaper_load_fail">تصویر لوڈ نہیں کرسکا</string>
+    <string name="wallpaper_accessibility_name">وال پیپر %1$d از %2$d</string>
+    <string name="announce_selection">%1$s منتخب ہوئے</string>
+    <string name="wallpaper_delete">رابطہ مٹائيں</string>
+    <string name="pick_image">تصویر چنیں</string>
+    <string name="pick_wallpaper">وال پیپر</string>
+    <string name="crop_wallpaper">وال پیپر تراشیں</string>
+</resources>

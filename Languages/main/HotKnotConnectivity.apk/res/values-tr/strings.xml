@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Almaya başla…</string>
+    <string name="notification_group_title">%d dosya alınıyor...</string>
+    <string name="notification_download_done">Ayrıntıları görüntülemek için dokunun</string>
+    <string name="notification_group_received">%d dosya alındı</string>
+    <string name="notification_received">Başarıyla alındı</string>
+    <string name="notification_download_failure">%s nedeniyle alınamadı</string>
+    <string name="notification_download_cancel">Alma işlemi iptal edildi</string>
+    <string name="notification_group_received_failed">%d dosya alınamadı</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d dosya alınamadı, %d dosya alınamadı</string>
+    <string name="download_no_file">Dosya mevcut değil</string>
+    <string name="notification_sending">Göndermeye başla…</string>
+    <string name="notification_group_upload_title">%d dosya gönderiliyor...</string>
+    <string name="notification_group_sent">%d dosya gönderildi</string>
+    <string name="notification_sent">Başarıyla gönderildi</string>
+    <string name="notification_upload_failed">%s nedeniyle gönderilemedi</string>
+    <string name="notification_upload_cancel">Gönderme iptal edildi</string>
+    <string name="notification_group_sent_failed">%d dosya gönderilemedi</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d dosya gönderilemedi, %d dosya gönderildi</string>
+    <string name="low_storage">düşük bellek</string>
+    <string name="connect_failure">Bağlantı sorunu</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_label">HotKnot Paylaşım</string>
+    <string name="rx_ui_image_status">%s görüntü alınıyor</string>
+    <string name="rx_group_ui_image_status">%1$d / %2$d görüntü %3$s cihazından alınıyor</string>
+    <string name="rx_ui_video_status">%s cihazından video alınıyor</string>
+    <string name="rx_group_ui_video_status">%1$d / %2$d video %3$s cihazından alınıyor</string>
+    <string name="rx_ui_status">Dosya %s cihazından alınıyor</string>
+    <string name="rx_group_ui_status">%1$d / %2$d dosya %3$s cihazından alınıyor</string>
+    <string name="rx_ui_music_status">%s cihazından müzik dosyası alınıyor</string>
+    <string name="rx_group_ui_music_status">%1$d / %2$d müzik dosyası %3$s cihazından alınıyor</string>
+    <string name="rx_ui_failed_status">Alım bitirilemedi</string>
+    <string name="notification_download_failed">İndirme işlemi başarısız oldu.</string>
+    <string name="download_no_application_title">Dosya açılamıyor</string>
+    <string name="notification_download_complete">İndirme işlemi tamamlandı.</string>
+    <string name="cancel">İptal</string>
+    <string name="mtk_notification_string">Ayrıntı ayarlarını görüntülemek için dokunun</string>
+    <string name="incoming_connection">Bağlanılıyor...</string>
+    <string name="outgoing_connection">Bağlanılıyor...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

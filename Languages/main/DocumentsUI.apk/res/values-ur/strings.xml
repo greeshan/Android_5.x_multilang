@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">دستاویزات</string>
+    <string name="title_open">کھولیں از</string>
+    <string name="title_save">محفوظ کریں بمقام</string>
+    <string name="menu_create_dir">فولڈر تخلیق کریں</string>
+    <string name="menu_grid">جالی دار منظر</string>
+    <string name="menu_list">فہرستی ویو</string>
+    <string name="menu_sort">بمطابق چھانٹیں</string>
+    <string name="menu_search">تلاش کریں</string>
+    <string name="menu_settings">ترتیبات</string>
+    <string name="menu_open">کھولیں</string>
+    <string name="menu_save">محفوظ کریں</string>
+    <string name="menu_share">تقسیم کریں</string>
+    <string name="menu_delete">حذف کرنا</string>
+    <string name="menu_select">\"^1\"منتخب کریں</string>
+    <string name="menu_advanced_show">SD کارڈ دکھائيں</string>
+    <string name="menu_advanced_hide">SD کارڈ چھپائيں</string>
+    <string name="menu_file_size_show">فائل کا سائز دکھائيں</string>
+    <string name="menu_file_size_hide">فائل کا سائز چھپائيں</string>
+    <string name="mode_selected_count">%1$d منتخب ہوگیا</string>
+    <string name="sort_name">بہ لحاظ نام</string>
+    <string name="sort_date">بہ لحاظ ترمیم کی تاریخ</string>
+    <string name="sort_size">بمطابق سائز</string>
+    <string name="drawer_open">روٹس دکھائیں</string>
+    <string name="drawer_close">روٹس چھپائیں</string>
+    <string name="save_error">دستاویز کو محفوظ کرنے میں ناکام ہوگیا</string>
+    <string name="create_error">فولڈر تخلیق کرنے میں ناکام</string>
+    <string name="query_error">دستاویزات کا استفسار کرنے میں ناکام ہوگیا</string>
+    <string name="root_recent">حالیہ</string>
+    <string name="root_available_bytes">%1$s مفت</string>
+    <string name="root_type_service">اسٹوریج کی سروسز</string>
+    <string name="root_type_shortcut">شارٹ کٹ</string>
+    <string name="root_type_device">آلات</string>
+    <string name="root_type_apps">مزید ایپلی کیشن</string>
+    <string name="empty">کوئی آئٹمز نہیں ہیں</string>
+    <string name="toast_no_application">فائل نہیں کھول سکتا</string>
+    <string name="toast_failed_delete">کچھ دستاویزات حذف کرنے سے قاصر ہے</string>
+    <string name="share_via">بذریعہ تقسیم کریں</string>
+    <string name="pref_advanced_devices">جدید ترین آلات ڈسپلے کریں</string>
+    <string name="pref_file_size">فائل کا سائز ڈسپلے کریں</string>
+    <string name="pref_device_size">آلے کا سائز ڈسپلے کریں</string>
+</resources>

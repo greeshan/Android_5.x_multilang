@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Der tændes om mindre end 1 min.</item>
+        <item>Der tændes om %1$s fra nu.</item>
+        <item>Der tændes om %2$s fra nu.</item>
+        <item>Der tændes om %1$s og %2$s fra nu.</item>
+        <item>Der tændes om %3$s fra nu.</item>
+        <item>Der tændes om %1$s og %3$s fra nu.</item>
+        <item>Der tændes om %2$s og %3$s fra nu.</item>
+        <item>Der tændes om %1$s, %2$s og %3$s fra nu.</item>
+        <item>Der slukkes om mindre end 1 min.</item>
+        <item>Der slukkes om %1$s fra nu.</item>
+        <item>Der slukkes om %2$s fra nu.</item>
+        <item>Der slukkes om %1$s og %2$s fra nu.</item>
+        <item>Der slukkes om %3$s fra nu.</item>
+        <item>Der slukkes om %1$s og %3$s fra nu.</item>
+        <item>Der slukkes om %2$s og %3$s fra nu.</item>
+        <item>Der slukkes om %1$s, %2$s og %3$s fra nu.</item>
+    </string-array>
+</resources>

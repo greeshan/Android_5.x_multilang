@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Överladdning</string>
+    <string name="title_battery_over_temperature">För hög batteritemperatur</string>
+    <string name="title_over_current_protection">Överspänningsskydd</string>
+    <string name="title_battery_over_voltage">För hög batterispänning</string>
+    <string name="title_safety_timer_timeout">För lång laddningstid</string>
+    <string name="title_battery_low_temperature">Låg batteritemperatur</string>
+    <string name="msg_charger_over_voltage">Din laddare har för hög spänning, koppla ur laddaren!</string>
+    <string name="msg_battery_over_temperature">Ditt batteri har för hög temperatur, ta ut batteriet!</string>
+    <string name="msg_over_current_protection">Ditt batteri utsätts för överspänning, ta ut batteriet!</string>
+    <string name="msg_battery_over_voltage">Ditt batteri utsätts av för hög batterispänning, ta ut batteriet!</string>
+    <string name="msg_safety_timer_timeout">Laddningstiden är för lång, koppla ur laddaren!</string>
+    <string name="msg_battery_low_temperature">Din batteritemperatur är för låg, koppla ur laddaren!</string>
+    <string name="btn_ok_msg">Snooza</string>
+    <string name="btn_cancel_msg">Avbryt</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">изпращане %d отчети прочитане</item>
+        <item quantity="one">изпращане %d отчет прочитане</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d избрани</item>
+        <item quantity="one">%d избрано</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s разговора са изтрити</item>
+        <item quantity="one">Един разговор е изтрит</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s кореспонденции ще бъдат изтрити</item>
+        <item quantity="one">Една кореспонденция ще бъде изтрита</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d непрочетени съобщения</item>
+        <item quantity="one">%d непрочетено съобщение</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s резултата за „%2$s“</item>
+        <item quantity="one">%1$s резултат за „%2$s“</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s други съобщения</item>
+        <item quantity="one">+%1$s друго съобщение</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s души</item>
+    </plurals>
+</resources>

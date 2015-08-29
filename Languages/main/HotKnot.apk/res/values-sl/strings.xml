@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Začni prejemati ...</string>
+    <string name="notification_group_title">Prejemanje datotek (%d) ...</string>
+    <string name="notification_download_done">Dotaknite se za več informacij</string>
+    <string name="notification_group_received">Št. prejetih datotek: %d</string>
+    <string name="notification_received">Uspešno prejeto</string>
+    <string name="notification_download_failure">Prejemanje ni uspelo. Razlog: %s</string>
+    <string name="notification_download_cancel">Prejemanje preklicano</string>
+    <string name="notification_group_received_failed">Št. neuspelih datotek: %d</string>
+    <string name="notification_group_received_partial_failed" formatted="false">Št. neuspelih datotek: %d, št. prejetih datotek: %d</string>
+    <string name="download_no_file">Datoteka ne obstaja</string>
+    <string name="notification_sending">Začni pošiljati ...</string>
+    <string name="notification_group_upload_title">Pošiljanje datotek (%d) ...</string>
+    <string name="notification_group_sent">Št. poslanih datotek: %d</string>
+    <string name="notification_sent">Uspešno poslano</string>
+    <string name="notification_upload_failed">Pošiljanje ni uspelo. Razlog: %s</string>
+    <string name="notification_upload_cancel">Pošiljanje preklicano</string>
+    <string name="notification_group_sent_failed">Št. neuspelih datotek: %d</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">Št. neuspelih datotek: %d, št. poslanih datotek: %d</string>
+    <string name="low_storage">malo prostora za shranjevanje</string>
+    <string name="connect_failure">Težava s povezavo</string>
+    <string name="unknown_error">Neznana napaka</string>
+    <string name="share_label">Skupna raba HotKnot</string>
+    <string name="rx_ui_image_status">Prejemanje slike z naprave %s</string>
+    <string name="rx_group_ui_image_status">Prejemanje: %1$d/%2$d slik z naprave %3$s</string>
+    <string name="rx_ui_video_status">Prejemanje videa z naprave %s</string>
+    <string name="rx_group_ui_video_status">Prejemanje: %1$d/%2$d videoposnetkov z naprave %3$s</string>
+    <string name="rx_ui_status">Prejemanje datoteke z naprave %s</string>
+    <string name="rx_group_ui_status">Prejemanje: %1$d/%2$d datotek z naprave %3$s</string>
+    <string name="rx_ui_music_status">Prejemanje glasbene datoteke z naprave %s</string>
+    <string name="rx_group_ui_music_status">Prejemanje: %1$d/%2$d glasbenih datotek z naprave %3$s</string>
+    <string name="rx_ui_failed_status">Prejemanje ni dokončano</string>
+    <string name="notification_download_failed">Prenos ni uspel.</string>
+    <string name="download_no_application_title">Datoteke ni mogoče odpreti</string>
+    <string name="notification_download_complete">Prenos je končan.</string>
+    <string name="cancel">Prekliči</string>
+    <string name="incoming_connection">Vzpostavljanje povezave ...</string>
+    <string name="outgoing_connection">Vzpostavljanje povezave ...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

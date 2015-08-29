@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Նախակայել արձագանքումը</string>
+    <string name="eq_preset_normal">Սովորական</string>
+    <string name="eq_preset_classical">Դասական</string>
+    <string name="eq_preset_dance">Պար</string>
+    <string name="eq_preset_flat">Ֆլեթ</string>
+    <string name="eq_preset_folk">Ֆոլկ</string>
+    <string name="eq_preset_heavymetal">Հեվի մետալ</string>
+    <string name="eq_preset_hiphop">Հիփ հոփ</string>
+    <string name="eq_preset_jazz">Ջազ</string>
+    <string name="eq_preset_pop">Փոփ</string>
+    <string name="eq_preset_rock">Ռոք</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Էֆեկտները մատչելի չեն:</string>
+    <string name="main_toggle_effects_title">Ձայնային էֆեկտներ</string>
+    <string name="eq_dialog_title">Հավասարիչ</string>
+    <string name="headset_plug">Էֆեկտների համար միացրեք ականջակալը:</string>
+    <string name="bass_boost_strength">Բասերի ուժգնացում</string>
+    <string name="virtualizer_strength">Շրջապատող ձայն</string>
+    <string name="pr_title">Արձագանքում՝</string>
+    <string name="pr_summary">Լրացուցիչ տարածքի արձագանքման էֆեկտներ</string>
+    <string name="pr_dialog_title">Արձագանքումը նախակայված է</string>
+    <string name="setup">Կարգավորում</string>
+    <string name="ci_extreme">FX ուժեղարար</string>
+    <string name="user">Օգտվող</string>
+    <string name="picker_title">Երաժշտական էֆեկտների կառավարման վահանակ</string>
+</resources>

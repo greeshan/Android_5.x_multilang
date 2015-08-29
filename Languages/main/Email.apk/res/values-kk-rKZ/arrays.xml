@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Жауап беру</item>
+        <item>Барлығына жауап беру</item>
+        <item>Бағыттау</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Сәтті</item>
+        <item>Байланыс жоқ</item>
+        <item>Кіру мүмкін болмады</item>
+        <item>Қауіпсіздік қатесі</item>
+        <item>Синхрондау мүмкін емес</item>
+        <item>Ішкі қате</item>
+        <item>Сервер қатесі</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Жаңалауы</item>
+        <item>Ескілеу</item>
+        <item>Сөйлесімдер тізімі</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Жойғаннан кейін жаңарақ сөйлесімді көрсету</item>
+        <item>Жойғаннан кейін ескірек сөйлесімді көрсету</item>
+        <item>Жойғаннан кейін сөйлесімдер тізімін көрсету</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Мұрағаттау</item>
+        <item>Жою</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Мұрағаттау</item>
+        <item>Жою</item>
+    </string-array>
+    <string-array name="reply_choices">
+        <item>@string/reply_choice_yes</item>
+        <item>@string/reply_choice_no</item>
+        <item>@string/reply_choice_ok</item>
+        <item>@string/reply_choice_hehe</item>
+        <item>@string/reply_choice_thanks</item>
+        <item>@string/reply_choice_i_agree</item>
+        <item>@string/reply_choice_nice</item>
+        <item>@string/reply_on_my_way</item>
+        <item>@string/reply_choice_later</item>
+        <item>@string/reply_choice_smiling_face</item>
+        <item>@string/reply_choice_frowning_face</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Әрқашан хабар әрекеттерін экранның жоғарғы жағында көрсету</item>
+        <item>Портреттік бағдарға бұрылғанда ғана хабар әрекеттерін экранның жоғарғы жағында көрсету</item>
+        <item>Хабар әрекеттерін хабар тақырыбынан тыс көрсетпеу</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Әрдайым көрсету</item>
+        <item>Тек портретте көрсету</item>
+        <item>Көрсетпеу</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_001a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_001b">false</item>
+</resources>

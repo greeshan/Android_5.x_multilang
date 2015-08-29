@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">ប្រើ​បណ្ដាញ​នេះ​ជា</string>
+    <string name="action_do_not_use_network">កុំ​ប្រើ​បណ្ដាញ​នេះ</string>
+    <string name="action_bar_label">ចូល​បណ្ដាញ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Түрі</item>
+        <item>Атауы (А-Я)</item>
+        <item>Өлшемі (үлкен-кіші)</item>
+        <item>Мерзімі (жаңа-ескі)</item>
+    </string-array>
+</resources>

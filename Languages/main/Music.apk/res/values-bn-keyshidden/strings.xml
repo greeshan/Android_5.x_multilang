@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">আপনার নতুন প্লেলিস্টের একটি নাম দিতে কিবোর্ড চালু করুন বা এটিকে %s\"নাম দিতে সংরক্ষণ নির্বাচন করুন।</string>
+    <string name="rename_playlist_same_prompt">প্লেলিস্ট \"%s\" কে নতুন নাম দিতে কিবোর্ড চালু করুন।</string>
+    <string name="rename_playlist_diff_prompt">প্লেলিস্ট \"%1$s\"কে নতুন নাম দিতে কিবোর্ড চালু করুন। এটিকে \"%2$s\" নাম দিতে সংরক্ষণ নির্বাচন করুন।</string>
+</resources>

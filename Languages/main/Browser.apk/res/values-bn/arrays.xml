@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>বর্তমান পৃষ্ঠা</item>
+        <item>খালি পৃষ্ঠা</item>
+        <item>ডিফল্ট পৃষ্ঠা</item>
+        <item>সবচেয়ে বেশি দেখা সাইট</item>
+        <item>সাইট নেভিগেশন</item>
+        <item>অন্যান্য</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>কখনও না</item>
+        <item>কেবল ওয়াই-ফাই</item>
+        <item>সবসময়</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>সবসময় চালু</item>
+        <item>চাহিদার ভিত্তিতে</item>
+        <item>বন্ধ করুন</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>বর্তমান পৃষ্ঠা</item>
+        <item>খালি পৃষ্ঠা</item>
+        <item>ডিফল্ট পৃষ্ঠা</item>
+        <item>সবচেয়ে বেশি দেখা সাইট</item>
+        <item>অন্যান্য</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>ক্ষুদ্র</item>
+        <item>ছোট</item>
+        <item>স্বাভাবিক</item>
+        <item>বড়</item>
+        <item>বিশাল</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>দূর</item>
+        <item>মধ্যম</item>
+        <item>কাছে</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>স্বয়ংক্রিয় সনাক্তকরণ যন্ত্র</item>
+        <item>ল্যাটিন-১(ISO-8859-1)</item>
+        <item>ইউনিকোড (ইউটিএফ-৮)</item>
+        <item>চীনা (জিবিকে)</item>
+        <item>চীনা (বিগ৫)</item>
+        <item>জাপানি (আইএসও-২০২২-জেপি)</item>
+        <item>জাপানি (SHIFT_JIS)</item>
+        <item>জাপানি (ইইউসি-জেপি)</item>
+        <item>কোরিয়ান (ইইউসি-কেআর)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>কখনও না</item>
+        <item>কেবল ওয়াই-ফাই</item>
+        <item>সবসময়</item>
+    </string-array>
+</resources>

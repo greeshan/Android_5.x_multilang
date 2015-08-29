@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>デフォルトの画像から選択する</item>
+        <item>写真を撮影</item>
+        <item>ギャラリーから選択する</item>
+    </string-array>
+</resources>

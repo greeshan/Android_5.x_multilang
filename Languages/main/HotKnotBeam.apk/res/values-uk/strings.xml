@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Початок прийому...</string>
+    <string name="notification_group_title">Отримання %d файлів...</string>
+    <string name="notification_download_done">Торкніться, щоб переглянути подробиці</string>
+    <string name="notification_group_received">%d файлів отримано</string>
+    <string name="notification_received">Успішно отримано</string>
+    <string name="notification_download_failure">Не отримано через %s</string>
+    <string name="notification_download_cancel">Прийом скасовано</string>
+    <string name="notification_group_received_failed">помилка %d файлів</string>
+    <string name="notification_group_received_partial_failed" formatted="false">помилка %d файлів, %d файлів отримано</string>
+    <string name="download_no_file">Файл не існує</string>
+    <string name="notification_sending">Почати надсилання...</string>
+    <string name="notification_group_upload_title">Надсилання %d файлів...</string>
+    <string name="notification_group_sent">%d файлів надіслано</string>
+    <string name="notification_sent">Успішно надіслано</string>
+    <string name="notification_upload_failed">Не надіслано через %s</string>
+    <string name="notification_upload_cancel">Надсилання скасоване</string>
+    <string name="notification_group_sent_failed">помилка %d файлів</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">помилка %d файлів, %d файлів надіслано</string>
+    <string name="low_storage">"мало пам'яті"</string>
+    <string name="connect_failure">Проблема з’єднання</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="share_label">Спільне користування HotKnot</string>
+    <string name="rx_ui_image_status">Отримання зображення з %s</string>
+    <string name="rx_group_ui_image_status">Отримання %1$d / %2$d зображень з %3$s</string>
+    <string name="rx_ui_video_status">Отримання відео з %s</string>
+    <string name="rx_group_ui_video_status">Отримання %1$d / %2$d відео з %3$s</string>
+    <string name="rx_ui_status">Отримання файла %s</string>
+    <string name="rx_group_ui_status">Отримання %1$d / %2$d файлів з %3$s</string>
+    <string name="rx_ui_music_status">Отримання музики з %s</string>
+    <string name="rx_group_ui_music_status">Отримання %1$d / %2$d музики з %3$s</string>
+    <string name="rx_ui_failed_status">Не завершене отримання</string>
+</resources>

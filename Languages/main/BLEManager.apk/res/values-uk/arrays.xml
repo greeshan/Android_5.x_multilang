@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Вибрати з типових зображень</item>
+        <item>Зробити фото</item>
+        <item>Вибрати з галереї</item>
+    </string-array>
+</resources>

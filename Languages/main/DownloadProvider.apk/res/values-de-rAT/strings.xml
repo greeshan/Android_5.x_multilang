@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">Downloads</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="download_file_already_exist">Die Datei existiert bereits. Überschreiben?</string>
+    <string name="notification_download_complete_op01">Datei gespeichert in:</string>
+    <string name="download_error_insufficient_memory">Speicherplatz zu gering</string>
+    <string name="download_error_invalid_descriptor">Ungültige Beschreibung</string>
+    <string name="download_error_invalid_ddversion">Invalid DD-Version</string>
+    <string name="download_error_attribute_mismatch">Attribute stimmen nicht überein</string>
+    <string name="download_paused">Angehalten</string>
+    <string name="app_label">Download-Manager</string>
+    <string name="permlab_downloadManager">Auf den Download-Manager zugreifen.</string>
+    <string name="permdesc_downloadManager">Erlauben Sie den Apps auf den Download-Manager zuzugreifen und ihn zum Herunterladen von Dateien zu verwenden. Bösartige Apps können diesen Vorgang nutzen, um Downloads zu stören und auf private Informationen zuzugreifen.</string>
+    <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Download-Managers</string>
+    <string name="permdesc_downloadManagerAdvanced">Erlauben Sie den Apps auf die erweiterten Funktionen des Download-Managers zuzugreifen. Bösartige Apps können diesen Vorgang nutzen, um Downloads zu stören und auf private Informationen zuzugreifen.</string>
+    <string name="permlab_downloadCompletedIntent">Download-Benachrichtigungen senden</string>
+    <string name="permdesc_downloadCompletedIntent">Erlauben Sie Apps Benachrichtigungen über beendete Downloads zu senden. Bösartige Apps können diesen Vorgang nutzen, um andere Apps, die Dateien herunterladen, zu stören.</string>
+    <string name="permlab_seeAllExternal">Alle Downloads auf die SD-Karte anzeigen</string>
+    <string name="permdesc_seeAllExternal">Erlaubt Apps alle Downloads auf die SD-Karte zu sehen, unabhängig davon, welche App die Dateien heruntergeladen hat.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Platz im Download-Cache reservieren</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Erlaubt Apps Dateien in den Download-Cache zu laden, der nicht automatisch gelöscht werden kann, wenn der Download-Manager Platz benötigt.</string>
+    <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+    <string name="permdesc_downloadWithoutNotification">Erlauben Sie den Apps Dateien über den Download-Manager ohne Nachricht an den Benutzer herunterzuladen.</string>
+    <string name="permlab_accessAllDownloads">Auf alle System-Downloads zugreifen</string>
+    <string name="permdesc_accessAllDownloads">Erlaubt es der App auf alle Downloads jeder App auf dem System zuzugreifen und diese zu modifizieren.</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_download_complete">Herunterladen beendet</string>
+    <string name="notification_download_failed">Herunterladen fehlgeschlagen</string>
+    <string name="notification_need_wifi_for_size">Größe des Downloads erfordert eine Wi-Fi-Verbindung.</string>
+    <string name="notification_paused_in_background">Im Hintergrund angehalten</string>
+    <string name="wifi_required_title">Download für Betreibernetzwerk zu groß</string>
+    <string name="wifi_required_body" formatted="false">"Sie benötigen Wi-Fi, um diese Datei %s herunterladen zu können. 
+
+Tippen Sie auf %s , um diesen Download, wenn Sie das nächste Mal mit einem Wi-Fi-Netzwerk verbunden sind, herunterzuladen."</string>
+    <string name="wifi_recommended_title">In Warteschlange zum späteren Herunterladen einfügen</string>
+    <string name="wifi_recommended_body" formatted="false">"Wenn Sie diesen %s Download jetzt starten, kann es zu einer starken Belastung Ihrer Batterie und/oder zu einer hohen Nutzung Ihrer Datenverbindung und je nach Vertrag zu hohen Kosten Durch Ihren Betreiber kommen.
+
+ Tippen Sie auf %s, um die Datei bei der nächsten Verbindung mit einem Wi-Fi-Netzwerk herunterzuladen."</string>
+    <string name="button_queue_for_wifi">Warteschlange</string>
+    <string name="button_cancel_download">Abbrechen</string>
+    <string name="button_start_now">Jetzt starten</string>
+    <string name="download_remaining">%s verbleiben</string>
+    <string name="download_no_application_title">Kann Datei nicht öffnen.</string>
+    <string name="root_downloads">Downloads</string>
+    <string name="download_queued">In Warteschlange</string>
+    <string name="download_running">In Verarbeitung</string>
+    <string name="download_error">Erfolglos</string>
+    <string name="download_running_percent">In Verarbeitung, %s</string>
+    <string name="download_percent">%d%%</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d কল তালিকা</item>
+        <item quantity="one">১ কল তালিকা</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d পরিচিতজন</item>
+        <item quantity="one">১টি পরিচিতজন</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ভয়েসমেইল</item>
+        <item quantity="one">ভয়েসমেইল</item>
+    </plurals>
+</resources>

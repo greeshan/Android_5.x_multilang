@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Доступно до 100 знакова</string>
+    <string name="max_digits_alert">Максимални број цифара (10) прекорачује</string>
+    <string name="app_name">Калкулатор</string>
+    <string name="error_nan">Није број</string>
+    <string name="error_syntax">Грешка</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tg</string>
+    <string name="clr">C</string>
+    <string name="del">CE</string>
+    <string name="desc_const_e">Ојлеров број</string>
+    <string name="desc_const_pi">пи</string>
+    <string name="desc_dec_point">зарез</string>
+    <string name="desc_lparen">отворена заграда</string>
+    <string name="desc_rparen">затворена заграда</string>
+    <string name="desc_fun_cos">косинус</string>
+    <string name="desc_fun_ln">природни логаритам</string>
+    <string name="desc_fun_log">логаритам</string>
+    <string name="desc_fun_sin">синус</string>
+    <string name="desc_fun_tan">тангенс</string>
+    <string name="desc_op_add">плус</string>
+    <string name="desc_op_div">подели</string>
+    <string name="desc_op_fact">факторијел</string>
+    <string name="desc_op_mul">пута</string>
+    <string name="desc_op_pow">степен</string>
+    <string name="desc_op_sqrt">квадратни корен</string>
+    <string name="desc_op_sub">минус</string>
+    <string name="desc_clr">обриши</string>
+    <string name="desc_del">избриши</string>
+    <string name="desc_eq">једнако</string>
+</resources>

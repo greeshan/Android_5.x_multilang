@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Приемащото поле не може да бъде празно</item>
+        <item>Полето на порта не може да бъде празно</item>
+        <item>Невалиден приемащ</item>
+        <item>Невалиден порт</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Стандартно</item>
+        <item>Моно</item>
+        <item>Sans Serif</item>
+        <item>Серифни</item>
+    </string-array>
+</resources>

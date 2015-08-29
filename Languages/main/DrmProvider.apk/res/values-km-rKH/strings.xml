@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">បន្ទុក​មាតិកា​ការពារ​ដោយ DRM</string>
+    <string name="permlab_accessDrm">ចូល​ទៅកាន់​មាតិកា DRM។</string>
+    <string name="permdesc_accessDrm">បើក​ឲ្យ​ប្រើ​មាតិកា​ការពារ​ដោយ DRM។</string>
+    <string name="permlab_installDrm">បញ្ចូល (ដំឡើង) មាតិកា DRM</string>
+    <string name="permdesc_installDrm">បើក​ឲ្យ​បញ្ចូល (ដំឡើង) ​មាតិកា​ការពារ​ដោយ DRM។</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">ولتاژ بيش از حد شارژر</string>
+    <string name="title_battery_over_temperature">بیش از دمای باتری</string>
+    <string name="title_over_current_protection">بیش از حفاظت جریان</string>
+    <string name="title_battery_over_voltage">بیش از ولتاژ باتری</string>
+    <string name="title_safety_timer_timeout">در طول زمان شارژ</string>
+    <string name="title_battery_low_temperature">دمای باتری پایین است</string>
+    <string name="msg_charger_over_voltage">ولتاژ شارژر شما بيش از حد است؛ لطفاً شارژر را جدا کنيد!</string>
+    <string name="msg_battery_over_temperature">باتری خود را بیش از درجه حرارت، لطفا باتری!</string>
+    <string name="msg_over_current_protection">باتری خود را بیش از جریان حفاظت، لطفا باتری!</string>
+    <string name="msg_battery_over_voltage">باتری خود را بیش از ولتاژ، لطفا باتری!</string>
+    <string name="msg_safety_timer_timeout">زمان شارژ بیش از حد طولانی است، لطفا قطع شارژر!</string>
+    <string name="msg_battery_low_temperature">دمای باتری بیش از حد پایین است، لطفا شارژر را جدا کنید!</string>
+    <string name="btn_ok_msg">چرت زدن</string>
+    <string name="btn_cancel_msg">منفصل کردن</string>
+</resources>

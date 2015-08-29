@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>なし</item>
+        <item>小さな部屋</item>
+        <item>中規模の部屋</item>
+        <item>大きな部屋</item>
+        <item>中規模のホール</item>
+        <item>大規模なホール</item>
+        <item>プレート反響</item>
+    </string-array>
+</resources>

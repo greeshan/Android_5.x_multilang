@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">ใช้ได้สูงสุด 100 ตัวอักษร</string>
+    <string name="max_digits_alert">เกินจำนวนหลักมากที่สุด (10) หลัก</string>
+    <string name="app_name">คิดเลข</string>
+    <string name="error_nan">ไม่ใช่ตัวเลข</string>
+    <string name="error_syntax">พบข้อผิดพลาด</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">จำนวนออยเลอร์</string>
+    <string name="desc_const_pi">พาย</string>
+    <string name="desc_dec_point">จุด</string>
+    <string name="desc_lparen">วงเล็บซ้าย</string>
+    <string name="desc_rparen">วงเล็บขวา</string>
+    <string name="desc_fun_cos">โคไซน์</string>
+    <string name="desc_fun_ln">ลอการิทึมธรรมชาติ</string>
+    <string name="desc_fun_log">ลอการิทึม</string>
+    <string name="desc_fun_sin">ไซน์</string>
+    <string name="desc_fun_tan">แทนเจนต์</string>
+    <string name="desc_op_add">บวก</string>
+    <string name="desc_op_div">หาร</string>
+    <string name="desc_op_fact">แฟกทอเรียล</string>
+    <string name="desc_op_mul">คูณ</string>
+    <string name="desc_op_pow">ยกกำลัง</string>
+    <string name="desc_op_sqrt">รากที่สอง</string>
+    <string name="desc_op_sub">ลบ</string>
+    <string name="desc_clr">ล้าง</string>
+    <string name="desc_del">ลบ</string>
+    <string name="desc_eq">เท่ากับ</string>
+</resources>

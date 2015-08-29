@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>電源ONは今から1分以内に設定されています。</item>
+        <item>電源ONは%1$s後に設定されています。</item>
+        <item>電源ONは%2$s後に設定されています。</item>
+        <item>電源ONは%1$sと%2$s後に設定されています。</item>
+        <item>電源ONは %3$s後に設定されています。</item>
+        <item>電源ONは%1$sと%3$s後に設定されています。</item>
+        <item>電源ONは%2$sと%3$s後に設定されています。</item>
+        <item>電源ONは%1$sと%2$sと%3$s後に設定されています</item>
+        <item>電源OFFは今から1分以内に設定されています。</item>
+        <item>電源OFFは%1$s後に設定されています。</item>
+        <item>電源OFFは%2$s後に設定されています。</item>
+        <item>電源OFFは%1$sと%2$s後に設定されています。</item>
+        <item>電源OFFは %3$s後に設定されています。</item>
+        <item>電源OFFは%1$sと%3$s後に設定されています。</item>
+        <item>電源OFFは%2$sと%3$s後に設定されています。</item>
+        <item>電源OFFは%1$sと%2$sと%3$s後に設定されています</item>
+    </string-array>
+</resources>

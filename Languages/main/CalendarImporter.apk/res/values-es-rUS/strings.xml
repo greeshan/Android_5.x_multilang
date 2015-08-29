@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importar a</string>
+    <string name="import_button">Importar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_access_toast">Cuenta no encontrada: Añada una cuenta primero</string>
+    <string name="null_name">Ninguno</string>
+    <string name="import_message">¿Desea importar # al Calendario?</string>
+    <string name="calendar_lable">"Calendario: "</string>
+    <string name="date_lable">"Fecha: "</string>
+    <string name="import_title">Importar Evento a calendario</string>
+    <string name="importing">Importando...</string>
+    <string name="import_complete">Importar completado</string>
+    <string name="open">Abrir</string>
+    <string name="done">Hecho</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Fallo en evento de importación.</string>
+    <string name="title_lable">"Título : "</string>
+    <string name="no_syncable_calendars">No se puede importar</string>
+    <string name="no_calendars_found">Esta cuenta no admite la sincronización del calendario, o la última sincronización no ha finalizado aún.</string>
+    <string name="retry">Reintentar</string>
+    <string name="give_up">Abortar</string>
+    <string name="open_calendar_failed">Calendario no disponible.</string>
+    <string name="loading">Cargando…</string>
+    <string name="not_support_multi_events">No se admite un archivo con eventos múltiples.</string>
+</resources>

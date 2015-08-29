@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ဘက္ဘက္တြန္႔ကြင္း</item>
+        <item>ညာဘက္ရွိ စကားခ်ပ္</item>
+        <item>ေျမႇာက္ေဖာ္ကိန္း</item>
+        <item>မူရင္းေလာ့ဂ္ဂရစ္သမ္</item>
+        <item>ေလာ့ဂ္ဂရစ္သမ္</item>
+        <item>ႏွစ္ထပ္ကိန္းရင္း</item>
+        <item>ႏွင့္စားမည္</item>
+        <item>ႏွင့္ေျမႇာက္မည္</item>
+        <item>ေပါင္းသည္</item>
+        <item>အႏႈတ္</item>
+        <item>ဒႆမ</item>
+        <item>ထပ္ကိန္း</item>
+        <item>tangent</item>
+        <item>sine</item>
+        <item>cosine</item>
+        <item>pi</item>
+        <item>ညီမွ်ျခင္း</item>
+    </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>အေၾကာင္းျပန္ပါ</item>
+        <item>အားလံုးကို စာျပန္ပါ</item>
+        <item>လက္ဆင့္ကမ္းပါ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ေအာင္ျမင္သည္</item>
+        <item>ခ်ိတ္ဆက္မႈမရွိပါ</item>
+        <item>အေကာင့္သို႔ မဝင္ႏိုင္ခဲ့ပါ</item>
+        <item>လံုျခံဳေရး အမွား</item>
+        <item>တစ္မ်ဳိးတည္းျဖစ္ေအာင္ မျပဳလုပ္ႏိုင္</item>
+        <item>အတြင္း အမွား</item>
+        <item>ဆာဗား အမွား</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ပို၍သစ္ေသာ</item>
+        <item>ပိုေဟာင္းေသာ</item>
+        <item>စကားေျပာဆိုမႈစာရင္း</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>သင္ဖ်က္ၿပီးေသာအခါ ပိုသစ္ေသာ စကားေျပာဆိုခ်က္ကို ျပပါ</item>
+        <item>သင္ဖ်က္ၿပီးေသာအခါ ပိုေဟာင္းေသာ စကားေျပာဆိုခ်က္ကို ျပပါ</item>
+        <item>သင္ဖ်က္ၿပီးေသာအခါ စကားေျပာဆိုမႈ စာရင္းကို ျပပါ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ေမာ္ကြန္းတင္ပါ</item>
+        <item>ဖ်က္ပါ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ေမာ္ကြန္းတင္ပါ</item>
+        <item>ဖ်က္ပါ</item>
+    </string-array>
+    <string-array name="reply_choices">
+        <item>@string/reply_choice_yes</item>
+        <item>@string/reply_choice_no</item>
+        <item>@string/reply_choice_ok</item>
+        <item>@string/reply_choice_hehe</item>
+        <item>@string/reply_choice_thanks</item>
+        <item>@string/reply_choice_i_agree</item>
+        <item>@string/reply_choice_nice</item>
+        <item>@string/reply_on_my_way</item>
+        <item>@string/reply_choice_later</item>
+        <item>@string/reply_choice_smiling_face</item>
+        <item>@string/reply_choice_frowning_face</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>စာ လုပ္ေဆာင္ခ်က္မ်ားကို မ်က္ႏွာျပင္ ထိပ္မွာ အၿမဲ ျပရန္</item>
+        <item>ပုံတူႏွင့္ ဆက္စပ္မွသာ စာ လုပ္ေဆာင္ခ်က္မ်ားကို မ်က္ႏွာျပင္ ထိပ္မွာ အၿမဲ ျပရန္</item>
+        <item>စာ လုပ္ေဆာင္ခ်က္မ်ားကို စာ၏ ေခါင္းစီး အျပင္မွာ မျပပါႏွင့္</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>အျမဲတမ္း ျပပါ</item>
+        <item>ပုံတူ ထဲမွာသာ ျပရန္</item>
+        <item>မျပပါႏွင့္</item>
+    </string-array>
+</resources>

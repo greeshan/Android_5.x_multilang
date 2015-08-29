@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d پڑھنے کی رپورٹیں بھیج رہا ہے</item>
+        <item quantity="one">%d پڑھنے کی رپورٹ بھیج رہا ہے</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d منتخب کیے گئے</item>
+        <item quantity="one">%d منتخب کیا گیا</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s بات چیت حذف کردی گئی تھیں</item>
+        <item quantity="one">ایک بات چیت حذف کردی گئی تھی</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s بات چیت حذف کردی جائے گی</item>
+        <item quantity="one">ایک گفتگو کو مٹایا جائے گآ</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d بغیر پڑھا ہوا پیغام۔</item>
+        <item quantity="one">‎%d‏ بغیر پڑھا ہوا پیغام۔‏</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s سیکنڈ</item>
+        <item quantity="one">%s سیکنڈ</item>
+        <item quantity="few">%s سیکنڈ</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s کے نتائج \"%2$s\"</item>
+        <item quantity="one">%1$s کا نتیجہ \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">%1$s بات چیت حذف کردی جائے گی</item>
+        <item quantity="one">%1$s ‎دیگر پیغامات‎\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s لوگ</item>
+    </plurals>
+</resources>

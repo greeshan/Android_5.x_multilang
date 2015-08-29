@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Laturin ylijännite</string>
+    <string name="title_battery_over_temperature">Akun ylilämpötila</string>
+    <string name="title_over_current_protection">Ylivirtasuojaus</string>
+    <string name="title_battery_over_voltage">Akun ylijännite</string>
+    <string name="title_safety_timer_timeout">Ylilatausaika</string>
+    <string name="title_battery_low_temperature">Matala akkulämpötila</string>
+    <string name="msg_charger_over_voltage">Laturissasi on ylijännite. Irrota laturi!</string>
+    <string name="msg_battery_over_temperature">Akussa on ylilämpötila. Irrota akku!</string>
+    <string name="msg_over_current_protection">Akku on ylivirtasuojattu. Irrota akku!</string>
+    <string name="msg_battery_over_voltage">Akussa on ylijännite. Irrota akku!</string>
+    <string name="msg_safety_timer_timeout">Latausaika on liian pitkä. Irrota laturi!</string>
+    <string name="msg_battery_low_temperature">Akun lämpötila on liian matala. Irrota laturi!</string>
+    <string name="btn_ok_msg">Torkkutila</string>
+    <string name="btn_cancel_msg">Hylkää</string>
+</resources>

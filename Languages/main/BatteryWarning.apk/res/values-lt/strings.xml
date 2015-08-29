@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Kroviklio viršįtampis</string>
+    <string name="title_battery_over_temperature">Per aukšta baterijos temperatūra</string>
+    <string name="title_over_current_protection">Per didelė elektros srovės</string>
+    <string name="title_battery_over_voltage">Baterijos viršįtampis</string>
+    <string name="title_safety_timer_timeout">Per ilgas krovimo laikas</string>
+    <string name="title_battery_low_temperature">Žema baterijos temperatūra</string>
+    <string name="msg_charger_over_voltage">Per aukšta kroviklio įtampa: atjunkite kroviklį!</string>
+    <string name="msg_battery_over_temperature">Per aukšta baterijos temperatūra: išimkite bateriją!</string>
+    <string name="msg_over_current_protection">Per didelė baterijos elektros srovė: išimkite bateriją!</string>
+    <string name="msg_battery_over_voltage">Per didelė baterijos įtampa: išimkite bateriją!</string>
+    <string name="msg_safety_timer_timeout">Per ilgas krovimo laikas: atjunkite kroviklį!</string>
+    <string name="msg_battery_low_temperature">Baterijos temperatūra per žema, atjunkite kroviklį!</string>
+    <string name="btn_ok_msg">Snausti</string>
+    <string name="btn_cancel_msg">Atmesti</string>
+</resources>

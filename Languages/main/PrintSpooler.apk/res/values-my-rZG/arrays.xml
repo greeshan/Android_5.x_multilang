@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>အနက္ႏွင့္ အျဖဴ</item>
+        <item>အေရာင္</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>ေဒါင္လိုက္ပံုစံ</item>
+        <item>အလ်ားလိုက္ပံုစံ</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>အားလံုး</item>
+        <item>အပိုင္းအျခား</item>
+    </string-array>
+</resources>

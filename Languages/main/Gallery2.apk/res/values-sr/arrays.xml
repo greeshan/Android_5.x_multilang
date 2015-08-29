@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Поље хоста не може бити празно</item>
+        <item>Поље порта не може бити празно</item>
+        <item>Неважећи хост</item>
+        <item>Неважећи порт</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Подразумевана</item>
+        <item>Mono</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+</resources>

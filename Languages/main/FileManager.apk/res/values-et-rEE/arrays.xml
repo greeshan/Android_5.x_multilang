@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tüüp</item>
+        <item>Nimi (A - Z)</item>
+        <item>Suurus (suur - väike)</item>
+        <item>Kellaaeg (uutest - vanemateni)</item>
+    </string-array>
+</resources>

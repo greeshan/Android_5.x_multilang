@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">100 अक्षर उपलब्ध हैं</string>
+    <string name="max_digits_alert">अंकों की अधिकतम संख्या (10) पार कर गई</string>
+    <string name="app_name">कैल्क्युलेटर</string>
+    <string name="error_nan">संख्या नहीं है</string>
+    <string name="error_syntax">त्रुटि</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">यूलर की संख्या</string>
+    <string name="desc_const_pi">पाई</string>
+    <string name="desc_dec_point">दशमलव</string>
+    <string name="desc_lparen">बायां कोष्ठक</string>
+    <string name="desc_rparen">दायां कोष्ठक</string>
+    <string name="desc_fun_cos">कोज्या</string>
+    <string name="desc_fun_ln">प्राकृतिक लघुगणक</string>
+    <string name="desc_fun_log">लघुगणक</string>
+    <string name="desc_fun_sin">sine</string>
+    <string name="desc_fun_tan">स्पर्शज्या</string>
+    <string name="desc_op_add">जोड़ का चिह्न</string>
+    <string name="desc_op_div">विभाजन</string>
+    <string name="desc_op_fact">क्रमगुणन</string>
+    <string name="desc_op_mul">गुणा</string>
+    <string name="desc_op_pow">पावर</string>
+    <string name="desc_op_sqrt">वर्गमूल</string>
+    <string name="desc_op_sub">ऋण</string>
+    <string name="desc_clr">साफ़ करें</string>
+    <string name="desc_del">हटाएं</string>
+    <string name="desc_eq">बराबर</string>
+</resources>

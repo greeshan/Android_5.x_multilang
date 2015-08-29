@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဓာတ္ပံု စကရင္ေဆဗာမ်ား</string>
+    <string name="table_screensaver_name">ဓာတ္ပံုဇယား</string>
+    <string name="flipper_screensaver_name">ဓာတ္ပံုေဘာင္</string>
+    <string name="posts_album_name">ပို႔စ္တင္ထားခ်က္မ်ားမွ ဓာတ္ပံုမ်ား</string>
+    <string name="unknown_album_name">အမည္မေပးထားေသာ အယ္လ္ဘမ္</string>
+    <string name="stock_photo_album_name">ဓာတ္ပံုမ်ားကို စုပါ</string>
+    <string name="local_source_name">ပစၥည္းေပၚရွိ ဓာတ္ပံုမ်ား</string>
+    <string name="need_to_configure">မည္သည့္ဓာတ္ပံုမွ ေရြးထားျခင္းမရွိပါ။</string>
+    <string name="photodream_select_all">အားလံုးကို ေရြးခ်ယ္ပါ</string>
+    <string name="photodream_select_none">အားလံုးကို မေရြးခ်ယ္ပါ</string>
+    <string name="no_photos">ကိရိယာတြင္ ဓါတ္ပံုမ်ားမရွိပါ။</string>
+</resources>

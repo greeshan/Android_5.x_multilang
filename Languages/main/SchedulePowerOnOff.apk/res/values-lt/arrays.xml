@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Šis įjungimas nustatytas mažiau nei po 1 minutės skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %1$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %2$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %1$s ir %2$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %1$s ir %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %2$s ir %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis įjungimas nustatytas po %1$s, %2$s ir %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas mažiau nei po 1 minutės skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %1$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %2$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %1$s and %2$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %1$s and %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %2$s and %3$s skaičiuojant nuo dabar.</item>
+        <item>Šis išjungimas nustatytas po %1$s, %2$s ir %3$s skaičiuojant nuo dabar.</item>
+    </string-array>
+</resources>

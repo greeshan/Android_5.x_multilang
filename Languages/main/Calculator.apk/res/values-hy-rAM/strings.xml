@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Մատչելի են մինչև 100 գրանիշեր</string>
+    <string name="max_digits_alert">Թվանիշերի առավելագույն քանակը (10) գերազանցվեց</string>
+    <string name="app_name">Հաշվիչ</string>
+    <string name="error_nan">Թիվ չէ</string>
+    <string name="error_syntax">Սխալ կա</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tg</string>
+    <string name="clr">մքր</string>
+    <string name="del">ջնջ</string>
+    <string name="desc_const_e">Էյլերյան թիվ</string>
+    <string name="desc_const_pi">պի</string>
+    <string name="desc_dec_point">կետ</string>
+    <string name="desc_lparen">ձախ փակագիծ</string>
+    <string name="desc_rparen">աջ փակագիծ</string>
+    <string name="desc_fun_cos">կոսինուս</string>
+    <string name="desc_fun_ln">բնական լոգարիթմ</string>
+    <string name="desc_fun_log">լոգարիթմ</string>
+    <string name="desc_fun_sin">սինուս</string>
+    <string name="desc_fun_tan">տանգենս</string>
+    <string name="desc_op_add">գումարում</string>
+    <string name="desc_op_div">բաժանում</string>
+    <string name="desc_op_fact">ֆակտորիալ</string>
+    <string name="desc_op_mul">անգամ</string>
+    <string name="desc_op_pow">աստիճան</string>
+    <string name="desc_op_sqrt">քառակուսի արմատ</string>
+    <string name="desc_op_sub">հանում</string>
+    <string name="desc_clr">մաքրել</string>
+    <string name="desc_del">ջնջել</string>
+    <string name="desc_eq">հավասար է</string>
+</resources>

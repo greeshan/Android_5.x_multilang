@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">សម្លេងរោទ៍ច្រើនថែមទៀត…</string>
+    <string name="uid_label">មេឌា</string>
+    <string name="app_label">ឧបករណ៍ផ្ទុកមេឌា</string>
+    <string name="upgrade_msg">កំពុងកែលំអសំណុំទិន្នន័យមេឌា ។</string>
+    <string name="artist_label">អ្នកចម្រៀង</string>
+    <string name="ringtone_default">សំឡេង​រោទ៍​លំនាំដើម</string>
+    <string name="notification_sound_default">សំឡេង​ជូន​ដំណឹង​លំនាំដើម</string>
+    <string name="alarm_sound_default">សំឡេងរោទិ៍តាមលំនាំដើម</string>
+    <string name="root_images">សំណុំរូបភាព</string>
+    <string name="root_videos">វីដេអូ</string>
+    <string name="root_audio">សំឡេង</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Einschalten in weniger als 1 Minute von jetzt.</item>
+        <item>Einschalten in %1$s von jetzt.</item>
+        <item>Einschalten in %2$s von jetzt.</item>
+        <item>Einschalten in %1$s und %2$s von jetzt.</item>
+        <item>Einschalten in %3$s von jetzt.</item>
+        <item>Einschalten in %1$s und %3$s von jetzt.</item>
+        <item>Einschalten in %2$s und %3$s von jetzt.</item>
+        <item>Einschalten in %1$s, %2$s, und %3$s von jetzt.</item>
+        <item>Ausschalten in weniger als 1 Minute von jetzt.</item>
+        <item>Ausschalten in %1$s von jetzt.</item>
+        <item>Ausschalten in %2$s von jetzt.</item>
+        <item>Ausschalten in %1$s und %2$s von jetzt.</item>
+        <item>Ausschalten in %3$s von jetzt.</item>
+        <item>Ausschalten in %1$s und %3$s von jetzt.</item>
+        <item>Ausschalten in %2$s und %3$s von jetzt.</item>
+        <item>Ausschalten in %1$s, %2$s, und %3$s von jetzt.</item>
+    </string-array>
+</resources>

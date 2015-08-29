@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Bắt đầu nhận...</string>
+    <string name="notification_group_title">Đang nhận %d file...</string>
+    <string name="notification_download_done">Chạm để xem chi tiết</string>
+    <string name="notification_group_received">Đã nhận %d file</string>
+    <string name="notification_received">Đã nhận thành công</string>
+    <string name="notification_download_failure">Không thể nhận do %s</string>
+    <string name="notification_download_cancel">Đã hủy nhận</string>
+    <string name="notification_group_received_failed">Ko thể nhận %d file</string>
+    <string name="notification_group_received_partial_failed" formatted="false">Ko thể nhận %d file, đã nhận %d file.</string>
+    <string name="download_no_file">File không tồn tại</string>
+    <string name="notification_sending">Bắt đầu gửi...</string>
+    <string name="notification_group_upload_title">Đang gửi %d file...</string>
+    <string name="notification_group_sent">Đã gửi %d file</string>
+    <string name="notification_sent">Đã gửi thành công</string>
+    <string name="notification_upload_failed">Không thể gửi do %s</string>
+    <string name="notification_upload_cancel">Đã hủy gửi</string>
+    <string name="notification_group_sent_failed">Ko thể nhận %d file</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">Ko thể nhận %d file, đã gửi %d file</string>
+    <string name="low_storage">thiếu bộ nhớ</string>
+    <string name="connect_failure">Sự cố kết nối</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_label">Chia sẻ HotKnot</string>
+    <string name="rx_ui_image_status">Đang nhận hình từ %s</string>
+    <string name="rx_group_ui_image_status">Đang nhận %1$d / %2$d hình từ %3$s</string>
+    <string name="rx_ui_video_status">Đang nhận video từ %s</string>
+    <string name="rx_group_ui_video_status">Đang nhận %1$d / %2$d video từ %3$s</string>
+    <string name="rx_ui_status">Đang nhận file từ %s</string>
+    <string name="rx_group_ui_status">Đang nhận %1$d / %2$d file từ %3$s</string>
+    <string name="rx_ui_music_status">Đang nhận nhạc từ %s</string>
+    <string name="rx_group_ui_music_status">Đang nhận %1$d / %2$d nhạc từ %3$s</string>
+    <string name="rx_ui_failed_status">Chưa nhận xong</string>
+    <string name="notification_download_failed">Tải xuống không thành công.</string>
+    <string name="download_no_application_title">Không thể mở tệp</string>
+    <string name="notification_download_complete">Tải xuống hoàn tất.</string>
+    <string name="cancel">Hủy</string>
+    <string name="mtk_notification_string">Chạm để xem cài đặt chi tiết</string>
+    <string name="incoming_connection">Đang kết nối...</string>
+    <string name="outgoing_connection">Đang kết nối...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

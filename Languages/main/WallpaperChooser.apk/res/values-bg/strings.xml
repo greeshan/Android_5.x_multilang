@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Задаване на тапета</string>
+    <string name="image_load_fail">Изображението не можа да бъде заредено</string>
+    <string name="wallpaper_load_fail">Изображението не можа да бъде заредено като тапет</string>
+    <string name="wallpaper_accessibility_name">Тапет %1$d от %2$d</string>
+    <string name="announce_selection">Избрахте %1$s</string>
+    <string name="wallpaper_delete">Изтриване</string>
+    <string name="pick_image">Избиране на изображение</string>
+    <string name="pick_wallpaper">Тапети</string>
+    <string name="crop_wallpaper">Подрязване на тапета</string>
+</resources>

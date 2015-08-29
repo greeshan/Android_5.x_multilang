@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">Öffnen Sie die Tastatur, um der neuen Playlist einen Namen zu geben oder wählen Sie hierzu Speichern \"%s\".</string>
+    <string name="rename_playlist_same_prompt">Öffnen Sie die Tastatur, um der Playlist \"%s\" einen neuen Namen zu geben.</string>
+    <string name="rename_playlist_diff_prompt">Öffnen Sie die Tastatur, um der Playlist \"%1$s\"einen neuen Namen zu geben oder wählen Sie hierzu Speichern \"%2$s\".</string>
+</resources>

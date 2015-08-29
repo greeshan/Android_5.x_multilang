@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>タイプ</item>
+        <item>名前（A-Z）</item>
+        <item>サイズ（大ー小）</item>
+        <item>時間（旧ー新）</item>
+    </string-array>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_bpp_orientations">
+        <item>縦向き</item>
+        <item>ランドスケープランチャー</item>
+        <item>逆ポートレート</item>
+        <item>逆ランドスケープ</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>片面</item>
+        <item>両面長端</item>
+        <item>両面短端</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>標準</item>
+        <item>下書きトレイ</item>
+        <item>高</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+        <item>不明なアーティスト名</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>エラー無し</item>
+        <item>v-カードを作成できません</item>
+        <item>画像形式がサポートされていません</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>取得</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>開く</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>読み取りのみ</item>
+        <item>フルアクセス</item>
+    </string-array>
+    <string-array name="bt_prxm_link_loss_level_entries">
+        <item>警告無し</item>
+        <item>中警告</item>
+        <item>高警告</item>
+    </string-array>
+    <string-array name="bt_prxm_path_loss_level_entries">
+        <item>警告無し</item>
+        <item>中警告</item>
+        <item>高警告</item>
+    </string-array>
+    <string-array name="bluetooth_simap_server_sim_index_entries">
+        <item>SIM1</item>
+        <item>SIM2</item>
+        <item>SIM3</item>
+        <item>SIM4</item>
+    </string-array>
+    <string-array name="bluetooth_simap_server_sim_index_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

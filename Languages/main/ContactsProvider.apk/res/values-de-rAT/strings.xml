@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">Unbekannt</string>
+    <string name="sharedUserLabel">Android-Kernapplikationen</string>
+    <string name="app_label">Kontaktspeicher</string>
+    <string name="provider_label">Kontakte</string>
+    <string name="upgrade_msg">Kontaktdatenbank wird erweitert.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Die Kontaktdatenbankerweiterung benötigt mehr Speicher.</string>
+    <string name="upgrade_out_of_memory_notification_title">Speicher für Kontakte wird erweitert</string>
+    <string name="upgrade_out_of_memory_notification_text">Antippen, um den Vorgang abzuschließen.</string>
+    <string name="default_directory">Kontakte</string>
+    <string name="local_invisible_directory">Andere</string>
+    <string name="voicemail_from_column">Sie haben eine Sprachnachricht von %s. Wollen Sie sie jetzt abhören?</string>
+    <string name="debug_dump_title">Kontaktdatenbank kopieren</string>
+    <string name="debug_dump_database_message">Sie sind dabei 1) eine Kopie Ihrer Datenbank mit allen Kontaktinformationen und Anrufprotokollen in den internen Speicher abzulegen und 2) sie per E-Mail zu versenden. Vergessen Sie nicht, die Kopie zu löschen, wenn Sie sie kopiert haben oder die E-Mail empfangen wurde.</string>
+    <string name="debug_dump_delete_button">Jetzt löschen</string>
+    <string name="debug_dump_start_button">Start</string>
+    <string name="debug_dump_email_sender_picker">Wählen Sie ein Programm, um die Datei zu versenden.</string>
+    <string name="debug_dump_email_subject">Kalender-Db ist angehängt</string>
+    <string name="debug_dump_email_body">Im Anhang befindet sich meine Kontaktdatenbank mit allen Kontaktinformationen. Bitte vertraulich behandeln.</string>
+    <string name="read_write_all_voicemail_label">Auf alle Voicemails zugreifen</string>
+    <string name="read_write_all_voicemail_description">Erlaubt es der App alle Voicemails, auf die das Gerät Zugriff hat, zu speichern und abzurufen.</string>
+</resources>

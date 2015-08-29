@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">درحال شروع دریافت...</string>
+    <string name="notification_group_title">درحال دریافت فایل‌های %d ...</string>
+    <string name="notification_download_done">برای مشاهده جزئیات، لمس کنید</string>
+    <string name="notification_group_received">%d فایل‌ دریافت شد</string>
+    <string name="notification_received">باموفقیت دریافت شد</string>
+    <string name="notification_download_failure">دریافت به‌دلیل %s ناموفق بود</string>
+    <string name="notification_download_cancel">دریافت لغو شد</string>
+    <string name="notification_group_received_failed">%d فایل‌ ناموفق بود</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d فایل‌ ناموفق بود، %d فایل‌ دریافت شد</string>
+    <string name="download_no_file">فایل وجود ندارد</string>
+    <string name="notification_sending">درحال شروع ارسال...</string>
+    <string name="notification_group_upload_title">درحال ارسال فایل‌های %d ...</string>
+    <string name="notification_group_sent">%d فایل‌ فرستاده شد</string>
+    <string name="notification_sent">باموفقیت فرستاده شد</string>
+    <string name="notification_upload_failed">ارسال به‌دلیل %s ناموفق بود</string>
+    <string name="notification_upload_cancel">ارسال لغو شد</string>
+    <string name="notification_group_sent_failed">%d فایل‌ ناموفق بود</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d فایل‌ ناموفق بود، %d فایل‌ فرستاده شد</string>
+    <string name="low_storage">حافظه ذخیره‌سازی کم است</string>
+    <string name="connect_failure">مشکل اتصال</string>
+    <string name="unknown_error">خطای ناشناخته</string>
+    <string name="share_label">HotKnot Share</string>
+    <string name="rx_ui_image_status">دریافت تصویر از %s</string>
+    <string name="rx_group_ui_image_status">دریافت %1$d / %2$d تصویر از %3$s</string>
+    <string name="rx_ui_video_status">دریافت فیلم از %s</string>
+    <string name="rx_group_ui_video_status">دریافت %1$d / %2$d فیلم‌ از %3$s</string>
+    <string name="rx_ui_status">دریافت فایل از %s</string>
+    <string name="rx_group_ui_status">دریافت %1$d / %2$d فایل‌‌ از %3$s</string>
+    <string name="rx_ui_music_status">دریافت موسیقی از %s</string>
+    <string name="rx_group_ui_music_status">دریافت %1$d / %2$d موسیقی‌‌ از %3$s</string>
+    <string name="rx_ui_failed_status">دریافت ناتمام ماند</string>
+</resources>

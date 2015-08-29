@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Šī ieslēgšana iestatīta pēc mazāk nekā 1 minūtes no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %1$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %2$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %1$s un %2$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %3$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %1$s un %3$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %2$s un %3$s no šī brīža.</item>
+        <item>Šī ieslēgšana iestatīta pēc %1$s, %2$s un %3$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc mazāk nekā 1 minūtes no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %1$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %2$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %1$s un %2$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %3$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %1$s un %3$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %2$s un %3$s no šī brīža.</item>
+        <item>Šī izslēgšana iestatīta pēc %1$s, %2$s un %3$s no šī brīža.</item>
+    </string-array>
+</resources>

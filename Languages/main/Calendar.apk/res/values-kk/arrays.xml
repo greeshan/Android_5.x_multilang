@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Хабарландыру</item>
+        <item>Электрондық пошта</item>
+        <item>SMS</item>
+        <item>Дабыл</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минут</item>
+        <item>1 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 сағат</item>
+        <item>2 сағат</item>
+        <item>3 сағат</item>
+        <item>12 сағат</item>
+        <item>24 сағат</item>
+        <item>2 күн</item>
+        <item>1 апта</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Жоқ</item>
+        <item>0 минут</item>
+        <item>1 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 сағат</item>
+        <item>2 сағат</item>
+        <item>3 сағат</item>
+        <item>12 сағат</item>
+        <item>24 сағат</item>
+        <item>2 күн</item>
+        <item>1 апта</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Әдепкі аймақтық параметрлер</item>
+        <item>сенбі</item>
+        <item>жексенбі</item>
+        <item>дүйсенбі</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Бос емес</item>
+        <item>Қолжетімді</item>
+        <item>Болжалды</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
+        <item>Әдепкі</item>
+        <item>Жеке</item>
+        <item>Ортақ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>бірінші</item>
+        <item>екінші</item>
+        <item>үшінші</item>
+        <item>төртінші</item>
+        <item>соңғы</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Жауап жоқ</item>
+        <item>Иә</item>
+        <item>Мүмкін</item>
+        <item>Жоқ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тек осы оқиға</item>
+        <item>Осы және келешек оқиғалар</item>
+        <item>Барлық оқиғалар</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Осы және келешек оқиғалар</item>
+        <item>Барлық оқиғалар</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тек осы оқиға</item>
+        <item>Қатардағы барлық оқиғалар</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>күн</item>
+        <item>апта</item>
+        <item>Ай</item>
+        <item>Күн тәртібі</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Only if declined</item>
+        <item>If declined or not responded</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Бірнеше минутқа кешігіп орындалуда.</item>
+        <item>Шамамен 10 минутта көрсетіледі.</item>
+        <item>Мені күтпей бастаңыз.</item>
+        <item>Өкінішке орай, мынаны жасай алмаймын. Қайта жоспарлау керек болады.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Австралиялық орталық - Солтүстік территория</item>
+        <item>Австралиялық орталық - Оңтүстік Австралия</item>
+        <item>Шығыс Австралия - Квинсленд</item>
+        <item>Australian Eastern - Жаңа Оңтүстік Уэльс</item>
+        <item>Стандартты тау уақыты- Досон-Крик</item>
+        <item>Орталық стандартты - Саскачеван</item>
+        <item>Шығыс стандартты- Атикокан</item>
+        <item>Атлантикалық стандартты - Квебек</item>
+        <item>Гавайи-Алеуттік - Гавайи</item>
+        <item>Гавайи-Алеуттік - Аляска</item>
+        <item>Тынықмұхиттық стандартты - Метлакатла</item>
+        <item>Стандартты тау уақыты - Аризона</item>
+        <item>Тынықмұхиттық - Төменгі Калифорния</item>
+        <item>Тау - Чиуауа</item>
+        <item>Орталық - Тамаулипас</item>
+        <item>Тау - Сонора</item>
+        <item>Шығыс Африка уақыты</item>
+        <item>Атлантикалық стандартты уақыт</item>
+        <item>Атлантикалық стандартты уақыт</item>
+        <item>Шығыс Еуропа уақыты</item>
+        <item>Калининград уақыты</item>
+        <item>Амазондық-Рондониялық</item>
+        <item>Бразилия - Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Сен-Мартен</item>
+        <item>Кариб Нидерланды</item>
+        <item>Кюрасао</item>
+        <item>Оңтүстік Судан</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>বাম ব্র্যাকেট</item>
+        <item>ডান ব্র্যাকেট</item>
+        <item>ফ্যাক্টরিয়াল</item>
+        <item>ন্যাচারাল লগারিদম</item>
+        <item>লগারিদম</item>
+        <item>বর্গমূল</item>
+        <item>ভাগ</item>
+        <item>গুণ</item>
+        <item>যোগ</item>
+        <item>বিয়োগ</item>
+        <item> দশমিক </item>
+        <item>পাওয়ার</item>
+        <item>ট্যানজেন্ট</item>
+        <item>সাইন</item>
+        <item>কোসাইন</item>
+        <item>পাই</item>
+        <item>সমান</item>
+    </string-array>
+</resources>

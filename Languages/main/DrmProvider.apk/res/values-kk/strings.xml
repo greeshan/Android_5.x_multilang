@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM қорғалған мазмұнын сақтау</string>
+    <string name="permlab_accessDrm">DRM мазмұнына кіру рұқсаты.</string>
+    <string name="permdesc_accessDrm">Қолданбаға DRM қорғалған мазмұнына кіруге мүмкіндік береді.</string>
+    <string name="permlab_installDrm">DRM мазмұнын орнату.</string>
+    <string name="permdesc_installDrm">Қолданбаға DRM қорғалған мазмұнын орнатуға мүмкіндік береді.</string>
+</resources>

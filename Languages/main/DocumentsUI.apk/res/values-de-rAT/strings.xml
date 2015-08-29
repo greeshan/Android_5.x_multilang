@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumente</string>
+    <string name="title_open">Öffnen von</string>
+    <string name="title_save">Speichern unter</string>
+    <string name="menu_create_dir">Ordner erstellen</string>
+    <string name="menu_grid">Rasteransicht</string>
+    <string name="menu_list">Listenansicht</string>
+    <string name="menu_sort">Sortieren nach</string>
+    <string name="menu_search">Suchen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_open">Offen</string>
+    <string name="menu_save">Speichern</string>
+    <string name="menu_share">Teilen</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="menu_select">Wählen Sie \"^1\"</string>
+    <string name="menu_advanced_show">SD-Karte anzeigen</string>
+    <string name="menu_advanced_hide">SD-Karte verbergen</string>
+    <string name="menu_file_size_show">Dateigröße anzeigen</string>
+    <string name="menu_file_size_hide">Dateigröße verbergen</string>
+    <string name="mode_selected_count">%1$d ausgewählt</string>
+    <string name="sort_name">Nach Name</string>
+    <string name="sort_date">Nach Änderungsdatum</string>
+    <string name="sort_size">Nach Größe</string>
+    <string name="drawer_open">Quellen anzeigen</string>
+    <string name="drawer_close">Quellen verbergen</string>
+    <string name="save_error">Dokument kann nicht gespeichert werden.</string>
+    <string name="create_error">Ordner kann nicht erstellt werden</string>
+    <string name="query_error">Dokument kann nicht abgefragt werden.</string>
+    <string name="root_recent">Kürzlich</string>
+    <string name="root_available_bytes">%1$s frei</string>
+    <string name="root_type_service">Speicherdienst</string>
+    <string name="root_type_shortcut">Verknüpfung</string>
+    <string name="root_type_device">Geräte</string>
+    <string name="root_type_apps">Weitere Apps</string>
+    <string name="empty">Keine Elemente</string>
+    <string name="toast_no_application">Kann Datei nicht öffnen.</string>
+    <string name="toast_failed_delete">Kann einige Dokumente nicht löschen.</string>
+    <string name="share_via">Teilen über</string>
+    <string name="pref_advanced_devices">Erweiterte Geräte anzeigen</string>
+    <string name="pref_file_size">Dateigröße anzeigen</string>
+    <string name="pref_device_size">Gerätegröße anzeigen</string>
+</resources>

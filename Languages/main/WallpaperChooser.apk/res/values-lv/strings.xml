@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Iestatīt fona tapeti</string>
+    <string name="image_load_fail">Nevarēja ielādēt attēlu.</string>
+    <string name="wallpaper_load_fail">Nevarēja ielādēt attēlu kā fona tapeti.</string>
+    <string name="wallpaper_accessibility_name">%1$d. fona tapete no %2$d</string>
+    <string name="announce_selection">Atlasīta: %1$s</string>
+    <string name="wallpaper_delete">Dzēst</string>
+    <string name="pick_image">Izvēlēties attēlu</string>
+    <string name="pick_wallpaper">Fona tapetes</string>
+    <string name="crop_wallpaper">Apgriezt fona tapeti</string>
+</resources>

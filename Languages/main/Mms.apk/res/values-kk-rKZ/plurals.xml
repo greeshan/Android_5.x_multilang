@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Оқылғандығы туралы %d есепті жіберу</item>
+        <item quantity="one">Оқылғандығы туралы %d есепті жіберу</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d таңдалды</item>
+        <item quantity="one">%d таңдалды</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s сөйлесулер жойылды</item>
+        <item quantity="one">Бір әңгіме жойылды</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s әңгіме жойылады</item>
+        <item quantity="one">Бір әңгіме жойылады</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Оқылмаған хабарлар %d.</item>
+        <item quantity="one">Оқылмаған хабар %d.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s секунд</item>
+        <item quantity="one">%s секунд</item>
+        <item quantity="few">%s секунд</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" іздеу нәтижесі %1$s</item>
+        <item quantity="one">\"%2$s\" іздеу нәтижесі %1$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">%1$s басқа хабарлар</item>
+        <item quantity="one">%1$s басқа хабарлар</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s адам</item>
+    </plurals>
+</resources>

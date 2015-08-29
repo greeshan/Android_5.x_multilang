@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">ေနာက္ထပ္ ဖုန္းျမည္သံမ်ား...</string>
+    <string name="uid_label">က႑မ်ား</string>
+    <string name="app_label">မီဒီယာ သိမ္းဆည္းေနရာ</string>
+    <string name="upgrade_msg">မီဒီယာေဒတာေဘ့စ္ကို အဆင့္ျမႇင့္ေနသည္</string>
+    <string name="artist_label">အဆိုေတာ္</string>
+    <string name="ringtone_default">သတ္မွတ္ထားေသာ ဖုန္းျမည္သံ</string>
+    <string name="notification_sound_default">အခ်က္ေပးခ်က္တီးလံုး ေရြးခ်ယ္ပါ</string>
+    <string name="alarm_sound_default">ပံုေသႏိႈးစက္အသံ</string>
+    <string name="root_images">ပံုမ်ား</string>
+    <string name="root_videos">ဗီဒီယိုမ်ား</string>
+    <string name="root_audio">အသံ</string>
+</resources>

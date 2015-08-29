@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tipus</item>
+        <item>Nom (A - Z)</item>
+        <item>Mida (gran / petit)</item>
+        <item>Hora (nova / anterior)</item>
+    </string-array>
+</resources>

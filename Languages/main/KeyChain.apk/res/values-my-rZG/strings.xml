@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ကီး အစဥ္လိုက္အတြဲ</string>
+    <string name="title_no_certs">သက္ေသခံ မွတ္တမ္းမ်ား ရွာမေတြ႕ပါ</string>
+    <string name="title_select_cert">သက္ေသခံမွတ္တမ္း ေရြးခ်ယ္ပါ</string>
+    <string name="requesting_application">လုပ္ငန္းသံုး ပ႐ိုဂရမ္ %s မွ သက္ေသခံ မွတ္တမ္း တစ္ခုကို ေတာင္းဆိုပါသည္။ သက္ေသခံမွတ္တမ္း တစ္ခု ေရြးခ်ယ္ျခင္း သည္ လုပ္ငန္းသံုး ပ႐ိုဂရမ္အား ဤသက္ေသခံမႈကို ယခုေရာ ေနာင္တြင္ပါ ဆာဗာမ်ားတြင္ အသံုးျပဳမည္ ျဖစ္ပါသည္။</string>
+    <string name="requesting_server">လုပ္ငန္းသံုး ပ႐ိုဂရမ္မွာ ေတာင္းဆိုေနေသာ ဆာဗာအား %s အျဖစ္ အမွတ္သညာျပဳထား ေသာ္လည္း သင္သည္ လုပ္ငန္းသံုး ပ႐ိုဂရမ္အား ယံုၾကည္မွသာလွ်င္ သက္ေသခံ မွတ္တမ္းအား လုပ္ငန္းသံုး ပ႐ိုဂရမ္မွ သံုးႏိုင္ခြင့္ကို ေပးထားသင့္ပါသည္။</string>
+    <string name="install_new_cert_message">PKCS#12 မွ သက္ေသခံ မွတ္တမ္းမ်ားကို ျပင္ပသိုေလွာင္မႈထဲတြင္ တည္ရွိေသာ %1$s သို႔မဟုတ္ %2$s ႏွင့္ တပ္ဆင္မႈ ျပဳႏိုင္သည္။</string>
+    <string name="install_new_cert_button_label">သြင္းပါ</string>
+    <string name="allow_button">ခြင့္ျပဳပါ</string>
+    <string name="deny_button">ျငင္းပယ္</string>
+</resources>

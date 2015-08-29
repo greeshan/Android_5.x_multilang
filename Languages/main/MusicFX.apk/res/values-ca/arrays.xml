@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Cap</item>
+        <item>Sala petita</item>
+        <item>Sala mitjana</item>
+        <item>Sala gran</item>
+        <item>Vestíbul mitjà</item>
+        <item>Vestíbul gran</item>
+        <item>Reverberació metàl·lica</item>
+    </string-array>
+</resources>

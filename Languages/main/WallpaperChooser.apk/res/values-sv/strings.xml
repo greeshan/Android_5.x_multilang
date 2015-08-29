@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Ange bakgrund</string>
+    <string name="image_load_fail">Det gick inte att läsa in bilden</string>
+    <string name="wallpaper_load_fail">Det gick inte att läsa in bilden som bakgrund</string>
+    <string name="wallpaper_accessibility_name">Bakgrund %1$d av %2$d</string>
+    <string name="announce_selection">%1$s har valts</string>
+    <string name="wallpaper_delete">Ta bort</string>
+    <string name="pick_image">Välj bild</string>
+    <string name="pick_wallpaper">Bakgrunder</string>
+    <string name="crop_wallpaper">Beskär bakgrund</string>
+</resources>

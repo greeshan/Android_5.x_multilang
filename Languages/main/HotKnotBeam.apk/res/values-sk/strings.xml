@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Spúšťa sa prijímanie...</string>
+    <string name="notification_group_title">Prijímajú sa %d súbory...</string>
+    <string name="notification_download_done">Dotykom zobrazte podrobnosti</string>
+    <string name="notification_group_received">Prijatých bolo %d súborov</string>
+    <string name="notification_received">Súbory boli úspešne prijaté</string>
+    <string name="notification_download_failure">Nepodarilo sa prijať z dôvodu %s</string>
+    <string name="notification_download_cancel">Prijímanie je zrušené</string>
+    <string name="notification_group_received_failed">Nepodarilo sa odoslať %d súborov</string>
+    <string name="notification_group_received_partial_failed" formatted="false">Nepodarilo sa prijať %d súborov, prijatých bolo %d súborov</string>
+    <string name="download_no_file">Tento súbor neexistuje</string>
+    <string name="notification_sending">Spúšťa sa odosielanie...</string>
+    <string name="notification_group_upload_title">Odosiela sa %d súborov...</string>
+    <string name="notification_group_sent">Odoslaných je %dsúborov</string>
+    <string name="notification_sent">Úspešne odoslané</string>
+    <string name="notification_upload_failed">Nepodarilo sa odoslať z dôvodu %s</string>
+    <string name="notification_upload_cancel">Odosielanie je zrušené</string>
+    <string name="notification_group_sent_failed">Nepodarilo sa odoslať %d súborov</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">Nepodarilo sa odoslať %d súborov, Odoslaných je %d súborov</string>
+    <string name="low_storage">v pamäti je málo miesta</string>
+    <string name="connect_failure">Problém s pripojením</string>
+    <string name="unknown_error">Neznáma chyba</string>
+    <string name="share_label">Technológia HotKnot Share</string>
+    <string name="rx_ui_image_status">Obraz sa prijíma zo %s</string>
+    <string name="rx_group_ui_image_status">Prijíma sa %1$d / %2$d obrazov zo %3$s</string>
+    <string name="rx_ui_video_status">Video sa prijíma zo %s</string>
+    <string name="rx_group_ui_video_status">Prijíma sa %1$d / %2$d video súborov zo %3$s</string>
+    <string name="rx_ui_status">Súbor sa prijíma zo %s</string>
+    <string name="rx_group_ui_status">Prijíma sa %1$d / %2$d súborov zo %3$s</string>
+    <string name="rx_ui_music_status">Hudobný súbor sa prijíma zo %s</string>
+    <string name="rx_group_ui_music_status">Prijíma sa %1$d / %2$d hudobných súborov zo %3$s</string>
+    <string name="rx_ui_failed_status">Prijímanie nie je dokončené</string>
+</resources>

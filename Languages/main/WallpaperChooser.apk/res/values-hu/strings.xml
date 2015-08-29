@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Háttérkép beállítása</string>
+    <string name="image_load_fail">A kép betöltése nem sikerült</string>
+    <string name="wallpaper_load_fail">A kép betöltése háttérképként nem sikerült</string>
+    <string name="wallpaper_accessibility_name">%1$d/%2$d. háttérkép</string>
+    <string name="announce_selection">%1$s kiválasztva</string>
+    <string name="wallpaper_delete">Törlés</string>
+    <string name="pick_image">Kép kiválasztása</string>
+    <string name="pick_wallpaper">Háttérképek</string>
+    <string name="crop_wallpaper">Háttérkép körbevágása</string>
+</resources>

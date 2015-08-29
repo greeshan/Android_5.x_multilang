@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d երգ</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d երգ՝ %1$d-ից</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d ալբոմ</item>
+        <item quantity="one">1 ալբոմ</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">Ջնջվել է %dերգ:</item>
+        <item quantity="one">Ջնջվել է 1 երգ:</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Նվագացուցակում հավելվեց %d երգ:</item>
+        <item quantity="one">Նվագացուցակում հավելվեց 1 երգ</item>
+    </plurals>
+</resources>

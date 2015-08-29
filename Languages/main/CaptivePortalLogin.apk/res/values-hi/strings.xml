@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">इस नेटवर्क का उपयोग जैसा है वैसा ही करें</string>
+    <string name="action_do_not_use_network">इस नेटवर्क का उपयोग न करें</string>
+    <string name="action_bar_label">नेटवर्क में प्रवेश करें</string>
+</resources>

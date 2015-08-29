@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴ ေရြးခ်ယ္သည့္အရာ</string>
+    <string name="live_wallpaper_picker_title">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴ ေရြးခ်ယ္ပါ</string>
+    <string name="live_wallpaper_picker_label">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴမ်ား</string>
+    <string name="live_wallpaper_preview_title">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴကို ႀကိဳၾကည့္ျခင္း</string>
+    <string name="configure_wallpaper">အဆင္အျပင္မ်ား...</string>
+    <string name="wallpaper_instructions">ေဝါလ္ေပပါကို သတ္မွတ္ပါ</string>
+    <string name="live_wallpaper_empty">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴမ်ား မရွိပါ။</string>
+    <string name="set_live_wallpaper">ေဝါလ္ေပပါကို သတ္မွတ္ပါ</string>
+    <string name="wallpaper_title_and_author">%1$s အေျမႇာက္ %2$s</string>
+    <string name="live_wallpaper_loading">သက္ဝင္လႈပ္ရွားမႈ ရွိေသာ ေနာက္ခံစကၠဴကို တင္ပို႔ေနသည္...</string>
+    <string name="wallpaper_cancel">မလုပ္ပါ</string>
+</resources>

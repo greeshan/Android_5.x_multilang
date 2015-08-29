@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM պաշտպանված բովանդակության պահեստավորում</string>
+    <string name="permlab_accessDrm">Մատչել DRM բովանդակությանը:</string>
+    <string name="permdesc_accessDrm">Թույլատրել աշխատածրագրին մատչել DRM պաշտպանված բովանդակությանը:</string>
+    <string name="permlab_installDrm">Տեղադրել DRM բովանդակություն:</string>
+    <string name="permdesc_installDrm">Թույլատրել աշխատածրագրին տեղադրել DRM պաշտպանված բովանդակությունը:</string>
+</resources>

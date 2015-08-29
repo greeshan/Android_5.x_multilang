@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Duvar kağıdını ayarla</string>
+    <string name="image_load_fail">Resim yüklenemedi</string>
+    <string name="wallpaper_load_fail">Resim duvar kağıdı olarak yüklenemedi</string>
+    <string name="wallpaper_accessibility_name">%2$d duvar kağıdı arasından duvar kağıdı %1$d</string>
+    <string name="announce_selection">%1$s seçildi</string>
+    <string name="wallpaper_delete">Sil</string>
+    <string name="pick_image">Resim seç</string>
+    <string name="pick_wallpaper">Duvar kağıtları</string>
+    <string name="crop_wallpaper">Duvar kağıdını kırp</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Inicia la recepció...</string>
+    <string name="notification_group_title">Rebent %d fitxers...</string>
+    <string name="notification_download_done">Toca per veure’n els detalls</string>
+    <string name="notification_group_received">%d fitxers rebuts</string>
+    <string name="notification_received">Rebut correctament</string>
+    <string name="notification_download_failure">No s’ha pogut rebre degut a %s</string>
+    <string name="notification_download_cancel">Recepció cancel·lada</string>
+    <string name="notification_group_received_failed">%d fitxers han fallat</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d fitxers han fallat, %d fitxers rebuts</string>
+    <string name="download_no_file">El fitxer no existeix</string>
+    <string name="notification_sending">Inici de l’enviament...</string>
+    <string name="notification_group_upload_title">Enviant %d fitxers...</string>
+    <string name="notification_group_sent">%d fitxers enviats</string>
+    <string name="notification_sent">S’ha enviat correctament</string>
+    <string name="notification_upload_failed">No s’ha pogut enviar degut a %s</string>
+    <string name="notification_upload_cancel">Enviament cancel·lat</string>
+    <string name="notification_group_sent_failed">%d fitxers han fallat</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d fitxers han fallat, %d fitxers enviats</string>
+    <string name="low_storage">emmagatzematge baix</string>
+    <string name="connect_failure">Problema de connexió</string>
+    <string name="unknown_error">Errada desconeguda</string>
+    <string name="share_label">HotKnot Share</string>
+    <string name="rx_ui_image_status">Rebent imatge de %s</string>
+    <string name="rx_group_ui_image_status">S’estan rebent %1$d / %2$d imatges de %3$s</string>
+    <string name="rx_ui_video_status">Rebent vídeo de %s</string>
+    <string name="rx_group_ui_video_status">S’estan rebent %1$d / %2$d vídeos de %3$s</string>
+    <string name="rx_ui_status">Rebent fitxer de %s</string>
+    <string name="rx_group_ui_status">S’estan rebent %1$d / %2$d fitxers de %3$s</string>
+    <string name="rx_ui_music_status">Rebent música de %s</string>
+    <string name="rx_group_ui_music_status">S’està rebent %1$d / %2$d música de %3$s</string>
+    <string name="rx_ui_failed_status">La recepció no ha acabat</string>
+    <string name="notification_download_failed">Baixada incorrecta.</string>
+    <string name="download_no_application_title">No es pot obrir el fitxer</string>
+    <string name="notification_download_complete">Baixada completa.</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="incoming_connection">"S'està connectant..."</string>
+    <string name="outgoing_connection">"S'està connectant..."</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

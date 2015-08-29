@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s Versuche eine VPN-Verbindung aufzubauen</string>
+    <string name="warning">Wenn Sie Fortfahren, erlauben Sie der Anwendung in jeden Netzwerkverkehr einzugreifen. &lt;b>Akzeptieren Sie dies NICHT, wenn Sie der Anwendung nicht trauen.&lt;/b> Anderenfalls können Ihre Daten von einer bösartigen Software missbraucht werden.</string>
+    <string name="legacy_title">VPN verbunden</string>
+    <string name="configure">Konfigurieren</string>
+    <string name="disconnect">Trennen</string>
+    <string name="session">Sitzung</string>
+    <string name="duration">Dauer:</string>
+    <string name="data_transmitted">Gesendet:</string>
+    <string name="data_received">Empfangen:</string>
+    <string name="data_value_format">%1$s Bytes / %2$s Pakete</string>
+    <string name="accept">Ich vertraue dieser Anwendung.</string>
+</resources>

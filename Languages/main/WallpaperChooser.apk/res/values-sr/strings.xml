@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Подеси позадину</string>
+    <string name="image_load_fail">Није могуће учитати слику</string>
+    <string name="wallpaper_load_fail">Није могуће учитати слику као позадину</string>
+    <string name="wallpaper_accessibility_name">Позадина %1$d од %2$d</string>
+    <string name="announce_selection">Изабрана је %1$s</string>
+    <string name="wallpaper_delete">Избриши</string>
+    <string name="pick_image">Изабери слику</string>
+    <string name="pick_wallpaper">Позадине</string>
+    <string name="crop_wallpaper">Опсеци позадину</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>Praegune leht</item>
+        <item>Tühi leht</item>
+        <item>Vaikeleht</item>
+        <item>Enim külastatavad saidid</item>
+        <item>Saidis liikumine</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="predefined_websites_default_optr">
+        <item>Hao123</item>
+        <item>http://www.hao123.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>Google</item>
+        <item>http://www.google.cn/</item>
+        <item>site_navigation_default_default2</item>
+        <item>Baidu</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>Sina</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>Sohu</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>Yahoo</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mitte kunagi</item>
+        <item>Ainult WiFi puhul</item>
+        <item>Alati</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Alati</item>
+        <item>Nõudluses</item>
+        <item>Väljas</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Praegune leht</item>
+        <item>Tühi leht</item>
+        <item>Vaikeleht</item>
+        <item>Enim külastatavad saidid</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Pisike</item>
+        <item>Väike</item>
+        <item>Tavaline</item>
+        <item>Suur</item>
+        <item>Väga suur</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Kaugele</item>
+        <item>Keskmine</item>
+        <item>Sule</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Ladina-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Hiina keel (GBK)</item>
+        <item>Hiina keel (Big5)</item>
+        <item>Jaapani keel (ISO-2022-JP)</item>
+        <item>Jaapani keel (Shift_JIS)</item>
+        <item>Jaapani keel (EUC-JP)</item>
+        <item>Korea keel (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Mitte kunagi</item>
+        <item>Ainult WiFi puhul</item>
+        <item>Alati</item>
+    </string-array>
+</resources>

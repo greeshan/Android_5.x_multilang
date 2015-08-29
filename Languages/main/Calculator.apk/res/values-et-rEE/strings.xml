@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Saadaval on kuni 100 märki</string>
+    <string name="max_digits_alert">Numbrite maksimumarv (10) on ületatud</string>
+    <string name="app_name">Kalkulaator</string>
+    <string name="error_nan">Pole number</string>
+    <string name="error_syntax">Viga</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">tüh</string>
+    <string name="del">kus</string>
+    <string name="desc_const_e">Euleri arv</string>
+    <string name="desc_const_pi">pii</string>
+    <string name="desc_dec_point">punkt</string>
+    <string name="desc_lparen">vasaksulg</string>
+    <string name="desc_rparen">paremsulg</string>
+    <string name="desc_fun_cos">koosinus</string>
+    <string name="desc_fun_ln">naturaallogaritm</string>
+    <string name="desc_fun_log">logaritm</string>
+    <string name="desc_fun_sin">siinus</string>
+    <string name="desc_fun_tan">tangens</string>
+    <string name="desc_op_add">pluss</string>
+    <string name="desc_op_div">jaga</string>
+    <string name="desc_op_fact">faktoriaal</string>
+    <string name="desc_op_mul">korruta</string>
+    <string name="desc_op_pow">aste</string>
+    <string name="desc_op_sqrt">ruutjuur</string>
+    <string name="desc_op_sub">miinus</string>
+    <string name="desc_clr">tühjenda</string>
+    <string name="desc_del">kustuta</string>
+    <string name="desc_eq">võrdub</string>
+</resources>

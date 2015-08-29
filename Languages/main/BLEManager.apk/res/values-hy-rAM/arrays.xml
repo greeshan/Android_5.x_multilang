@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Ընտրել սկզբնադիր պատկերներից</item>
+        <item>Լուսանկարել</item>
+        <item>Ընտրել պատկերասրահից</item>
+    </string-array>
+</resources>

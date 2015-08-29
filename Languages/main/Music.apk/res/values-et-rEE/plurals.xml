@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d laulu</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">Laule: %2$d/%1$d</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albumit</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d laulu kustutati.</item>
+        <item quantity="one">1 laul kustutati.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d laulu esitusloendisse lisatud.</item>
+        <item quantity="one">1 laul esitusloendisse lisatud.</item>
+    </plurals>
+</resources>

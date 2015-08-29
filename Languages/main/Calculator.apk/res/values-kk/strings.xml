@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">100 таңбаға дейін қолжетімді</string>
+    <string name="max_digits_alert">Таңбалардың максималды санынан (10) асты</string>
+</resources>

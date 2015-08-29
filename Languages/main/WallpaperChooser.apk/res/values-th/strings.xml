@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">ตั้งวอลเปเปอร์</string>
+    <string name="image_load_fail">ไม่สามารถโหลดรูปภาพ</string>
+    <string name="wallpaper_load_fail">ไม่สามารถโหลดรูปภาพเป็นวอลเปเปอร์</string>
+    <string name="wallpaper_accessibility_name">วอลเปเปอร์ %1$d จาก %2$d</string>
+    <string name="announce_selection">เลือก %1$s แล้ว</string>
+    <string name="wallpaper_delete">ลบ</string>
+    <string name="pick_image">เลือกรูปภาพ</string>
+    <string name="pick_wallpaper">วอลเปเปอร์</string>
+    <string name="crop_wallpaper">ครอบตัดวอลเปเปอร์</string>
+</resources>

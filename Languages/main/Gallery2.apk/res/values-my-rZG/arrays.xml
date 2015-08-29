@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>ဟို႔စ္တ္ အကြက္ကို အလြတ္မထားႏိုင္ပါ</item>
+        <item>ပို႔တ္အကြက္ အလြတ္မထားႏိုင္ပါ</item>
+        <item>မမွန္ေသာ ဟို႔စ္တ္</item>
+        <item>မမွန္ေသာ ပို႔တ္</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>မူလပံုစံ</item>
+        <item>မိုႏို</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+</resources>

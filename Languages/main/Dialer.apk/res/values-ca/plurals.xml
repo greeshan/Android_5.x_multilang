@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d registres de trucades</item>
+        <item quantity="one">1 registre de trucades</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d missatges de veu</item>
+        <item quantity="one">Missatge de veu</item>
+    </plurals>
+</resources>

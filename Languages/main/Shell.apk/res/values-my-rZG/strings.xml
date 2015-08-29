@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">ခၽြတ္ယြင္းမႈအစီရင္ခံစာ ရယူၿပီး</string>
+    <string name="bugreport_finished_text">သင့္ခၽြတ္ယြင္းခ်က္အစီရင္ခံစာကို ေဝမွ်ရန္ တို႔ထိပါ</string>
+    <string name="bugreport_confirm">ခၽြတ္ယြင္းမႈအစီရင္ခံစာမ်ားတြင္ ကိုယ္ေရးကိုယ္တာႏွင့္ ကိုယ္ပိုင္သီးသန္႔ သတင္းအခ်က္အလက္မ်ားအပါအဝင္ စနစ္၏မ်ားစြာေသာမွတ္တမ္းဖိုင္မ်ားမွ ေဒတာမ်ားပါဝင္သည္။ သင္ယံုၾကည္ စိတ္ခ်ရေသာ ပ႐ိုဂရမ္မ်ားႏွင့္ လူမ်ားႏွင့္သာ ခၽြတ္ယြင္းမႈ အစီရင္ခံစာမ်ားကို ေဝမွ်ပါ။</string>
+    <string name="bugreport_confirm_repeat">ဤမက္ေဆ့ခ်္ကို ေနာက္တစ္ႀကိမ္တြင္ ျပပါ</string>
+</resources>

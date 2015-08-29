@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Chọn từ ảnh mặc định</item>
+        <item>Chụp ảnh</item>
+        <item>Chọn từ bộ sưu tập</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Tämä virta päälle on asetettu alle 1 minuutiksi tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %1$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %2$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %1$s ja %2$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %3$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %1$s ja %3$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %2$s ja %3$s tästä hetkestä.</item>
+        <item>Tämä virta päälle on asetettu %1$s, %2$s ja %3$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu alle 1 minuutiksi tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %1$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %2$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %1$s ja %2$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %3$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %1$s ja %3$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %2$s ja %3$s tästä hetkestä.</item>
+        <item>Tämä virta pois on asetettu %1$s, %2$s ja %3$s tästä hetkestä.</item>
+    </string-array>
+</resources>

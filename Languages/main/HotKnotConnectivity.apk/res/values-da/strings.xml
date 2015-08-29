@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Start modtagelse...</string>
+    <string name="notification_group_title">Modtager %d filer...</string>
+    <string name="notification_download_done">Tryk for at vise detaljer</string>
+    <string name="notification_group_received">%d filer modtaget</string>
+    <string name="notification_received">Modtagelse udført</string>
+    <string name="notification_download_failure">Kunne ikke modtage på grund af %s</string>
+    <string name="notification_download_cancel">Modtagelse annulleret</string>
+    <string name="notification_group_received_failed">%d filer mislykkedes</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d filer mislykkedes, %d filer modtaget</string>
+    <string name="download_no_file">Filen findes ikke</string>
+    <string name="notification_sending">Start afsendelse...</string>
+    <string name="notification_group_upload_title">Sender %d filer...</string>
+    <string name="notification_group_sent">%d filer sendt</string>
+    <string name="notification_sent">Afsendelse udført</string>
+    <string name="notification_upload_failed">Kunne ikke sende på grund af %s</string>
+    <string name="notification_upload_cancel">Afsendelse annulleret</string>
+    <string name="notification_group_sent_failed">%d filer mislykkedes</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d filer mislykkedes, %d filer sendt</string>
+    <string name="low_storage">lav hukommelse</string>
+    <string name="connect_failure">Forbindelsesproblem</string>
+    <string name="unknown_error">Ukendt fejl</string>
+    <string name="share_label">HotKnot Share</string>
+    <string name="rx_ui_image_status">Modtager billede fra %s</string>
+    <string name="rx_group_ui_image_status">Modtager %1$d / %2$d billeder fra %3$s</string>
+    <string name="rx_ui_video_status">Modtager video fra %s</string>
+    <string name="rx_group_ui_video_status">Modtager %1$d / %2$d videoer fra %3$s</string>
+    <string name="rx_ui_status">Modtager fil fra %s</string>
+    <string name="rx_group_ui_status">Modtager %1$d / %2$d filer fra %3$s</string>
+    <string name="rx_ui_music_status">Modtager musikfiler fra %s</string>
+    <string name="rx_group_ui_music_status">Modtager %1$d / %2$d musikfiler fra %3$s</string>
+    <string name="rx_ui_failed_status">Modtagelse ikke afsluttet</string>
+    <string name="notification_download_failed">Downloaden mislykkedes.</string>
+    <string name="download_no_application_title">Filen kan ikke åbnes</string>
+    <string name="notification_download_complete">Downloaden er fuldført.</string>
+    <string name="cancel">Annuller</string>
+    <string name="incoming_connection">Opretter forbindelse...</string>
+    <string name="outgoing_connection">Opretter forbindelse...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

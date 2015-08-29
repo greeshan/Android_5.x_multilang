@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_download_failed">Не атрымалася спампаваць.</string>
+    <string name="download_no_application_title">Не атрымлiваецца адкрыць файл</string>
+    <string name="notification_download_complete">Спампаванне завершана</string>
+    <string name="cancel">Адмена</string>
+</resources>

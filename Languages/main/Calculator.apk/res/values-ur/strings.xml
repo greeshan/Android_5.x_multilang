@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">100 حروف تک دستیاب ہے</string>
+    <string name="max_digits_alert">اعداد کی زیادہ سے زیادہ تعداد (10) سے بڑھ گیا</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Anwendungsanbieter suchen</string>
+    <string name="search_label">Apps</string>
+    <string name="application_desc">Anwendung</string>
+    <string name="settings_description">Namen installierter Anwendungen</string>
+    <string name="search_empty">Keine Übereinstimmungen</string>
+</resources>

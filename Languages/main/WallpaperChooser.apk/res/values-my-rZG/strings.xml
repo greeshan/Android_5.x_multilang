@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">ေဝါလ္ေပပါကို သတ္မွတ္ပါ</string>
+    <string name="image_load_fail">ပံုကို မတင္ႏိုင္ခဲ့ပါ။</string>
+    <string name="wallpaper_load_fail">ပံုကို မတင္ႏိုင္ခဲ့ပါ။</string>
+    <string name="wallpaper_accessibility_name">ေနာက္ခံစကၠဴ %2$d ခုမွ %1$d ခု</string>
+    <string name="announce_selection">ေရြးထားေသာ %1$s</string>
+    <string name="wallpaper_delete">ဖ်က္ပါ</string>
+    <string name="pick_image">ပံုေရြးပါ</string>
+    <string name="pick_wallpaper">ေဝါလ္ေပပါမ်ား</string>
+    <string name="crop_wallpaper">ေနာက္ခံစကၠဴကို ညႇပ္ပါ</string>
+</resources>

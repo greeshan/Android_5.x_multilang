@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Iniciando recepción...</string>
+    <string name="notification_group_title">Recibiendo %d archivos...</string>
+    <string name="notification_download_done">Tocar para ver detalles</string>
+    <string name="notification_group_received">%d archivos recibidos</string>
+    <string name="notification_received">Recepción correcta</string>
+    <string name="notification_download_failure">No se pudo realizar la recepción debido a %s</string>
+    <string name="notification_download_cancel">Recepción cancelada</string>
+    <string name="notification_group_received_failed">Error en %d archivos</string>
+    <string name="notification_group_received_partial_failed" formatted="false">Error en %d archivos; %d archivos recibidos</string>
+    <string name="download_no_file">El archivo no existe.</string>
+    <string name="notification_sending">Iniciando envío...</string>
+    <string name="notification_group_upload_title">Enviando %d archivos...</string>
+    <string name="notification_group_sent">%d archivos enviados</string>
+    <string name="notification_sent">Envío correcto</string>
+    <string name="notification_upload_failed">No se pudo realizar el envío debido a %s</string>
+    <string name="notification_upload_cancel">Envío cancelado</string>
+    <string name="notification_group_sent_failed">Error en %d archivos</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">Error en %d archivos; %d archivos enviados</string>
+    <string name="low_storage">Almacenamiento bajo</string>
+    <string name="connect_failure">Error de conexión</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_label">Recurso compartido de HotKnot</string>
+    <string name="rx_ui_image_status">Recibiendo imagen desde %s</string>
+    <string name="rx_group_ui_image_status">Recibiendo %1$d / %2$d imágenes desde %3$s</string>
+    <string name="rx_ui_video_status">Recibiendo vídeo desde %s</string>
+    <string name="rx_group_ui_video_status">Recibiendo %1$d / %2$d vídeos desde %3$s</string>
+    <string name="rx_ui_status">Recibiendo archivo desde %s</string>
+    <string name="rx_group_ui_status">Recibiendo %1$d / %2$d archivos desde %3$s</string>
+    <string name="rx_ui_music_status">Recibiendo música desde %s</string>
+    <string name="rx_group_ui_music_status">Recibiendo %1$d / %2$d música desde %3$s</string>
+    <string name="rx_ui_failed_status">Recepción no finalizada</string>
+    <string name="notification_download_failed">Descarga incorrecta</string>
+    <string name="download_no_application_title">Error al abrir el archivo</string>
+    <string name="notification_download_complete">Descarga completada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mtk_notification_string">Tocar para ver configuración detallada</string>
+    <string name="incoming_connection">Conectando...</string>
+    <string name="outgoing_connection">Conectando...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

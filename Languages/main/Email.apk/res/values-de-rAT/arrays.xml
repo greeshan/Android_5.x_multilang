@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Antworten</item>
+        <item>Allen antworten</item>
+        <item>Weiterleiten</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Erfolgreich</item>
+        <item>Keine Verbindung</item>
+        <item>Kann mich nicht anmelden.</item>
+        <item>Sicherheitsfehler</item>
+        <item>Konnte nicht synchronisieren</item>
+        <item>Interner Fehler</item>
+        <item>Server-Fehler</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Neuer</item>
+        <item>Älter</item>
+        <item>Unterhaltungsliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Neuere Unterhaltung nach Löschen anzeigen</item>
+        <item>Ältere Unterhaltung nach Löschen anzeigen</item>
+        <item>Unterhaltungsliste nach Löschen anzeigen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archivieren</item>
+        <item>Löschen</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archivieren</item>
+        <item>Löschen</item>
+    </string-array>
+    <string-array name="reply_choices">
+        <item>@string/reply_choice_yes</item>
+        <item>@string/reply_choice_no</item>
+        <item>@string/reply_choice_ok</item>
+        <item>@string/reply_choice_hehe</item>
+        <item>@string/reply_choice_thanks</item>
+        <item>@string/reply_choice_i_agree</item>
+        <item>@string/reply_choice_nice</item>
+        <item>@string/reply_on_my_way</item>
+        <item>@string/reply_choice_later</item>
+        <item>@string/reply_choice_smiling_face</item>
+        <item>@string/reply_choice_frowning_face</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Nachricht-Aktionen immer oben auf dem Bildschirm anzeigen</item>
+        <item>Nachricht-Aktionen nur oben auf dem Bildschirm anzeigen, wenn sie auf Hochformat gedreht wurden</item>
+        <item>Nachricht-Aktionen nicht außerhalb des Nachrichtenkopfs anzeigen</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Immer anzeigen</item>
+        <item>Nur im Hochformat anzeigen</item>
+        <item>Nicht anzeigen</item>
+    </string-array>
+</resources>

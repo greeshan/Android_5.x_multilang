@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Ниједан</item>
+        <item>Мала соба</item>
+        <item>Средња соба</item>
+        <item>Велика соба</item>
+        <item>Средња дворана</item>
+        <item>Велика дворана</item>
+        <item>Плочасти реверб</item>
+    </string-array>
+</resources>

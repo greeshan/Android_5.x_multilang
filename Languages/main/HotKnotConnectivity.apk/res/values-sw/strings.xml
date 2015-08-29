@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_download_failed">Kupakua hakujafaulu.</string>
+    <string name="download_no_application_title">Haiwezi kufungua faili</string>
+    <string name="notification_download_complete">Upakuaji umekamilika</string>
+    <string name="cancel">Ghairi</string>
+</resources>

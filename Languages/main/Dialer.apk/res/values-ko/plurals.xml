@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d개의 통화 기록</item>
+        <item quantity="one">1개의 통화 기록</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d개를 찾았습니다.</item>
+        <item quantity="one">1개를 찾았습니다.</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d개의 음성사서함</item>
+        <item quantity="one">음성사서함</item>
+    </plurals>
+</resources>

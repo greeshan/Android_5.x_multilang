@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">မသိေသာ</string>
+    <string name="sharedUserLabel">အန္းဒ႐ိုက္ အဓိက လုပ္ငန္းသံုးပ႐ိုဂရမ္မ်ား</string>
+    <string name="app_label">အဆက္အသြယ္မ်ား သိုေလွာင္ျခင္း</string>
+    <string name="provider_label">လိပ္စာမ်ား</string>
+    <string name="upgrade_msg">အဆက္အသြယ္မ်ား ေဒတာေဘ့(စ္)ကို အသစ္ျပင္ဆင္မႈ လုပ္ေနသည္။</string>
+    <string name="upgrade_out_of_memory_notification_ticker">အဆက္အသြယ္မ်ား ကို အသစ္ျပင္ဆင္မႈ လုပ္ျခင္းသည္ မမ္မိုရီ ပိုလိုသည္။</string>
+    <string name="upgrade_out_of_memory_notification_title">အဆက္အသြယ္မ်ား အတြက္ သိုေလွာင္ျခင္းကို အသစ္ ျပင္ဆင္မႈ လုပ္ေနသည္</string>
+    <string name="upgrade_out_of_memory_notification_text">အသစ္ျပင္ဆင္မႈ လုပ္ျခင္းကို ၿပီးရန္ ထိပါ။</string>
+    <string name="default_directory">လိပ္စာမ်ား</string>
+    <string name="local_invisible_directory">အျခား</string>
+    <string name="voicemail_from_column">%s ထံမွ အသံေမးလ္အသစ္ ရရွိသည္။ ၎င္းတို႔ကို ယခုရယူမလား။</string>
+    <string name="debug_dump_title">အဆက္အသြယ္မ်ား ေဒတာေဘ့စ္ကို မိတၱဴကူးပါ</string>
+    <string name="debug_dump_database_message">သင္သည္ ၁) အဆက္အသြယ္မ်ား အားလံုးႏွင့္ဆိုင္ေသာ သတင္း အခ်က္အလက္မ်ားႏွင့္ ေခၚဆိုမႈမွတ္တမ္း အားလံုး ပါဝင္ေသာ သင္၏ ေဒတာ ေဘ့စ္မိတၱဴကို အတြင္းသိမ္းဆည္းမႈသို႔ ကူးယူေတာ့မည္ ၂) ၎ကို အီးေမးလ္ ပို႔ေတာ့မည္။ သင္၎တို႔ကို ကိရိယာသို႔ ေအာင္ျမင္စြာ မိတၱဴကူးၿပီး သို႔မဟုတ္ အီးေမးလ္ လက္ခံရရွိျပီးသည္ႏွင့္ တၿပိဳင္နက္ မိတၱဴကို ဖ်က္ရန္ သတိရပါ။</string>
+    <string name="debug_dump_delete_button">ယခုဖ်က္ရန္</string>
+    <string name="debug_dump_start_button">စတင္ပါ</string>
+    <string name="debug_dump_email_sender_picker">သင့္ဖိုင္ကို ပို႔ရန္ ပ႐ိုဂရမ္တစ္ခုေရြးပါ</string>
+    <string name="debug_dump_email_subject">အဆက္အသြယ္မ်ား ေဒတာေဘ့စ္ကို ပူးတြဲျပီးျပီ</string>
+    <string name="debug_dump_email_body">ပူးတြဲသည္ ကြ်ႏု္ပ္ အဆက္အသြယ္မ်ား၏ သတင္း အခ်က္အလက္မ်ား အားလံုးပါဝင္ေသာ အဆက္အသြယ္မ်ား ေဒတာေဘ့စ္ျဖစ္သည္။ ဂ႐ုတစိုက္ကိုင္တြယ္ပါ။</string>
+    <string name="read_write_all_voicemail_label">အသံေမး(လ္)မ်ား အားလံုးကို ဆက္သြယ္ရယူျခင္း</string>
+    <string name="read_write_all_voicemail_description">ဤစက္မွ ဆက္သြယ္ရ ယူႏိုင္ေသာ အသံေမး(လ္) မ်ားအားလံုးကို သိမ္းၿပီး ျပန္လည္ရယူရန္ လုပ္ငန္းသံုး ပ႐ိုဂရမ္ကို ခြင့္ျပဳသည္။</string>
+</resources>

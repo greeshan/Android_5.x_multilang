@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Начало на получаване…</string>
+    <string name="notification_group_title">Получаване на %d файла…</string>
+    <string name="notification_download_done">Пипнете за показване подробности</string>
+    <string name="notification_group_received">Получени %d файла</string>
+    <string name="notification_received">Успешно получаване</string>
+    <string name="notification_download_failure">Неуспешно получаване поради %s</string>
+    <string name="notification_download_cancel">Получаването отказано</string>
+    <string name="notification_group_received_failed">%d неуспешни файла</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d неуспешни файла, %d получени файла</string>
+    <string name="download_no_file">Файлът не съществува</string>
+    <string name="notification_sending">Начало на изпращане…</string>
+    <string name="notification_group_upload_title">Изпращане на %d файла…</string>
+    <string name="notification_group_sent">%d файла изпратени</string>
+    <string name="notification_sent">Успешно изпращане</string>
+    <string name="notification_upload_failed">Неуспешно изпращане поради %s</string>
+    <string name="notification_upload_cancel">Изпращането отказано</string>
+    <string name="notification_group_sent_failed">%d неуспешни файла</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d неуспешни файла, %d изпратени файла</string>
+    <string name="low_storage">недостатъчно памет</string>
+    <string name="connect_failure">Проблем с връзката</string>
+    <string name="unknown_error">Неизвестна грешка</string>
+    <string name="share_label">Споделяне на HotKnot</string>
+    <string name="rx_ui_image_status">Получаване картина от %s</string>
+    <string name="rx_group_ui_image_status">Получаване на %1$d / %2$d картини от %3$s</string>
+    <string name="rx_ui_video_status">Получаване видео от %s</string>
+    <string name="rx_group_ui_video_status">Получаване на %1$d / %2$d видеоклипа от %3$s</string>
+    <string name="rx_ui_status">Получаване на файл от %s</string>
+    <string name="rx_group_ui_status">Получаване на %1$d / %2$d файла от %3$s</string>
+    <string name="rx_ui_music_status">Получаване на музика от %s</string>
+    <string name="rx_group_ui_music_status">Получаване на %1$d / %2$d музикални записа от %3$s</string>
+    <string name="rx_ui_failed_status">Недовършено получаване</string>
+</resources>

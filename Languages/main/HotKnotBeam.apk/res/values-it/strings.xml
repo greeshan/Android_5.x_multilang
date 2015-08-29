@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Avvio ricezione...</string>
+    <string name="notification_group_title">Ricezione di %d file...</string>
+    <string name="notification_download_done">Toccare per visualizzare i dettagli</string>
+    <string name="notification_group_received">%d file ricevuti</string>
+    <string name="notification_received">Ricevuto correttamente</string>
+    <string name="notification_download_failure">Ricezione non riuscita a causa di %s</string>
+    <string name="notification_download_cancel">Ricezione annullata</string>
+    <string name="notification_group_received_failed">%d file non riusciti</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d file non riusciti, %d file ricevuti</string>
+    <string name="download_no_file">Il file non esiste</string>
+    <string name="notification_sending">Avvio invio...</string>
+    <string name="notification_group_upload_title">Invio di %d file...</string>
+    <string name="notification_group_sent">%d file inviati</string>
+    <string name="notification_sent">Inviato correttamente</string>
+    <string name="notification_upload_failed">Invio non riuscito a causa di %s</string>
+    <string name="notification_upload_cancel">Invio annullato</string>
+    <string name="notification_group_sent_failed">%d file non riusciti</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d file non riusciti, %d file inviati</string>
+    <string name="low_storage">Spazio d’archiviazione ridotto</string>
+    <string name="connect_failure">Problema di connessione</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_label">Condivisione HotKnot</string>
+    <string name="rx_ui_image_status">Ricezione immagine da %s</string>
+    <string name="rx_group_ui_image_status">Ricezione di %1$d / %2$d immagini da %3$s</string>
+    <string name="rx_ui_video_status">Ricezione video da %s</string>
+    <string name="rx_group_ui_video_status">Ricezione di %1$d / %2$d video da %3$s</string>
+    <string name="rx_ui_status">Ricezione file da %s</string>
+    <string name="rx_group_ui_status">Ricezione di %1$d / %2$d file da %3$s</string>
+    <string name="rx_ui_music_status">Ricezione brani musicali da %s</string>
+    <string name="rx_group_ui_music_status">Ricezione di %1$d / %2$d brani musicali da %3$s</string>
+    <string name="rx_ui_failed_status">Ricezione non finita</string>
+</resources>

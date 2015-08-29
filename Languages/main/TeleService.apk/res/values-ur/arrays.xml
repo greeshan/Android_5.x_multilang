@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (خودکار وضع)</item>
+        <item>3G صرف</item>
+        <item>2G صرف</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Жоқ</item>
+        <item>Шағын бөлме</item>
+        <item>Орташа бөлме</item>
+        <item>Үлкен бөлме</item>
+        <item>Орташа зал</item>
+        <item>Үлкен зал</item>
+        <item>Жалпақ ревербератор</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Valitse oletuskuvista</item>
+        <item>Ota kuva</item>
+        <item>Valitse galleriasta</item>
+    </string-array>
+</resources>

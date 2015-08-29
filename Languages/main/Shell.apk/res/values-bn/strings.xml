@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">শেল</string>
+    <string name="bugreport_finished_title">বাগ রিপোর্ট ধরা হয়েছে</string>
+    <string name="bugreport_finished_text">আপনার বাগ রিপোর্ট শেয়ার করতে স্পর্শ করুন</string>
+    <string name="bugreport_confirm">ব্যক্তিগত ও গোপনীয় তথ্যসহ সিস্টেমের বিভিন্ন লগ ফাইল থেকে বাগ রিপোর্ট ডাটা গ্রহণ করেছে। কেবল এমন অ্যাপ ও মানুষের সাথে আপনি বাগ রিপোর্ট শেয়ার করুন যাদেরকে আপনি বিশ্বাস করেন।</string>
+    <string name="bugreport_confirm_repeat">পরের বার এই বার্তাটি দেখাবেন</string>
+</resources>

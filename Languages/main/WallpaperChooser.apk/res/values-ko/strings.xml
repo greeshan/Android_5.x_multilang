@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">배경화면 설정</string>
+    <string name="image_load_fail">이미지를 로드할 수 없습니다.</string>
+    <string name="wallpaper_load_fail">이미지를 배경화면으로 로드할 수 없습니다.</string>
+    <string name="wallpaper_accessibility_name">배경화면 %1$d/%2$d</string>
+    <string name="announce_selection">%1$s 선택함</string>
+    <string name="wallpaper_delete">삭제</string>
+    <string name="pick_image">이미지 선택</string>
+    <string name="pick_wallpaper">배경화면</string>
+    <string name="crop_wallpaper">배경화면 잘라내기</string>
+</resources>

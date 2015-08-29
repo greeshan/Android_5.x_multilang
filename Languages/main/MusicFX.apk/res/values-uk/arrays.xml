@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Немає</item>
+        <item>Мала кімната</item>
+        <item>Середня кімната</item>
+        <item>Велика кімната</item>
+        <item>Середній зал</item>
+        <item>Великий зал</item>
+        <item>Пласка луна</item>
+    </string-array>
+</resources>

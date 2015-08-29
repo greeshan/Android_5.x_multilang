@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 апта</item>
+        <item>2 апта</item>
+        <item>3 апта</item>
+        <item>4 апта</item>
+        <item>5 апта</item>
+        <item>6 апта</item>
+        <item>7 апта</item>
+        <item>8 апта</item>
+        <item>9 апта</item>
+        <item>10 апта</item>
+        <item>11 апта</item>
+        <item>12 апта</item>
+    </string-array>
+</resources>

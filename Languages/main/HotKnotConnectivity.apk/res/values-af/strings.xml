@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_download_failed">Aflaai onsuksesvol.</string>
+    <string name="download_no_application_title">Kan nie lêer oopmaak nie</string>
+    <string name="notification_download_complete">Aflaai voltooi.</string>
+    <string name="cancel">Kanselleer</string>
+</resources>

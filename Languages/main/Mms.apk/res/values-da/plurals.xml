@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">sender %d læserapporteringer</item>
+        <item quantity="one">sender %d læserapportering</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d valgt</item>
+        <item quantity="one">%d valgt</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s samtaler blev slettet</item>
+        <item quantity="one">En samtale blev slettet</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s samtaler slettes</item>
+        <item quantity="one">Én samtale slettes</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d ulæste meddelelser.</item>
+        <item quantity="one">%d ulæst meddelelse.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+        <item quantity="few">%s sek.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultater for \"%2$s\"</item>
+        <item quantity="one">%1$s resultat for \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ %1$s andre beskeder</item>
+        <item quantity="one">+ %1$s anden besked</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personer</item>
+    </plurals>
+</resources>

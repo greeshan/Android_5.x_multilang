@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">ڈاؤن لوڈ</string>
+    <string name="cancel">منسوخ</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="download_file_already_exist">یہ فائل پہلے سے موجود ہے،اوررائٹ کریں یا نہیں؟</string>
+    <string name="notification_download_complete_op01">فائل محفوظ ہوگئی در:</string>
+    <string name="download_error_insufficient_memory">ناکافی میموری</string>
+    <string name="download_error_invalid_descriptor">غلط بیان کار</string>
+    <string name="download_error_invalid_ddversion">غلط DDVersion</string>
+    <string name="download_error_attribute_mismatch">خصوصیات نہيں ملی</string>
+    <string name="download_paused">توقف کردہ</string>
+    <string name="app_label">ڈاؤن لوڈ منیجر</string>
+    <string name="permlab_downloadManager">ڈاؤن لوڈ منیجر تک رسائی حاصل کریں۔</string>
+    <string name="permdesc_downloadManager">اطلاق کو ڈاؤن لوڈ منیجر تک رسائی اور اسے فائلوں کو ڈاؤن لوڈ کرنے کیلئے استعمال کرنے کی اجازت دیں۔ مشتبہ اطلاقات اس کا استعمال ڈاؤن لوڈز میں رکاوٹ ڈالنے اور نجی معلومات تک رسائی کیلئے کرسکتے ہیں۔</string>
+    <string name="permlab_downloadManagerAdvanced">ایڈوانسڈ ڈاؤن لوڈ منیجر کے اعمال۔</string>
+    <string name="permdesc_downloadManagerAdvanced">اپلیکیشن کو ڈاؤن لوڈ مینیجر کے ترقی یافتہ فنکشنزتک رسائی کرنے دیں۔ بدنیت اطلاقات اس کا استعمال ڈاؤن لوڈز کو نقصان پہنچانے اور نجی معلومات تک رسائی کے لیے استعمال کرسکتے ہیں۔</string>
+    <string name="permlab_downloadCompletedIntent">ڈاؤن لوڈ کی اطلاعات بھیجیں۔</string>
+    <string name="permdesc_downloadCompletedIntent">اطلاق کو مکمل کردہ ڈاؤن لوڈز کی اطلاعات بھیجنے کی اجازت دیں۔ مشتبہ اطلاقات اس کا استعمال ان دیگر اطلاقات کو الجھن میں ڈالنے کیلئے کرسکتے ہیں جو فائلیں ڈاؤن لوڈ کرتی ہیں۔</string>
+    <string name="permlab_seeAllExternal">سبھی ڈاؤن لوڈز SD کارڈ میں دیکھیں</string>
+    <string name="permdesc_seeAllExternal">اطلاق کو سبھی ڈاؤن لوڈز SD کارڈ میں دیکھنے کی اجازت دیں، قطع نظر اس کے کہ کون سا اطلاق اسے ڈاؤن لوڈ کرتا ہے۔</string>
+    <string name="permlab_downloadCacheNonPurgeable">ڈاؤن لوڈ کیش میں جگہ محفوظ رکھیں</string>
+    <string name="permdesc_downloadCacheNonPurgeable">اپلیکیشن کو ڈاؤن لوڈ کیچ میں فائلیں ڈاؤن لوڈ کرنے دیتا ہے، حسے ڈاؤن لوڈ مینیجر کو مزید جگہ درکار ہونے کی صورت میں خودکار طور پر حذف نہیں کیا جاسکتا۔</string>
+    <string name="permlab_downloadWithoutNotification">فائلوں کو بغیر اطلاع ڈاؤن لوڈ کریں</string>
+    <string name="permdesc_downloadWithoutNotification">اطلاق کو ڈاؤن لوڈ منیجر کے ذریعہ صارف کو بغیر کوئی اطلاع دکھائے فائلیں ڈاؤن لوڈ کرنے کی اجازت دیں۔</string>
+    <string name="permlab_accessAllDownloads">سسٹم کے سبھی ڈاؤن لوڈز تک رسائی کریں</string>
+    <string name="permdesc_accessAllDownloads">اطلاق کو سسٹم کے کسی اطلاق کے ذریعہ شروع کردہ ڈاؤن لوڈ کو دیکھنے اور تبدیل کرنے کی اجازت دیں۔</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_download_complete">ڈاؤن لوڈ مکمل ہوگیا۔</string>
+    <string name="notification_download_failed">ڈاؤن لوڈ ناکام ہوگیا۔</string>
+    <string name="notification_need_wifi_for_size">ڈاؤن لوڈ سائز کیلئے Wi-Fi درکار ہے</string>
+    <string name="notification_paused_in_background">پس منظر میں موقوف کردیا گیا۔</string>
+    <string name="wifi_required_title">ڈاؤن لوڈ آپریٹر نیٹ ورک کیلئے کافی بڑی ہے</string>
+    <string name="wifi_required_body" formatted="false">"یہ ضروری ہے کہ آپ اس %s ڈاؤن لوڈ کو مکمل کرنے کے لیے Wi-Fi کا استعمال کریں۔ 
+
+اگلی بار Wi-Fi نیٹ ورک سے مربوط ہونے کی صورت میں اس ڈاؤن لوڈ کو شروع کرنے کے لیے %s کو چھوئیں۔"</string>
+    <string name="wifi_recommended_title">بعد میں ڈاؤن لوڈ کیلئے قطار میں رکھیں؟</string>
+    <string name="wifi_recommended_body" formatted="false">"ابھی اس %s ڈاؤن لوڈ کو شروع کرنے سے آپ کی بیٹری کی زندگی مختصر ہوسکتی ہے اور/ یا آپ کے موبائل ڈیٹا کنکشن کا حد سے زیادہ استعمال ہوسکتا ہے، جس کے سبب آپ کے موبائل آپریٹر کے ذریعہ آپ کے ڈیٹا پلان کے لحاظ سے معاوضہ وصولا جاسکتا ہے۔
+
+ اگلی بار Wi-Fi نیٹ ورک سے مربوط ہونے کی صورت میں اس ڈاؤن لوڈ کو شروع کرنے کے لیے %s کو چھوئیں۔"</string>
+    <string name="button_queue_for_wifi">قطار</string>
+    <string name="button_cancel_download">منسوخ</string>
+    <string name="button_start_now">اب شروع کریں</string>
+    <string name="download_remaining">%s بچا</string>
+    <string name="download_no_application_title">فائل نہیں کھول سکتا</string>
+    <string name="root_downloads">ڈاؤن لوڈز</string>
+    <string name="download_queued">قطار شدہ</string>
+    <string name="download_running">ترقی پذیر</string>
+    <string name="download_error">ناکام</string>
+    <string name="download_running_percent">پیشرفت کے مرحلے میں ہے، %s</string>
+    <string name="download_percent">%d %%</string>
+</resources>

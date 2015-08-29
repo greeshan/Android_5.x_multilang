@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (အလိုအေလ်ာက္ပံုစံ)</item>
+        <item>3G သာ</item>
+        <item>2G သာ</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>မူလကြန္ရက္ပံုစံ</item>
+        <item>နံပါတ္ကို ေဖ်ာက္ထားပါ</item>
+        <item>နံပါတ္ကို ျပပါ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>သတ္မွတ္မထား</item>
+        <item>ဂလိုဘယ္</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo သာ</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo အလိုအေလ်ာက္</item>
+        <item>GSM/WCDMA အလိုအေလ်ာက္</item>
+        <item>WCDMA သာ</item>
+        <item>GSM သာ</item>
+        <item>ႏွစ္သက္ရာ GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>အဂၤလိပ္</item>
+        <item>ျပင္သစ္</item>
+        <item>စပိန္</item>
+        <item>ဂ်ပန္</item>
+        <item>ကိုရီးယား</item>
+        <item>တ႐ုတ္</item>
+        <item>ဟီဘ႐ူး</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>အိမ္တြင္းသာ</item>
+        <item>အလိုအေလ်ာက္</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>အၾကားအာ႐ံု ခ်ဳိ႕ယြင္းသူမ်ားအတြက္ စာသားမက္ေဆ့ခ်္ ပိတ္ထားပါ</item>
+        <item>အၾကားအာ႐ံု ခ်ဳိ႕ယြင္းသူမ်ားအတြက္ စာသားမက္ေဆ့ခ်္ ျပည့္ေနၿပီ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO အၾကားအာ႐ံု ခ်ဳိ႕ယြင္းသူမ်ားအတြက္ စာသားမက္ေဆ့ခ်္</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ပံုမွန္</item>
+        <item>ရွည္</item>
+    </string-array>
+</resources>

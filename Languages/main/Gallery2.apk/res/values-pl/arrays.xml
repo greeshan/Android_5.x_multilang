@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Pole hosta nie może być puste</item>
+        <item>Pole portu nie może być puste</item>
+        <item>Nieprawidłowy host</item>
+        <item>Nieprawidłowy port</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Domyślny</item>
+        <item>Mono</item>
+        <item>Sans Serif</item>
+        <item>Szeryfowy</item>
+    </string-array>
+</resources>

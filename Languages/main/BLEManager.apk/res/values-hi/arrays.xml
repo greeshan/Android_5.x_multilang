@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>डिफ़ॉल्ट छवि से चुनें</item>
+        <item>फ़ोटो लें</item>
+        <item>गैलरी से चुनें</item>
+    </string-array>
+</resources>

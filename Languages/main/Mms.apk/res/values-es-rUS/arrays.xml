@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Guiñando un ojo</item>
+        <item>Lengua afuera</item>
+        <item>Sorprendido</item>
+        <item>Besando</item>
+        <item>Gritando</item>
+        <item>En la onda</item>
+        <item>Dinero en boca</item>
+        <item>Metida de pata</item>
+        <item>Avergonzado</item>
+        <item>Ángel</item>
+        <item>Indeciso</item>
+        <item>Llorando</item>
+        <item>Boca cerrada</item>
+        <item>Riendo</item>
+        <item>Confundido</item>
+        <item>Corazón</item>
+        <item>Furioso</item>
+        <item>Sonrisita</item>
+        <item>Cara de póquer</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>sin asunto</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>¿Dónde está usted?</item>
+        <item>¿Qué está haciendo?</item>
+        <item>¡Vuelva a llamar!</item>
+        <item>Lo lamento, tengo una reunión ahora.</item>
+        <item>Lo volveré a llamar.</item>
+        <item>¡No se preocupe! Todo bien.</item>
+        <item>De camino a casa.</item>
+        <item>Llegaré pronto.</item>
+        <item>¡Estate allí o estate aburrido!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Modo restringido</item>
+        <item>Modo de advertencia</item>
+        <item>Modo libre</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Alfabeto GSM</item>
+        <item>Unicode</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Teléfono</item>
+        <item>Tarjeta SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>DISPOSITIVO</item>
+        <item>Tarjeta SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Siga el tamaño de fuente del sistema</item>
+        <item>Pequeño</item>
+        <item>Medium</item>
+        <item>Grande</item>
+        <item>Extra grande</item>
+    </string-array>
+    <string-array name="pref_key_sms_priority_values">
+        <item>Normal</item>
+        <item>Interact</item>
+        <item>Urgente</item>
+        <item>Emerg</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Otros</item>
+    </string-array>
+</resources>

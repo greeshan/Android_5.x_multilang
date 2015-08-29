@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>လက္ရွိစာမ်က္ႏွာ</item>
+        <item>ဗလာစာမ်က္ႏွာ</item>
+        <item>မူလစာမ်က္ႏွာ</item>
+        <item>အမ်ားဆံုးၾကည့္႐ႈသည့္ဆိုဒ္မ်ား</item>
+        <item>ဆိုဒ္လမ္းညႊန္ခ်က္</item>
+        <item>အျခား</item>
+    </string-array>
+    <string-array name="predefined_websites_default_optr">
+        <item>Hao123</item>
+        <item>http://www.hao123.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>Google</item>
+        <item>http://www.google.cn/</item>
+        <item>site_navigation_default_default2</item>
+        <item>Baidu</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>Sina</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>Sohu</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>Yahoo</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>ဘယ္ေတာ့မွ်</item>
+        <item>Wi-Fi တြင္သာ</item>
+        <item>အျမဲတမ္း</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>အျမဲတမ္းဖြင့္ပါ</item>
+        <item>လိုအပ္ပါက ဖြင့္ပါ</item>
+        <item>ပိတ္သည္</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>လက္ရွိစာမ်က္ႏွာ</item>
+        <item>ဗလာစာမ်က္ႏွာ</item>
+        <item>မူလစာမ်က္ႏွာ</item>
+        <item>အမ်ားဆံုးၾကည့္႐ႈသည့္ဆိုဒ္မ်ား</item>
+        <item>အျခား</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>အလြန္ေသး</item>
+        <item>ေသးငယ္</item>
+        <item>ပံုမွန္</item>
+        <item>ႀကီး</item>
+        <item>အလြန္ႀကီး</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ေဝး</item>
+        <item>အလတ္</item>
+        <item>ပိတ္ပါ</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>အလိုအေလ်ာက္စမ္းသပ္ေတြ႕ရွိစက္</item>
+        <item>လက္တင္-1 (ISO-8859-1)</item>
+        <item>ယူနီကုဒ္ (UTF-8)</item>
+        <item>တ႐ုတ္ (GBK)</item>
+        <item>တ႐ုတ္ (Big5)</item>
+        <item>ဂ်ပန္ (ISO-2022-JP)</item>
+        <item>ဂ်ပန္ (SHIFT_JIS)</item>
+        <item>ဂ်ပန္ (EUC-JP)</item>
+        <item>ကိုရီးယား (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>ဘယ္ေတာ့မွ်</item>
+        <item>Wi-Fi တြင္သာ</item>
+        <item>အျမဲတမ္း</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Políčko pre hostiteľa nemôže byť prázdne</item>
+        <item>Políčko pre port nemôže byť prázdne</item>
+        <item>Neplatný hostiteľ</item>
+        <item>Neplatný konektor</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Predvolené</item>
+        <item>Mono</item>
+        <item>Písmo Sans Serif</item>
+        <item>Pätkové</item>
+    </string-array>
+</resources>

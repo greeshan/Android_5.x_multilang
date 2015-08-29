@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Жасанды жаңғырықты алдын ала орнату</string>
+    <string name="eq_preset_normal">Қалыпты</string>
+    <string name="eq_preset_classical">Классика</string>
+    <string name="eq_preset_dance">Би</string>
+    <string name="eq_preset_flat">Жазық</string>
+    <string name="eq_preset_folk">Фольклорлық</string>
+    <string name="eq_preset_heavymetal">Хеви-метал</string>
+    <string name="eq_preset_hiphop">Хип-хоп</string>
+    <string name="eq_preset_jazz">Джаз</string>
+    <string name="eq_preset_pop">Поп</string>
+    <string name="eq_preset_rock">Рок</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Әсерлер қолжетімсіз.</string>
+    <string name="main_toggle_effects_title">Аудио әсерлер</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Осы әсерлерді тыңдау үшін құлаққапты жалғаңыз.</string>
+    <string name="bass_boost_strength">Төменгі жиіліктің үдеуі</string>
+    <string name="virtualizer_strength">Ауқымды дыбыс шығару</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Бөлмедегі реверберацияның қосымша әсерлері</string>
+    <string name="pr_dialog_title">Ревербератор үлгісі</string>
+    <string name="setup">Орнату</string>
+    <string name="ci_extreme">FX зорайтқышы</string>
+    <string name="user">Пайдаланушы</string>
+    <string name="picker_title">Музыкалық әсерлерді басқару панелі</string>
+</resources>

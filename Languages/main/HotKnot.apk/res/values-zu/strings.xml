@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_download_failed">Ukulayisha akuphumelelanga</string>
+    <string name="download_no_application_title">Ayikwazi ukuvula ifayela</string>
+    <string name="notification_download_complete">Ukulayisha ungenisa kuqedile</string>
+    <string name="cancel">Khansela</string>
+</resources>

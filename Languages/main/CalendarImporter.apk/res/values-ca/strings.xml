@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importa-ho a</string>
+    <string name="import_button">Importa</string>
+    <string name="cancel">Cancel.</string>
+    <string name="no_access_toast">"No s'ha trobat el compte. Afegeix abans un compte."</string>
+    <string name="null_name">Cap</string>
+    <string name="import_message">Vols importar # al Calendari?</string>
+    <string name="calendar_lable">"Calendari: "</string>
+    <string name="date_lable">"Data: "</string>
+    <string name="import_title">Importa esdeveniment del calendari</string>
+    <string name="importing">S’està important...</string>
+    <string name="import_complete">Ha finalitzat la importació</string>
+    <string name="open">Obre</string>
+    <string name="done">Fet</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Error en importar esdeveniment</string>
+    <string name="title_lable">"Títol: "</string>
+    <string name="no_syncable_calendars">No s’ha pogut importar</string>
+    <string name="no_calendars_found">Aquest compte no admet la sincronització de calendaris o la darrera sincronització encara no ha finalitzat.</string>
+    <string name="retry">Torna-ho a provar</string>
+    <string name="give_up">Avorta</string>
+    <string name="open_calendar_failed">El calendari no es troba disponible.</string>
+    <string name="loading">"S'està carregant…"</string>
+    <string name="not_support_multi_events">No s’admet un fitxer amb múltiples esdeveniments.</string>
+</resources>

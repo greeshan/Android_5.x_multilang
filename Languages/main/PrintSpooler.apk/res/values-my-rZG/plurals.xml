@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">ပရင္တာ %1$s ခုေတြ႕သည္</item>
+        <item quantity="one">ပရင္တာ %1$s ခုေတြ႕သည္</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">ပရင့္ထုတ္ရန္ အလုပ္%1$dခု</item>
+        <item quantity="one">ပရင့္ထုတ္ရန္ အလုပ္%1$d ခု</item>
+    </plurals>
+</resources>

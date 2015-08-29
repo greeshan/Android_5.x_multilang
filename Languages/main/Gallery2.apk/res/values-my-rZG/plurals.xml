@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">ေရြးခ်ယ္ထားေသာ အေၾကာင္းအရာမ်ားကို ဖ်က္မလား။</item>
+        <item quantity="one">ေရြးခ်ယ္ထားေသာအေၾကာင္းအရာကိုဖ်က္မလား။</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="zero">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="one">%1$d ေရြးခ်ယ္ျပီး</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="zero">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="one">%1$d ေရြးခ်ယ္ျပီး</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="zero">%1$d ေရြးခ်ယ္ျပီး</item>
+        <item quantity="one">%1$d ေရြးခ်ယ္ျပီး</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">ေအာ့ဖ္လိုင္းတြင္လည္း အယ္လ္ဘမ္ရရွိေစရန္ ျပဳလုပ္ျခင္း။</item>
+        <item quantity="one">ေအာ့ဖ္လိုင္းတြင္လည္း အယ္လ္ဘမ္ရရွိေစရန္ ျပဳလုပ္ျခင္း။</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">အရာဝတၳဳ %1$d ခု စစ္ေဆးၿပီး</item>
+        <item quantity="zero">အရာဝတၳဳ %1$d ခု စစ္ေဆးၿပီး</item>
+        <item quantity="one">အရာဝတၳဳ %1$d ခု စစ္ေဆးၿပီး</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d စကၠန္႔</item>
+        <item quantity="one">၁ စကၠန္႔</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">ဓါတ္ပံု %1$d ပံု</item>
+        <item quantity="one">ဓါတ္ပံု %1$d ပံု</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">प्राप्त करना आरंभ कर रहा है...</string>
+    <string name="notification_group_title">%d फ़ाइलें प्राप्त कर रहा है...</string>
+    <string name="notification_download_done">विवरण देखने के लिए टच करें</string>
+    <string name="notification_group_received">%d फ़ाइलें प्राप्त</string>
+    <string name="notification_received">सफलतापूर्वक प्राप्त</string>
+    <string name="notification_download_failure">%s के कारण प्राप्त करने में विफल</string>
+    <string name="notification_download_cancel">प्राप्त करना रद्द</string>
+    <string name="notification_group_received_failed">%d फ़ाइलें विफल</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d फ़ाइलें विफल, %d फ़ाइलें प्राप्त</string>
+    <string name="download_no_file">फ़ाइल मौजूद नहीं है</string>
+    <string name="notification_sending">भेजना आरंभ कर रहा है...</string>
+    <string name="notification_group_upload_title">%d फ़ाइलें भेज रहा है...</string>
+    <string name="notification_group_sent">%d फ़ाइलें प्रेषित</string>
+    <string name="notification_sent">सफलतापूर्वक प्रेषित</string>
+    <string name="notification_upload_failed">%s के कारण भेजने में विफल</string>
+    <string name="notification_upload_cancel">भेजना रद्द</string>
+    <string name="notification_group_sent_failed">%d फ़ाइलें विफल</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d फ़ाइलें विफल, %d फ़ाइलें प्रेषित</string>
+    <string name="low_storage">कम संग्रहण</string>
+    <string name="connect_failure">कनेक्शन समस्या</string>
+    <string name="unknown_error">अज्ञात त्रुटि</string>
+    <string name="share_label">HotKnot साझाकरण</string>
+    <string name="rx_ui_image_status">Receiving image from %s से छवियाँ प्राप्त कर रहा है</string>
+    <string name="rx_group_ui_image_status">%1$d / %2$d छवियाँ %3$s से प्राप्त कर रहा है</string>
+    <string name="rx_ui_video_status">%s से वीडियो प्राप्त कर रहा है</string>
+    <string name="rx_group_ui_video_status">%1$d / %2$d वीडियो %3$s से प्राप्त कर रहा है</string>
+    <string name="rx_ui_status">%s से फ़ाइल प्राप्त कर रहा है</string>
+    <string name="rx_group_ui_status">%1$d / %2$d फ़ाइलें %3$s से प्राप्त कर रहा है</string>
+    <string name="rx_ui_music_status">%s से संगीत प्राप्त कर रहा है</string>
+    <string name="rx_group_ui_music_status">%1$d / %2$d संगीत %3$s से प्राप्त कर रहा है</string>
+    <string name="rx_ui_failed_status">प्राप्ति अपूर्ण</string>
+    <string name="notification_download_failed">डाउनलोड विफल.</string>
+    <string name="download_no_application_title">फ़ाइल नहीं खोली जा सकती</string>
+    <string name="notification_download_complete">डाउनलोड पूर्ण.</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="mtk_notification_string">विस्तृत सेटिंग्स देखने के लिए स्पर्श करें</string>
+    <string name="incoming_connection">कनेक्ट हो रहा है...</string>
+    <string name="outgoing_connection">कनेक्ट हो रहा है...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Келесіге импорттау</string>
+    <string name="import_button">Импорттау</string>
+    <string name="cancel">Бас тар.</string>
+    <string name="no_access_toast">Тіркелгі табылмады. Алдымен тіркелгіні қосыңыз.</string>
+    <string name="null_name">Ешқандай</string>
+    <string name="import_message">Күнтізбеге # импорттау қажет пе?</string>
+    <string name="calendar_lable">Күнтізбе:</string>
+    <string name="date_lable">Күні:</string>
+    <string name="import_title">Күнтізбе оқиғасын импорттау</string>
+    <string name="importing">Импортталуда...</string>
+    <string name="import_complete">Импорттау аяқталды</string>
+    <string name="open">Ашу</string>
+    <string name="done">Дайын</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Оқиғаны импорттау сәтсіз аяқталды.</string>
+    <string name="title_lable">"Тақырыбы: "</string>
+    <string name="no_syncable_calendars">Импорттау мүмкін емес</string>
+    <string name="no_calendars_found">Осы тіркелгі күнтізбені синхрондауға қолдау көрсетпейді немесе соңғы синхрондау әлі аяқталмаған.</string>
+    <string name="retry">Қайталау</string>
+    <string name="give_up">Доғару</string>
+    <string name="open_calendar_failed">Күнтізбе қолжетімсіз</string>
+    <string name="loading">Жүктеу…</string>
+    <string name="not_support_multi_events">Бірнеше оқиғасы бар файлға қолдау көрсетілмейді.</string>
+</resources>

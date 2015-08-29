@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">مزید رنگ ٹونز…</string>
+    <string name="uid_label">میڈیا</string>
+    <string name="app_label">میڈیا اسٹوریج</string>
+    <string name="upgrade_msg">میڈیا کے ڈیٹابیس کو اپ گریڈ کررہا ہے</string>
+    <string name="artist_label">آرٹسٹ</string>
+    <string name="ringtone_default">بنیادی رنگ ٹون</string>
+    <string name="notification_sound_default">اطلاع کی رنگ ٹون منتخب کریں</string>
+    <string name="alarm_sound_default">ڈیفالٹ الارم کی آواز</string>
+    <string name="root_images">تصاویر</string>
+    <string name="root_videos">ویڈیو</string>
+    <string name="root_audio">آڈیو</string>
+</resources>

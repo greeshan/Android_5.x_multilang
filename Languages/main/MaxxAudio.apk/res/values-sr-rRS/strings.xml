@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maxxbass">Bas tonovi</string>
+    <string name="maxxdialog">Dijalog</string>
+    <string name="maxxtreble">Visoki tonovi</string>
+    <string name="maxxvolume">Jačina zvuka</string>
+    <string name="menu_about">O</string>
+    <string name="text_about_box">"MaxxAudio® pruža profesionalnu zvučnu tehnologiju za vrhunski doživljaj slušanja u pokretu.
+
+%1"</string>
+    <string name="title_about_box">O Waves MaxxAudio</string>
+</resources>

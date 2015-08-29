@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Inga</item>
+        <item>Litet rum</item>
+        <item>Normalt rum</item>
+        <item>Stort rum</item>
+        <item>Normal hall</item>
+        <item>Stor hall</item>
+        <item>Skiva efterklang</item>
+    </string-array>
+</resources>

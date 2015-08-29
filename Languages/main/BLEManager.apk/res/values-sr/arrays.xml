@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Изабери од подразумеваних слика</item>
+        <item>Сними слику</item>
+        <item>Изабери из галерије</item>
+    </string-array>
+</resources>

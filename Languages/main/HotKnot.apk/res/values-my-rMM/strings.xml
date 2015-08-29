@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">လက်ခံရရှိခြင်း စတင်ပါ…</string>
+    <string name="notification_group_title">ဖိုင် %d ဖိုင် လက်ခံနေသည်…</string>
+    <string name="notification_download_done">အသေးစိတ်ကို ကြည့်ရန် တို့ထိပါ</string>
+    <string name="notification_group_received">ဖိုင် %d ဖိုင် လက်ခံရရှိပြီး</string>
+    <string name="notification_received">အောင်မြင်စွာ လက်ခံရရှိပြီး</string>
+    <string name="notification_download_failure">%s ကြောင့် လက်ခံရရှိရန် မအောင်မြင်ပါ</string>
+    <string name="notification_download_cancel">လက်ခံရရှိခြင်း ပယ်ဖျက်ပြီး</string>
+    <string name="notification_group_received_failed">ဖိုင် %d ဖိုင် မအောင်မြင်ပါ</string>
+    <string name="notification_group_received_partial_failed" formatted="false">ဖိုင် %d ဖိုင် မအောင်မြင်ပါ၊ ဖိုင် %d ဖိုင် လက်ခံရရှိပြီး</string>
+    <string name="download_no_file">ဖိုင် မရှိနေပါ။</string>
+    <string name="notification_sending">ပေးပို့ခြင်း စတင်ပါ…</string>
+    <string name="notification_group_upload_title">ဖိုင် %d ဖိုင် ပေးပို့နေသည်…</string>
+    <string name="notification_group_sent">ဖိုင် %d ဖိုင် ပေးပို့ပြီး</string>
+    <string name="notification_sent">အောင်မြင်စွာ ပေးပို့ပြီး</string>
+    <string name="notification_upload_failed">%s ကြောင့် ပေးပို့ရန် မအောင်မြင်ပါ</string>
+    <string name="notification_upload_cancel">ပေးပို့ခြင်း ပယ်ဖျက်ပြီး</string>
+    <string name="notification_group_sent_failed">ဖိုင် %d ဖိုင် မအောင်မြင်ပါ</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">ဖိုင် %d ဖိုင် မအောင်မြင်ပါ၊ ဖိုင် %d ဖိုင် ပေးပို့ပြီး</string>
+    <string name="low_storage">သိုလှောင်နေရာ နည်းနေသည်</string>
+    <string name="connect_failure">ချိတ်ဆက်မှုပြဿနာ</string>
+    <string name="unknown_error">မသိသော အမှား</string>
+    <string name="share_label">HotKnot ဝေမျှခြင်း</string>
+    <string name="rx_ui_image_status">%s မှ ပုံ လက်ခံရရှိနေသည်</string>
+    <string name="rx_group_ui_image_status">%3$s မှ ပုံ %2$d ပုံမှ %1$d ပုံကို လက်ခံရရှိနေသည်</string>
+    <string name="rx_ui_video_status">%s မှ ဗွီဒီယို လက်ခံရရှိနေသည်</string>
+    <string name="rx_group_ui_video_status">%3$s မှ ဗွီဒီယို %2$d ခု ဗွီဒီယို %1$d ခုကို လက်ခံရရှိနေသည်</string>
+    <string name="rx_ui_status">%s မှ ဖိုင် လက်ခံရရှိနေသည်</string>
+    <string name="rx_group_ui_status">%3$s မှ ဖိုင် %2$d ဖိုင်မှ %1$d ဖိုင်ကို လက်ခံရရှိနေသည်</string>
+    <string name="rx_ui_music_status">%s မှ တေးသီချင်း လက်ခံရရှိနေသည်</string>
+    <string name="rx_group_ui_music_status">%3$s မှ တေးသီချင်း %2$d ပုဒ်မှ %1$d ပုဒ်ကို လက်ခံရရှိနေသည်</string>
+    <string name="rx_ui_failed_status">လက်ခံရရှိခြင်း မပြီးစီးသေးပါ</string>
+    <string name="notification_download_failed">ဒေါင်းလုဒ်လုပ်ခြင်း မအောင်မြင်ပါ။</string>
+    <string name="notification_download_complete">ဒေါင်းလုဒ်လုပ်ခြင်းပြီးဆုံး။</string>
+    <string name="mtk_notification_string">အသေးစိတ်ဆက်တင်များကို ကြည့်ရန်တို့ထိပါ</string>
+    <string name="incoming_connection">ချိတ်ဆက်ဆဲ…</string>
+    <string name="outgoing_connection">ချိတ်ဆက်ဆဲ…</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

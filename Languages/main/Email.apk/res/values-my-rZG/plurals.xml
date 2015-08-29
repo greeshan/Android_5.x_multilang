@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">အၾကမ္း</item>
+        <item quantity="one">ပံုၾကမ္း</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ဤစကားေျပာခ်က္ %1$d ခုကို ဖ်က္မလား။</item>
+        <item quantity="one">ဤစကားေျပာခ်က္ကို ဖ်က္မလား။</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ဤစကားေျပာခ်က္ %1$d ခုကို ေမာ္ကြန္းတင္မလား။</item>
+        <item quantity="one">ဤစကားေျပာခ်က္ကို ေမာ္ကြန္းတင္မလား။</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ဤစကားေျပာခ်က္ %1$d ခုမွ အၾကမ္းမ်ားကို ဖ်က္ခ်မလား။</item>
+        <item quantity="one">ဤမက္ေဆ့ခ်္ကို ဖ်က္ခ်မလား။</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">စကားေျပာခ်က္မ်ား %1$d ခုကို ၾကယ္ျပန္ျဖဳတ္ေနသည္။</item>
+        <item quantity="one">စကားေျပာခ်က္ %1$d ခုကို ၾကယ္ျပန္ျဖဳတ္ေနသည္။</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို မွိန္ထားၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ခုကို မွိန္ထားၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ကို စပမ္းအျဖစ္ အစီရင္ခံခဲ့ၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ကို စပမ္းအျဖစ္ အစီရင္ခံခဲ့ၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ကို စပမ္းမဟုတ္ဟု အစီရင္ခံခဲ့ၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ကို စပမ္းမဟုတ္ဟု အစီရင္ခံခဲ့ၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို အေရးမႀကီးဟု အမွတ္အသားျပဳၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ခုကို အေရးမႀကီးဟု အမွတ္အသားျပဳၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို အေယာင္ေဆာင္ပို႔ျခင္းအျဖစ္ အစီရင္ခံၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ခုကို အေယာင္ေဆာင္ပို႔ျခင္းအျဖစ္ အစီရင္ခံၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို ေမာ္ကြန္းတင္ၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ခုကို ေမာ္ကြန္းတင္ၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို ဖ်က္ၿပီး။</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ခုကို ဖ်က္ၿပီး။</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ဖိုဒါေျပာင္းခဲ့သည္။</item>
+        <item quantity="one">ဖိုဒါေျပာင္းခဲ့သည္။</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">မက္ေဆ့ခ်္အသစ္မ်ား %1$d</item>
+        <item quantity="one">မက္ေဆ့ခ်္အသစ္ %1$dေစာင္</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ပို၍ေရွးက်ေသာ မက္ေဆ့ခ်္ %1$d ေစာင္</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ပို၍ေရွးက်ေသာ မက္ေဆ့ခ်္ %1$d ေစာင္</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ေစာင္ မဖတ္ရေသး</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">မက္ေဆ့ခ်္အသစ္မ်ား %1$d</item>
+        <item quantity="one">မက္ေဆ့ခ်္အသစ္ %1$dေစာင္</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">မက္ေဆ့ခ်္မ်ား %1$d ေစာင္ကို အၿပီးဖ်က္လိုက္ လိမ့္မည္။</item>
+        <item quantity="one">မက္ေဆ့ခ်္ %1$d ေစာင္ကို အၿပီးဖ်က္လိုက္ လိမ့္မည္။</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">ပို၍ေရွးက်ေသာ မက္ေဆ့ခ်္ %1$d ေစာင္</item>
+        <item quantity="one">စာ %1$d ေစာင္</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">ပူးတြဲမႈမ်ား %1$d</item>
+        <item quantity="one">ပူးတြဲမႈ %1$d</item>
+    </plurals>
+</resources>

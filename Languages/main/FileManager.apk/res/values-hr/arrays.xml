@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Vrsta</item>
+        <item>Naziv (A - Z)</item>
+        <item>Veličina (velika - mala)</item>
+        <item>Vrijeme (novo - staro)</item>
+    </string-array>
+</resources>

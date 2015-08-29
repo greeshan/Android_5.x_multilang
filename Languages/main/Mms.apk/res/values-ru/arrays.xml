@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Радость</item>
+        <item>Грустный</item>
+        <item>Подмигивает</item>
+        <item>Показывает язык</item>
+        <item>Удивлен</item>
+        <item>Поцелуй</item>
+        <item>Кричит</item>
+        <item>Крутой</item>
+        <item>Не болтай попусту</item>
+        <item>В замешательстве</item>
+        <item>Смущение</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачет</item>
+        <item>Не скажу</item>
+        <item>Смех</item>
+        <item>Озадаченный</item>
+        <item>Сердце</item>
+        <item>Злой</item>
+        <item>Ухмылка</item>
+        <item>Невозмутимость</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без темы</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Где ты?</item>
+        <item>Чем занимаешься?</item>
+        <item>Перезвони, пожалуйста!</item>
+        <item>Извините, я сейчас на совещании.</item>
+        <item>Скоро перезвоню.</item>
+        <item>Не беспокойся, я в порядке!</item>
+        <item>Иду домой.</item>
+        <item>Скоро буду.</item>
+        <item>Приходи, не пропусти!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Ограниченный режим</item>
+        <item>Режим предупреждения</item>
+        <item>Свободный режим</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Высокое</item>
+        <item>Обычный</item>
+        <item>Низкое</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Азбука GSM</item>
+        <item>Unicode</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Устройство</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Использовать размер системного шрифта</item>
+        <item>Маленький</item>
+        <item>Среднее</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+    </string-array>
+    <string-array name="pref_key_sms_priority_values">
+        <item>Средний</item>
+        <item>Интерактивный</item>
+        <item>Срочно</item>
+        <item>Экстренный</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Все языки</item>
+        <item>Немецкий</item>
+        <item>английский</item>
+        <item>Итальянский</item>
+        <item>французский</item>
+        <item>испанский</item>
+        <item>Голландский</item>
+        <item>Шведский</item>
+        <item>Датский</item>
+        <item>Португальский</item>
+        <item>Финский</item>
+        <item>Норвежский</item>
+        <item>Греческий</item>
+        <item>Турецкий</item>
+        <item>Венгерский</item>
+        <item>Польский</item>
+        <item>Другие</item>
+        <item>Чешский</item>
+        <item>иврит</item>
+        <item>Арабский</item>
+        <item>Русский</item>
+        <item>Исландский</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+</resources>

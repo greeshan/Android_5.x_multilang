@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">Белгісіз</string>
+    <string name="sharedUserLabel">Android негізгі қолданбалары</string>
+    <string name="app_label">Контактілерді сақтау</string>
+    <string name="provider_label">Контактілер</string>
+    <string name="upgrade_msg">Контактілер дерекқорын жаңарту.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Контактілерді жаңарту үшін көбірек жад қажет.</string>
+    <string name="upgrade_out_of_memory_notification_title">Контактілерді сақтау үшін жаңарту</string>
+    <string name="upgrade_out_of_memory_notification_text">Жаңартуды аяқтау үшін түртіңіз.</string>
+    <string name="default_directory">Контактілер</string>
+    <string name="local_invisible_directory">Басқа</string>
+    <string name="voicemail_from_column">%s дауыстық пошта қабылданды. Оны қазір қабылдау қажет пе?</string>
+    <string name="debug_dump_title">Контактілер дерекқорын көшіру</string>
+    <string name="debug_dump_database_message">Сіз 1) ақпаратқа қатысты барлық контактілерден тұратын дерекқорды және барлық қоңырауды ішкі жадқа көшірмексіз және 2) оларды электрондық поштамен жібермексіз. Құрылғыдан көшіріп біткен соң немесе электрондық хабарлама қабылданған соң міндетті түрде көшірмесін өшіріңіз.</string>
+    <string name="debug_dump_delete_button">Қазір жою</string>
+    <string name="debug_dump_start_button">Бастау</string>
+    <string name="debug_dump_email_sender_picker">Файлды жіберу үшін қолданба таңдаңыз</string>
+    <string name="debug_dump_email_subject">Контактілер дерекқоры бекітілді</string>
+    <string name="debug_dump_email_body">Бекітілген файл - барлық контактілер туралы ақпараттан тұратын контактілер дерекқоры. Абайлап пайдаланыңыз.</string>
+    <string name="read_write_all_voicemail_label">Барлық дауыстық хабарламаларға қол жеткізу</string>
+    <string name="read_write_all_voicemail_description">Қолданбаға осы құрылғыда қолжетімді барлық дауыстық хабарламаларды сақтау және қалпына келтіруге мүмкіндік береді.</string>
+</resources>

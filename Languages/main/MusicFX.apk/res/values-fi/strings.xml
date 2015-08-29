@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Esiasetettu kaiku</string>
+    <string name="eq_preset_normal">Normaali</string>
+    <string name="eq_preset_classical">Klassinen</string>
+    <string name="eq_preset_dance">Tanssi</string>
+    <string name="eq_preset_flat">Tasainen</string>
+    <string name="eq_preset_folk">Folk</string>
+    <string name="eq_preset_heavymetal">Raskas metalli</string>
+    <string name="eq_preset_hiphop">Hip Hop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Tehosteet eivät ole käytettävissä.</string>
+    <string name="main_toggle_effects_title">Äänitehosteet</string>
+    <string name="eq_dialog_title">Taajuuskorjain</string>
+    <string name="headset_plug">Liitä kuulokkeet kuullaksesi tehosteet.</string>
+    <string name="bass_boost_strength">Basson tehostus</string>
+    <string name="virtualizer_strength">Surround-ääni</string>
+    <string name="pr_title">Kaiku:</string>
+    <string name="pr_summary">Muut kaikutehosteet</string>
+    <string name="pr_dialog_title">Kaiku</string>
+    <string name="setup">Alkutoimet</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="user">Käyttäjä</string>
+    <string name="picker_title">Musiikkitehost. hallintapaneeli</string>
+</resources>

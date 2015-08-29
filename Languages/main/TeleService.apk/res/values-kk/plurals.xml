@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s минут аралығында дерек байланысы жоқ</item>
+        <item quantity="one">%s минут аралығында дерек байланысы жоқ</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон %s минут аралығында Төтенше қоңырау режимінде болады. Бұл режимде дерек байланысын қолданатын қолданбаны пайдалануға болмайды. Қазір шығу қажет пе?</item>
+        <item quantity="one">Телефон %s минут аралығында Төтенше қоңырау режимінде болады. Бұл режимде дерек байланысын қолданатын қолданбаны пайдалануға болмайды. Қазір шығу қажет пе?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Төтенше қоңырау режимінде таңдалған әрекеттер жоқ. Телефон бұл режимде %s минут болады. Қазір шығу қажет пе?</item>
+        <item quantity="one">Төтенше қоңырау режимінде таңдалған әрекеттер жоқ. Телефон бұл режимде %s минут болады. Қазір шығу қажет пе?</item>
+    </plurals>
+</resources>

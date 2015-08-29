@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (স্বয়ংক্রিয় মোড)</item>
+        <item>কেবল 3G</item>
+        <item>কেবল 2G</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>নেটওয়ার্ক ডিফল্ট</item>
+        <item>নম্বর লুকান</item>
+        <item>নম্বর দেখান</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>এলটিই</item>
+        <item>বৈশ্বিক</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>কেবল EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo স্বয়ংক্রিয়</item>
+        <item>GSM / WCDMA স্বয়ংক্রিয়</item>
+        <item>কেবলWCDMA</item>
+        <item>কেবল GSM</item>
+        <item>পছন্দসই GSM / WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ইংরেজি</item>
+        <item>ফরাসি</item>
+        <item>স্প্যানিশ</item>
+        <item>জাপানি</item>
+        <item>কোরিয়ান</item>
+        <item>চীনা</item>
+        <item>হিব্রু</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>কেবল হোম</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>টিটিওয়াই বন্ধ</item>
+        <item>টিটিওয়াই ডিভাইস</item>
+        <item>টিটিওয়াই এইচসিও</item>
+        <item>টিটিওয়াই ভিসিও</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>সাধারণ</item>
+        <item>দীর্ঘ</item>
+    </string-array>
+</resources>

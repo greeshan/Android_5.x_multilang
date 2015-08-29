@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">အသံုးခ်ပ႐ိုဂရမ္ %d ခု အေၾကာင္းၾကားခ်က္ကို ဖတ္ႏိုင္သည္</item>
+        <item quantity="one">အသံုးခ်ပ႐ိုဂရမ္ %d ခု အေၾကာင္းၾကားခ်က္ကို ဖတ္ႏိုင္သည္</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">သင္သည္ ယခု စနစ္ဖန္တီးသူအျဖစ္မွ အဆင့္ %1$d ဆင့္ ေဝးကြာေနသည္။</item>
+        <item quantity="one">သင္သည္ ယခု စနစ္ဖန္တီးသူအျဖစ္မွ အဆင့္ %1$d ဆင့္ ေဝးကြာေနသည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး စာလံုး %d လံုးပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင္အနည္းဆံုး အကၡရာစာလံုး ၁ လံုး ပါရပါမည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး စာလံုးအေသး %d လံုးပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင ္အနည္းဆံုး စာလံုးအေသး ၁ လံုးပါရပါမည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး စာလံုးအႀကီး %d လံုး ပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင္ အနည္းဆံုး စာလံုးအႀကီး ၁ လံုး ပါရပါမည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး ကိန္းဂဏန္း %d ခု ပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင္ အနည္းဆံုး ကိန္းဂဏန္း ၁ ခု ပါရပါမည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး အထူးသေကၤတ %d လံုးပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင္ အနည္းဆံုး အထူးသေကၤတ ၁ လံုးပါရပါမည္။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">စကားဝွက္တြင္ အနည္းဆံုး အကၡရာမဟုတ္ေသာ စာလံုး %d လံုးပါရပါမည္။</item>
+        <item quantity="one">စကားဝွက္တြင္ အနည္းဆံုး အကၡရာမဟုတ္ေသာ စာလံုး ၁ လံုးပါရပါမည္။</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN ကုဒ္မမွန္ပါ၊ သင္ %d ႀကိမ္ ႀကိဳးစားရန္ က်န္ေသးသည္။</item>
+        <item quantity="one">SIM PIN ကုဒ္မမွန္ပါ၊ သင့္ကိရိယာကို သင္၏မိုဘိုင္းကြန္ရက္သို႔ ေသာ့ျပန္ဖြင့္ရန္ ဆက္သြယ္မႈမရမီအထိ သင္ %d ႀကိမ္ ႀကိဳးစားရန္ က်န္ေသးသည္။</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d app အေျခအေနမ်ားကို စီမံေပးရန္</item>
+        <item quantity="one">%d app အေျခအေနမ်ားကို စီမံေပးရန္</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">ပရင္တာ %1$s ခု ေတြ႕သည္</item>
+        <item quantity="one">ပရင္တာ %1$s ခု ေတြ႕သည္</item>
+    </plurals>
+</resources>

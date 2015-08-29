@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="error_nan">Bukan nombor</string>
+    <string name="error_syntax">Ralat</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">kos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">ksg</string>
+    <string name="del">pdm</string>
+    <string name="desc_const_e">Nombor Euler</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">mata</string>
+    <string name="desc_lparen">tanda kurung kiri</string>
+    <string name="desc_rparen">tanda kurung kanan</string>
+    <string name="desc_fun_cos">kosinus</string>
+    <string name="desc_fun_ln">logaritma asli</string>
+    <string name="desc_fun_log">logaritma</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangen</string>
+    <string name="desc_op_add">tambah</string>
+    <string name="desc_op_div">bahagi</string>
+    <string name="desc_op_fact">faktorial</string>
+    <string name="desc_op_mul">kali</string>
+    <string name="desc_op_pow">kuasa</string>
+    <string name="desc_op_sqrt">kuasa dua</string>
+    <string name="desc_op_sub">tolak</string>
+    <string name="desc_clr">kosongkan</string>
+    <string name="desc_del">padam</string>
+    <string name="desc_eq">sama dengan</string>
+</resources>

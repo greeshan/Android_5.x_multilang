@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d ​ေခၚဆိုမႈ မွတ္တမ္းမ်ား</item>
+        <item quantity="one">​ေခၚဆိုမႈ မွတ္တမ္း ၁ခု</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ခုေတြ႕သည္</item>
+        <item quantity="one">၁ ခုေတြ႕သည္</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d အသံေမး(လ္) မ်ား</item>
+        <item quantity="one">အသံေမးလ္</item>
+    </plurals>
+</resources>

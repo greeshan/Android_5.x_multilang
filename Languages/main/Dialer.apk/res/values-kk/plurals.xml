@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d қоңыраулар журналы</item>
+        <item quantity="one">1 қоңыраулар журналы</item>
+    </plurals>
+</resources>

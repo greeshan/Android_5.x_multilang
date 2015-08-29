@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Entwürfe</item>
+        <item quantity="one">Entwurf</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Diese %1$d Unterhaltungen löschen?</item>
+        <item quantity="one">Diese Unterhaltung löschen?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Diese %1$d Unterhaltungen archivieren?</item>
+        <item quantity="one">Diese Unterhaltung archivieren?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Diese %1$d Entsorgen Sie Entwürfe aus diesen? </item>
+        <item quantity="one">Diese Mitteilung verwerfen?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Stern von %1$d Unterhaltungen entfernen.</item>
+        <item quantity="one">Stern von %1$d Unterhaltung entfernen.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> stummgeschaltet.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> stummgeschaltet.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> als Spam gemeldet.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> als Spam gemeldet.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> als kein Spam gemeldet.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> als kein Spam gemeldet.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> als unwichtig markiert.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> als unwichtig markiert.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> als Phishing gemeldet.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> als Phishing gemeldet.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> archiviert.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> archiviert.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gelöscht.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gelöscht.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Ordner geändert.</item>
+        <item quantity="one">Ordner geändert.</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d neue Mitteilungen</item>
+        <item quantity="one">%1$d neue Nachricht</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ältere Mitteilungen</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d ältere Mitteilungen</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ungelesen</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d neue Mitteilungen</item>
+        <item quantity="one">%1$d neue Nachricht</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d Mitteilungen werden endgültig gelöscht.</item>
+        <item quantity="one">%1$d Mitteilung wird endgültig gelöscht.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ältere Mitteilungen</item>
+        <item quantity="one">%1$d Nachricht</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d Anhänge</item>
+        <item quantity="one">%1$d Anhang</item>
+    </plurals>
+</resources>

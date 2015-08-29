@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Kaixin</item>
+        <item>দুঃখ</item>
+        <item>চোখ পিটপিট</item>
+        <item>জিহ্বা বের করা</item>
+        <item>অবাক হওয়া</item>
+        <item>চুমু খাওয়া</item>
+        <item>আর্তনাদ করা</item>
+        <item>শান্ত</item>
+        <item>মানি মাউথ</item>
+        <item>ফুট ইন মাউথ</item>
+        <item>বিব্রত হয়েছে</item>
+        <item>দেবদূত</item>
+        <item>সিদ্ধান্তহীনতা</item>
+        <item>কাঁদছে</item>
+        <item>মুখবন্ধ</item>
+        <item>হাসছে</item>
+        <item>কিংকর্তব্যবিমূঢ়</item>
+        <item>হৃদয়</item>
+        <item>উন্মাদ</item>
+        <item>বিদ্রুপপূর্ণ হাসি</item>
+        <item>পোকার চেহারা</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>বিষয় নেই</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>আপনি কোথায়?</item>
+        <item>আপনি কি করছেন?</item>
+        <item>অনুগ্রহ করে কলব্যাক করুন!</item>
+        <item>দুঃখিত, আমার এখন একটি মিটিং আছে।</item>
+        <item>আপনাকে আবার কল করব।</item>
+        <item>চিন্তা করবেন না! আমি ভালো আছি।</item>
+        <item>আমি বাড়ি ফিরছি।</item>
+        <item>শীঘ্রই আসুন।</item>
+        <item>ওখানে না গেলে তুমি আমাদের কেউ না!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>সংরক্ষিত মোড</item>
+        <item>সতর্কীকরণ মোড</item>
+        <item>ফ্রি মোড</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>উচ্চ</item>
+        <item>সাধারণ</item>
+        <item>নিম্ন</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>জেএসএম বর্ণমালা</item>
+        <item>ইউনিকোড</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>ফোন</item>
+        <item>সিম কার্ড</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>ডিভাইস</item>
+        <item>সিম কার্ড</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>সিস্টেম ফন্টের আকার অনুসরণ করুন</item>
+        <item>ছোট</item>
+        <item>মধ্যম</item>
+        <item>বড়</item>
+        <item>বেশি বড়</item>
+    </string-array>
+    <string-array name="pref_key_sms_priority_values">
+        <item>সাধারণ</item>
+        <item>আন্তক্রিয়াশীল</item>
+        <item>জরুরি</item>
+        <item>জরুরি</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>সব ভাষা</item>
+        <item>জার্মান</item>
+        <item>ইংরেজি</item>
+        <item>ইতালিয়ান</item>
+        <item>ফরাসি</item>
+        <item>স্প্যানিশ</item>
+        <item>পর্তুগীজ</item>
+        <item>সুইডিশ</item>
+        <item>ডেনিস</item>
+        <item>পর্তুগিজ</item>
+        <item>ফিনিস</item>
+        <item>নরওয়েজিয়ান</item>
+        <item>গ্রিক</item>
+        <item>তুর্কি</item>
+        <item>হাঙ্গেরিয়ান</item>
+        <item>পলিশ</item>
+        <item>অন্যান্য</item>
+        <item>চেক</item>
+        <item>হিব্রু</item>
+        <item>আরবি</item>
+        <item>রাশিয়ান</item>
+        <item>আইসল্যান্ডিক</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>১ সেকেন্ড</item>
+        <item>২ সেকেন্ড</item>
+        <item>৩ সেকেন্ড</item>
+        <item>৪ সেকেন্ড</item>
+        <item>৫ সেকেন্ড</item>
+        <item>৬ সেকেন্ড</item>
+        <item>৭ সেকেন্ড</item>
+        <item>৮ সেকেন্ড</item>
+        <item>৯ সেকেন্ড</item>
+        <item>১০ সেকেন্ড</item>
+        <item>অন্যান্য…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>সবসময়</item>
+        <item>কেবল নিঃশব্দ অবস্থায়</item>
+        <item>কখনও নয়</item>
+    </string-array>
+</resources>

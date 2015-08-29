@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">ဖတ္ၿပီးေၾကာင္းသတင္းေပးပို႔ခ်က္မ်ား %d ခု ေပးပို႔ျခင္း</item>
+        <item quantity="one">ဖတ္ၿပီးေၾကာင္းသတင္းေပးပို႔ခ်က္ %d ခု ေပးပို႔ျခင္း</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d ခုေရြးခ်ယ္ၿပီးျဖစ္သည္</item>
+        <item quantity="one">%d ေရြးခ်ယ္ခဲ့သည္</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">စကားေျပာထားသည့္ မွတ္တမ္း အားလံုးအား ဤစကားေျပာခန္းမွ ရွင္းလင္းမည္</item>
+        <item quantity="one">စကားေျပာထားသည့္ မွတ္တမ္း အားလံုးအား ဤစကားေျပာခန္းမွ ရွင္းလင္းမည္</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">စကားေျပာခ်က္ %1$s ခုကို ဖ်က္မည္</item>
+        <item quantity="one">စကားေျပာခ်က္တစ္ခုကို ဖ်က္မည္</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">မဖတ္ရေသးေသာ မက္ေဆ့(ခ်္) %d ခု</item>
+        <item quantity="one">မဖတ္ရေသးေသာ မက္ေဆ့(ခ်္) %d ခု</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s စကၠန္႔</item>
+        <item quantity="one">%s စကၠန္႔</item>
+        <item quantity="few">%s စကၠန္႔</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\" %2$s\" အတြက္ ရလဒ္ %1$s ခု</item>
+        <item quantity="one">\" %2$s\" အတြက္ ရလဒ္ %1$s ခု</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">အျခားမက္ေဆ့(ခ်္) + %1$s ခု</item>
+        <item quantity="one">အျခားမက္ေဆ့(ခ်္) + %1$s ခု</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">လူ%1$s ဦး</item>
+    </plurals>
+</resources>

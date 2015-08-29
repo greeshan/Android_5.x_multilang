@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">Дайын</string>
+    <string name="hour_picker_description">Сағат бойынша шеңберлік жүгірткі</string>
+    <string name="minute_picker_description">Минут бойынша шеңберлік жүгірткі</string>
+    <string name="select_hours">Сағатты таңдау</string>
+    <string name="select_minutes">Минутты таңдау</string>
+    <string name="day_picker_description">Күндер бойынша ай торы</string>
+    <string name="year_picker_description">Жылдар тізімі</string>
+    <string name="select_day">Ай және күнді таңдау</string>
+    <string name="select_year">Жылды таңдау</string>
+    <string name="item_is_selected">%1$s таңдалды</string>
+    <string name="deleted_key">%1$s жойылды</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="more_string">+%1$s</string>
+    <string name="copy_email">%s</string>
+    <string name="copy_number">Телефон нөмірін көшіру</string>
+    <string name="done">Қайтару</string>
+</resources>

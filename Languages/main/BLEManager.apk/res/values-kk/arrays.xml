@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Әдепкі кескіннен таңдау</item>
+        <item>Суретке түсіру</item>
+        <item>Галереядан таңдау</item>
+    </string-array>
+</resources>

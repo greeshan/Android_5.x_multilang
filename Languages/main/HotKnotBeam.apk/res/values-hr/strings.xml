@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Započni primanje...</string>
+    <string name="notification_group_title">Prima se %d datoteka...</string>
+    <string name="notification_download_done">Dotaknite za pregled detalja</string>
+    <string name="notification_group_received">%d primljenih datoteka</string>
+    <string name="notification_received">Uspješno primljeno</string>
+    <string name="notification_download_failure">Primanje nije uspjelo zbog %s</string>
+    <string name="notification_download_cancel">Primanje otkazano</string>
+    <string name="notification_group_received_failed">%d datoteka nije uspjelo</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d datoteka nije uspjelo, %d primljenih datoteka</string>
+    <string name="download_no_file">Datoteka ne postoji</string>
+    <string name="notification_sending">Započni slanje...</string>
+    <string name="notification_group_upload_title">Šalje se %d datoteka...</string>
+    <string name="notification_group_sent">%d datoteka poslano</string>
+    <string name="notification_sent">Uspješno poslano</string>
+    <string name="notification_upload_failed">Slanje nije uspjelo zbog %s</string>
+    <string name="notification_upload_cancel">Slanje otkazano</string>
+    <string name="notification_group_sent_failed">%d datoteka nije uspjelo</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d datoteka nije uspjelo, %d poslanih datoteka</string>
+    <string name="low_storage">premalo prostora za pohranu</string>
+    <string name="connect_failure">Problem s vezom</string>
+    <string name="unknown_error">Nepoznata greška</string>
+    <string name="share_label">HotKnot dijeljenje</string>
+    <string name="rx_ui_image_status">Primanje slike s %s</string>
+    <string name="rx_group_ui_image_status">Primanje %1$d / %2$d slika s %3$s</string>
+    <string name="rx_ui_video_status">Primanje video zapisa s %s</string>
+    <string name="rx_group_ui_video_status">Primanje %1$d / %2$d video zapisa s %3$s</string>
+    <string name="rx_ui_status">Primanje datoteke s %s</string>
+    <string name="rx_group_ui_status">Primanje %1$d / %2$d datoteka s %3$s</string>
+    <string name="rx_ui_music_status">Primanje glazbe s %s</string>
+    <string name="rx_group_ui_music_status">Primanje %1$d / %2$d glazbe s %3$s</string>
+    <string name="rx_ui_failed_status">Primanje nije dovršeno</string>
+</resources>

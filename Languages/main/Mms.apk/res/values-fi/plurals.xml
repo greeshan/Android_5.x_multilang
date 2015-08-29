@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">lähetetään %d lukuraporttia</item>
+        <item quantity="one">lähetetään %d lukuraportti</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s keskustelua poistettiin</item>
+        <item quantity="one">Yksi keskustelu poistettiin</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s keskustelua poistetaan</item>
+        <item quantity="one">Yksi keskustelu poistetaan</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d lukematonta viestiä.</item>
+        <item quantity="one">%d lukematon viesti.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekuntia</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s sekuntia</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s tulosta haulla %2$s</item>
+        <item quantity="one">%1$s tulos haulla %2$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ %1$s muuta viestiä</item>
+        <item quantity="one">+ %1$s muu viesti</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s vastaanottajaa</item>
+    </plurals>
+</resources>

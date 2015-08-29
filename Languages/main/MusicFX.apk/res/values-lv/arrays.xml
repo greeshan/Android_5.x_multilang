@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Nav</item>
+        <item>Maza telpa</item>
+        <item>Vidēja telpa</item>
+        <item>Liela telpa</item>
+        <item>Vidēja halle</item>
+        <item>Liela halle</item>
+        <item>Plāksnes atbalsošana</item>
+    </string-array>
+</resources>

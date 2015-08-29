@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Ορισμός ταπετσαρίας</string>
+    <string name="image_load_fail">Δεν ήταν δυνατή η φόρτωση της εικόνας</string>
+    <string name="wallpaper_load_fail">Δεν ήταν δυνατή η φόρτωση της εικόνας ως ταπετσαρία</string>
+    <string name="wallpaper_accessibility_name">Ταπετσαρία %1$d από %2$d</string>
+    <string name="announce_selection">Επιλέχθηκε το %1$s</string>
+    <string name="wallpaper_delete">Διαγραφή</string>
+    <string name="pick_image">Επιλογή εικόνας</string>
+    <string name="pick_wallpaper">Ταπετσαρίες</string>
+    <string name="crop_wallpaper">Περικοπή ταπετσαρίας</string>
+</resources>

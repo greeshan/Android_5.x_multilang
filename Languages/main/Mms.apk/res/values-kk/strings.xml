@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done">Қайтару</string>
+    <string name="more_string">+%1$s</string>
+    <string name="copy_email">%s</string>
+    <string name="copy_number">Телефон нөмірін көшіру</string>
+</resources>

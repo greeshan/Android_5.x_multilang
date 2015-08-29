@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_download_failed">አውርድ አልተሳካም።</string>
+    <string name="download_no_application_title">ፋይል መክፈት አይቻልም</string>
+    <string name="notification_download_complete">አውርድ ተጠናቋል::</string>
+    <string name="cancel">ሰርዝ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_image_chooser_items">
+        <item>Elegir de la imagen predeterminada</item>
+        <item>Hacer foto</item>
+        <item>Elegir de la galería</item>
+    </string-array>
+</resources>

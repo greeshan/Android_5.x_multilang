@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tipas</item>
+        <item>Pavadinimas (A–Z)</item>
+        <item>Dydis (didelis–mažas)</item>
+        <item>Laikas (naujas–senas)</item>
+    </string-array>
+</resources>

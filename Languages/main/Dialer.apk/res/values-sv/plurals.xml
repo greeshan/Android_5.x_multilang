@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d samtalsloggar</item>
+        <item quantity="one">1 samtalslogg</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d hittades</item>
+        <item quantity="one">1 hittades</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d röstmeddelanden</item>
+        <item quantity="one">Röstmeddelanden</item>
+    </plurals>
+</resources>

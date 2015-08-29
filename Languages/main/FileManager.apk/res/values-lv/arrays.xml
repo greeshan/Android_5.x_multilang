@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Veids</item>
+        <item>Nosaukums (A–Z)</item>
+        <item>Lielums (liel. - maz.)</item>
+        <item>Laiks (jaun. - vec.)</item>
+    </string-array>
+</resources>

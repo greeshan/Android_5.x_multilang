@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>سعيد</item>
+        <item>حزين</item>
+        <item>يغمز</item>
+        <item>لسان متدلي</item>
+        <item>مندهش</item>
+        <item>تقبيل</item>
+        <item>يصرخ</item>
+        <item>رائع</item>
+        <item>فم به نقود</item>
+        <item>يسكت الفم</item>
+        <item>مُحرج</item>
+        <item>ملاك</item>
+        <item>غير مقرر</item>
+        <item>يبكي</item>
+        <item>الشفاه مغلقة</item>
+        <item>يضحك</item>
+        <item>مرتبك</item>
+        <item>قلب</item>
+        <item>مجنون</item>
+        <item>مبتسم بتكلف</item>
+        <item>وجه جامد</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>بدون موضوع</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>أين أنت؟</item>
+        <item>ماذا تفعل؟</item>
+        <item>عاود الاتصال! من فضلك!</item>
+        <item>عفوًا، لدي اجتماع الآن.</item>
+        <item>سأتصل بك فورًا.</item>
+        <item>لا/ تقلق!أنا/بخير.</item>
+        <item>في طريقي للمنزل.</item>
+        <item>سأصل حالاً.</item>
+        <item>احضر الحفل!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>وضع مقيد</item>
+        <item>وضع تحذير</item>
+        <item>وضع حر</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>عال</item>
+        <item>متوسط</item>
+        <item>منخفض</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>أبجدية GSM</item>
+        <item>يونيكود</item>
+        <item>تلقائيًا</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>الهاتف</item>
+        <item>بطاقة SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>الجهاز</item>
+        <item>بطاقة SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>اتبع حجم خط النظام</item>
+        <item>صغير</item>
+        <item>الوسط</item>
+        <item>كبير</item>
+        <item>كبير جدًا</item>
+    </string-array>
+    <string-array name="pref_key_sms_priority_values">
+        <item>عادي</item>
+        <item>تفاعلي</item>
+        <item>عاجل</item>
+        <item>طارئ</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>كل اللغات</item>
+        <item>الألمانية</item>
+        <item>الإنجليزية</item>
+        <item>الإيطالية</item>
+        <item>الفرنسية</item>
+        <item>الإسبانية</item>
+        <item>هولندي</item>
+        <item>سويدي</item>
+        <item>دانماركي</item>
+        <item>البرتغالية</item>
+        <item>فنلندي</item>
+        <item>نرويجي</item>
+        <item>يوناني</item>
+        <item>التركية</item>
+        <item>مجري</item>
+        <item>بولندي</item>
+        <item>غير ذلك</item>
+        <item>تشيكي</item>
+        <item>العبرية</item>
+        <item>العربية</item>
+        <item>الروسية</item>
+        <item>آيسلندي</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>ثانية واحدة</item>
+        <item>2 ثانية</item>
+        <item>3 ثوانٍ</item>
+        <item>4 ثوانٍ</item>
+        <item>5 ثوانٍ</item>
+        <item>6 ثوانٍ</item>
+        <item>7 ثوانٍ</item>
+        <item>8 ثوانٍ</item>
+        <item>9 ثوانٍ</item>
+        <item>10 ثوانٍ</item>
+        <item>آخر…</item>
+    </string-array>
+</resources>

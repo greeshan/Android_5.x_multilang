@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Sāk saņemt…</string>
+    <string name="notification_group_title">Saņem %d failus...</string>
+    <string name="notification_download_done">Pieskarieties, lai uzzinātu vairāk</string>
+    <string name="notification_group_received">%d faili saņemti</string>
+    <string name="notification_received">saņemts</string>
+    <string name="notification_download_failure">Neizdevās saņemt %s dēļ</string>
+    <string name="notification_download_cancel">Saņemšana atcelta</string>
+    <string name="notification_group_received_failed">%d nenosūtīti faili</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d nenosūtīti faili, %d saņemti faili</string>
+    <string name="download_no_file">Fails nepastāv</string>
+    <string name="notification_sending">Sākt saņemšanu…</string>
+    <string name="notification_group_upload_title">Sūta %d failus...</string>
+    <string name="notification_group_sent">%d nosūtītie faili</string>
+    <string name="notification_sent">Sekmīgi saņemts</string>
+    <string name="notification_upload_failed">Neizdevās nosūtīt %s dēļ</string>
+    <string name="notification_upload_cancel">Sūtīšana atcelta</string>
+    <string name="notification_group_sent_failed">%d nenosūtīti faili</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d nenosūtīti faili, %d nosūtīti faili</string>
+    <string name="low_storage">maz vietas krātuvē</string>
+    <string name="connect_failure">Problēma saistībā ar savienojumu</string>
+    <string name="unknown_error">Nezināma kļūda</string>
+    <string name="share_label">HotKnot koplietošana</string>
+    <string name="rx_ui_image_status">Saņem attēlu no %s</string>
+    <string name="rx_group_ui_image_status">Saņem %1$d / %2$d attēlus no %3$s</string>
+    <string name="rx_ui_video_status">Saņem video no %s</string>
+    <string name="rx_group_ui_video_status">Saņem %1$d / %2$d videos no %3$s</string>
+    <string name="rx_ui_status">Saņem failu no %s</string>
+    <string name="rx_group_ui_status">Saņem %1$d / %2$d failus no %3$s</string>
+    <string name="rx_ui_music_status">Saņem mūziku no %s</string>
+    <string name="rx_group_ui_music_status">Saņem %1$d / %2$d mūziku no %3$s</string>
+    <string name="rx_ui_failed_status">Saņemšana nav pabeigta</string>
+    <string name="notification_download_failed">Lejupielāde neizdevās.</string>
+    <string name="download_no_application_title">Nevar atvērt failu</string>
+    <string name="notification_download_complete">Lejupielāde ir pabeigta.</string>
+    <string name="cancel">Atcelt</string>
+    <string name="incoming_connection">Notiek savienojuma izveide...</string>
+    <string name="outgoing_connection">Notiek savienojuma izveide...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

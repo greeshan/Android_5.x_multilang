@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Empfangen…</string>
+    <string name="notification_group_title">%d Dateien empfangen…</string>
+    <string name="notification_download_done">Zur Detailanzeige berühren</string>
+    <string name="notification_group_received">%d Dateien empfangen</string>
+    <string name="notification_received">Erfolgreich empfangen</string>
+    <string name="notification_download_failure">Empfang wegen %s fehlgeschlagen</string>
+    <string name="notification_download_cancel">Empfang abgebrochen</string>
+    <string name="notification_group_received_failed">%d Dateien fehlgeschlagen</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d Dateien fehlgeschlagen, %d Dateien empfangen</string>
+    <string name="download_no_file">Datei nicht vorhanden</string>
+    <string name="notification_sending">Senden…</string>
+    <string name="notification_group_upload_title">%d Dateien senden…</string>
+    <string name="notification_group_sent">%d Dateien gesendet</string>
+    <string name="notification_sent">Erfolgreich gesendet</string>
+    <string name="notification_upload_failed">Senden wegen %s fehlgeschlagen</string>
+    <string name="notification_upload_cancel">Senden abgebrochen</string>
+    <string name="notification_group_sent_failed">%d Dateien fehlgeschlagen</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d Dateien fehlgeschlagen, %d Dateien gesendet</string>
+    <string name="low_storage">Wenig Speicherplatz</string>
+    <string name="connect_failure">Verbindungsproblem</string>
+    <string name="unknown_error">Unbekannter Fehler</string>
+    <string name="percent">%d%%</string>
+    <string name="group_info" formatted="false">%d/%d</string>
+    <string name="share_label">HotKnot-Freigabe</string>
+    <string name="rx_ui_image_status">Bild wird von %s empfangen</string>
+    <string name="rx_group_ui_image_status">%1$d / %2$d Bilder werden von %3$s empfangen</string>
+    <string name="rx_ui_video_status">Video wird von %s empfangen</string>
+    <string name="rx_group_ui_video_status">%1$d / %2$d Videos werden von %3$s empfangen</string>
+    <string name="rx_ui_status">Datei wird von %s empfangen</string>
+    <string name="rx_group_ui_status">%1$d / %2$d Dateien werden von %3$s empfangen</string>
+    <string name="rx_ui_music_status">Audiodatei wird von %s empfangen</string>
+    <string name="rx_group_ui_music_status">%1$d / %2$d Audiodateien werden von %3$s empfangen</string>
+    <string name="rx_ui_failed_status">Empfang unvollständig</string>
+    <string name="app_name">HotKnotBeam Service</string>
+    <string name="incoming_connection">Wird verbunden...</string>
+    <string name="outgoing_connection">Wird verbunden...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

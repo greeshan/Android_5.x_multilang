@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>အမ်ဳိးအစား</item>
+        <item>အမည္ (ေအ - ဇက္)</item>
+        <item>အရြယ္အစား (အႀကီး- အေသး)</item>
+        <item>အခ်ိန္ (အသစ္- အေဟာင္း)</item>
+    </string-array>
+</resources>

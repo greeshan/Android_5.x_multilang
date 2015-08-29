@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_string">%1$s مزید...</string>
+    <string name="copy_email">ای میل پتہ کاپی کریں</string>
+    <string name="copy_number">فون نمبر کاپی کریں</string>
+    <string name="done">واپس</string>
+</resources>

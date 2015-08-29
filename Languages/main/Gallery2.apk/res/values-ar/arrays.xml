@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>لا يمكن أن يكون حقل المضيف فارغاً</item>
+        <item>لا يمكن ترك حقل المنفذ فارغًا</item>
+        <item>مضيف غير صحيح</item>
+        <item>منفذ غير صحيح</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>الافتراضية</item>
+        <item>أحادي</item>
+        <item>Sans-serif</item>
+        <item>Serif</item>
+    </string-array>
+</resources>

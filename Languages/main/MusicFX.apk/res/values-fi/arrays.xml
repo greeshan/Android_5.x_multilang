@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Ei mitään</item>
+        <item>Pieni huone</item>
+        <item>Keskikokoinen huone</item>
+        <item>Suuri huone</item>
+        <item>Keskikokoinen sali</item>
+        <item>Suuri sali</item>
+        <item>Levykaiku</item>
+    </string-array>
+</resources>

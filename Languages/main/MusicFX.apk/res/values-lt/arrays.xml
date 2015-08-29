@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Nėra</item>
+        <item>Maža patalpa</item>
+        <item>Vidutinio dydžio patalpa</item>
+        <item>Didelė patalpa</item>
+        <item>Vidurinio dydžio salė</item>
+        <item>Didelė salė</item>
+        <item>Plokštinis dirbtinis garso tonas</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>See toite sisselülitamine on seatud toimuma vähem kui 1 minuti pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %1$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %2$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %1$s ja %2$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %1$s ja %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %2$s ja %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite sisselülitamine on seatud toimuma %1$s, %2$s ja %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma vähem kui 1 minuti pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %1$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %2$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %1$s ja %2$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %1$s ja %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %2$s ja %3$s pärast alates praegusest hetkest.</item>
+        <item>See toite väljalülitamine on seatud toimuma %1$s, %2$s ja %3$s pärast alates praegusest hetkest.</item>
+    </string-array>
+</resources>

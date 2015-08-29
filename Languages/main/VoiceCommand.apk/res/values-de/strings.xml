@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Kamera-Sprachsteuerung</string>
+    <string name="voice_ui_phone_command_title">Telefon-Sprachsteuerung</string>
+    <string name="voice_ui_alarm_command_title">Alarm-Sprachsteuerung</string>
+    <string name="app_name">Sprachbefehl</string>
+    <string name="voice_ui_title">Sprachsteuerung</string>
+    <string name="voice_ui_app_category">für Apps</string>
+    <string name="voice_ui_setting_category">Einstellungen</string>
+    <string name="voice_ui_language_title">Sprache der Sprachsteuerung</string>
+    <string name="incoming_call_app_name">Eingehender Anruf</string>
+    <string name="alarm_app_name">Wecker</string>
+    <string name="camera_app_name">Kamera</string>
+    <string name="music_app_name">Musik</string>
+    <string name="incomming_command_summary_format">Sie können zum Annehmen oder Ablehnen eingehender Anrufe %1$s oder %2$s sagen.</string>
+    <string name="alarm_command_summary_format">Sie können zum Schlummern oder Beenden des Alarms %1$s oder %2$s sagen.</string>
+    <string name="camera_command_summary_format">Sie können zur Aufnahme %1$s oder %2$s sagen.</string>
+    <string name="music_command_summary_format">Sie können zur Steuerung der Musikwiedergabe %1$s und %2$s sagen.</string>
+    <string name="playback_failed">Entschuldigung, Datei konnte nicht geöffnet werden.</string>
+    <string name="voice_ui_commands">Befehlen</string>
+    <string name="voice_app_command">APP-BEFEHL</string>
+    <string name="voice_app_wakeup">APP AUFWECKEN</string>
+    <string name="voice_wakeup_title">Sprachgesteuerte Aufweckung</string>
+    <string name="wakeup_by_anyone_summary">%1$s aufwecken, wenn Bildschirm aus</string>
+    <string name="wakeup_by_command_summary">App aufwecken, wenn Bildschirm aus</string>
+    <string name="confirm_dialog_title">Sicherheitswarnung</string>
+    <string name="confirm_dialog_message">Sprachaufweckung wird bei jeder Art von Bildschirmsperre aktiviert, was potentielle Sicherheitsrisiken birgt.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="voice_wakeup_missing">Sprachaufweckung fehlt</string>
+</resources>

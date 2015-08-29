@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>কালো এবং সাদা</item>
+        <item>রং</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>পোর্ট্রেট</item>
+        <item>ল্যান্ডস্কেপ</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>সব</item>
+        <item>পরিসর</item>
+    </string-array>
+</resources>

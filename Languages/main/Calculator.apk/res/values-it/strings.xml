@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">È possibile inserire fino a 100 caratteri</string>
+    <string name="max_digits_alert">Numero massimo di cifre (10) ecceduto</string>
+    <string name="app_name">Calcolatrice</string>
+    <string name="error_nan">Non un numero</string>
+    <string name="error_syntax">Errore</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">c</string>
+    <string name="del">ce</string>
+    <string name="desc_const_e">numero di Eulero</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">virgola</string>
+    <string name="desc_lparen">parentesi aperta</string>
+    <string name="desc_rparen">parentesi chiusa</string>
+    <string name="desc_fun_cos">coseno</string>
+    <string name="desc_fun_ln">logaritmo naturale</string>
+    <string name="desc_fun_log">logaritmo</string>
+    <string name="desc_fun_sin">seno</string>
+    <string name="desc_fun_tan">tangente</string>
+    <string name="desc_op_add">più</string>
+    <string name="desc_op_div">diviso</string>
+    <string name="desc_op_fact">fattoriale</string>
+    <string name="desc_op_mul">per</string>
+    <string name="desc_op_pow">potenza</string>
+    <string name="desc_op_sqrt">radice quadrata</string>
+    <string name="desc_op_sub">meno</string>
+    <string name="desc_clr">cancella tutto</string>
+    <string name="desc_del">cancella</string>
+    <string name="desc_eq">uguale</string>
+</resources>

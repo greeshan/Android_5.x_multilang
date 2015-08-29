@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Ոչ մեկը</item>
+        <item>Փոքր սենյակ</item>
+        <item>Միջին սենյակ</item>
+        <item>Մեծ սենյակ</item>
+        <item>Միջին դահլիճ</item>
+        <item>Մեծ դահլիճ</item>
+        <item>Թիթեղյա արձագանքիչ</item>
+    </string-array>
+</resources>

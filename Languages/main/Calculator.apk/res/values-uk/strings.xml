@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Доступно до 100 символів</string>
+    <string name="max_digits_alert">Перевищує максимум цифр (10)</string>
+    <string name="app_name">Калькулятор</string>
+    <string name="error_nan">Не число</string>
+    <string name="error_syntax">Помилка</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">С</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">число Ейлера</string>
+    <string name="desc_const_pi">пі</string>
+    <string name="desc_dec_point">крапка</string>
+    <string name="desc_lparen">ліва дужка</string>
+    <string name="desc_rparen">права дужка</string>
+    <string name="desc_fun_cos">косинус</string>
+    <string name="desc_fun_ln">натуральний логарифм</string>
+    <string name="desc_fun_log">логарифм</string>
+    <string name="desc_fun_sin">синус</string>
+    <string name="desc_fun_tan">тангенс</string>
+    <string name="desc_op_add">плюс</string>
+    <string name="desc_op_div">ділення</string>
+    <string name="desc_op_fact">факторіал</string>
+    <string name="desc_op_mul">множення</string>
+    <string name="desc_op_pow">степінь</string>
+    <string name="desc_op_sqrt">квадратний корінь</string>
+    <string name="desc_op_sub">мінус</string>
+    <string name="desc_clr">очистити</string>
+    <string name="desc_del">видалити</string>
+    <string name="desc_eq">дорівнює</string>
+</resources>

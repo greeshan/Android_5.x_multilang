@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Начало приема данных...</string>
+    <string name="notification_group_title">Прием %d файлов...</string>
+    <string name="notification_download_done">Коснитесь для просмотра подробностей</string>
+    <string name="notification_group_received">Принято %d файлов</string>
+    <string name="notification_received">Успешно принято</string>
+    <string name="notification_download_failure">Прием не удался из-за %s</string>
+    <string name="notification_download_cancel">Прием данных отменен</string>
+    <string name="notification_group_received_failed">%d файлов не принято</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d файлов не принято, %d файлов принято</string>
+    <string name="download_no_file">Файл не существует</string>
+    <string name="notification_sending">Начало передачи данных...</string>
+    <string name="notification_group_upload_title">Передача %d файлов...</string>
+    <string name="notification_group_sent">%d файлов передано</string>
+    <string name="notification_sent">Успешно передано</string>
+    <string name="notification_upload_failed">Передача данных не удалась из-за %s</string>
+    <string name="notification_upload_cancel">Передача данных отменена</string>
+    <string name="notification_group_sent_failed">%d файлов не принято</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d файлов не передано, %d файлов передано</string>
+    <string name="low_storage">недостаточно памяти</string>
+    <string name="connect_failure">Ошибка подключения</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_label">HotKnot Share</string>
+    <string name="rx_ui_image_status">Прием фото с %s</string>
+    <string name="rx_group_ui_image_status">Прием %1$d / %2$d фото с %3$s</string>
+    <string name="rx_ui_video_status">Прием видео с %s</string>
+    <string name="rx_group_ui_video_status">Прием %1$d / %2$d видео с %3$s</string>
+    <string name="rx_ui_status">Прием файла с %s</string>
+    <string name="rx_group_ui_status">Прием %1$d / %2$d файлов с %3$s</string>
+    <string name="rx_ui_music_status">Прием музыки с %s</string>
+    <string name="rx_group_ui_music_status">Прием %1$d / %2$d музыки с %3$s</string>
+    <string name="rx_ui_failed_status">Прием не завершен</string>
+    <string name="notification_download_failed">Не удалось загрузить файл.</string>
+    <string name="download_no_application_title">Не удается открыть файл</string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="cancel">Отмена</string>
+    <string name="mtk_notification_string">Коснитесь, чтобы просмотреть подробные настройки.</string>
+    <string name="incoming_connection">Подключение...</string>
+    <string name="outgoing_connection">Подключение...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

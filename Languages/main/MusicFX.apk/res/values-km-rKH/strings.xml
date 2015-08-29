@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">សិតទុកជាមុននូវសម្លេងខ្ទ័រ</string>
+    <string name="eq_preset_normal">ធម្មតា</string>
+    <string name="eq_preset_classical">វណ្ណគតិ</string>
+    <string name="eq_preset_dance">រាំ</string>
+    <string name="eq_preset_flat">ស្មើ</string>
+    <string name="eq_preset_folk">ប្រជាប្រិយ</string>
+    <string name="eq_preset_heavymetal">លោហៈធ្ងន់</string>
+    <string name="eq_preset_hiphop">ហ៊ិបហប់</string>
+    <string name="eq_preset_jazz">ហ្សាស</string>
+    <string name="eq_preset_pop">ប៉ុប</string>
+    <string name="eq_preset_rock">រ៉ុក</string>
+    <string name="app_name">តន្ត្រីFX</string>
+    <string name="no_effects">គ្មានបែបផែន។</string>
+    <string name="main_toggle_effects_title">បែបផែនអូឌីយោ</string>
+    <string name="eq_dialog_title">អ៊ីគុយ</string>
+    <string name="headset_plug">ស៊កប្រដាប់ស្តាប់ត្រចៀកចូល ដើម្បីស្តាប់អានុភាពទាំងនេះ ។</string>
+    <string name="bass_boost_strength">បង្កើនសម្លេងបាស់</string>
+    <string name="virtualizer_strength">សំឡេងខ្ទ័រជុំវិញ</string>
+    <string name="pr_title">សំឡេងខ្ទ័រ:</string>
+    <string name="pr_summary">សំឡេងខ្ទ័របន្ថែមក្នុងបន្ទប់</string>
+    <string name="pr_dialog_title">បុរេកំណត់​សំឡេងខ្ទ័រ</string>
+    <string name="setup">តម្លើង</string>
+    <string name="ci_extreme">ឧបកណ៍បង្កើន FX</string>
+    <string name="user">អ្នកប្រើ</string>
+    <string name="picker_title">បន្ទះគ្រប់គ្រងអានុភាពតន្ត្រី</string>
+</resources>

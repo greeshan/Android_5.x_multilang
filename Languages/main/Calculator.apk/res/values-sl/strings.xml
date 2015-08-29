@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Na voljo je največ 100 znakov</string>
+    <string name="max_digits_alert">Največje število števk (10) presega</string>
+    <string name="app_name">Računalo</string>
+    <string name="error_nan">Ni število</string>
+    <string name="error_syntax">Napaka</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">izb</string>
+    <string name="del">izb</string>
+    <string name="desc_const_e">Eulerjevo število</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">pika</string>
+    <string name="desc_lparen">oklepaj</string>
+    <string name="desc_rparen">zaklepaj</string>
+    <string name="desc_fun_cos">kosinus</string>
+    <string name="desc_fun_ln">naravni logaritem</string>
+    <string name="desc_fun_log">logaritem</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangens</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">deli</string>
+    <string name="desc_op_fact">fakulteta</string>
+    <string name="desc_op_mul">krat</string>
+    <string name="desc_op_pow">potenca</string>
+    <string name="desc_op_sqrt">kvadratni koren</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">počisti</string>
+    <string name="desc_del">izbriši</string>
+    <string name="desc_eq">je enako</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>ទំព័របច្ចុប្បន្ន</item>
+        <item>ទំព័រទទេ</item>
+        <item>ទំព័រតាមការសិតពីរោងចក្រ</item>
+        <item>សៃដែលទស្សនាច្រើនបំផុត</item>
+        <item>ការតម្រង់ទិសសៃ</item>
+        <item>ផ្សេងទៀត</item>
+    </string-array>
+    <string-array name="pref_homepage_values_site_navigation">
+        <item>current</item>
+        <item>blank</item>
+        <item>default</item>
+        <item>most_visited</item>
+        <item>site_navigation</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>មិនដែល</item>
+        <item>តែ Wi-Fi</item>
+        <item>ជានិច្ចកាល</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>បើកជានិច្ច</item>
+        <item>តាមការទាមទារ</item>
+        <item>បិទ</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>ON_DEMAND</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>ទំព័របច្ចុប្បន្ន</item>
+        <item>ទំព័រទទេ</item>
+        <item>ទំព័រតាមការសិតពីរោងចក្រ</item>
+        <item>សៃដែលទស្សនាច្រើនបំផុត</item>
+        <item>ផ្សេងទៀត</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>current</item>
+        <item>blank</item>
+        <item>default</item>
+        <item>most_visited</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>តិចតួច</item>
+        <item>តូច</item>
+        <item>ធម្មតា</item>
+        <item>ធំ</item>
+        <item>ធំខ្លាំង</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ឆ្ងាយ</item>
+        <item>មធ្យម</item>
+        <item>បិទ</item>
+    </string-array>
+    <string-array name="pref_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_development_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>អ្នករកឃើញដោយស្វ័យប្រវត្តិ</item>
+        <item>ឡាតាំង-1 (ISO-8859-1)</item>
+        <item>យូនិកូដ (UTF-8)</item>
+        <item>ភាសាចិន (GBK)</item>
+        <item>ភាសាចិន (Big5)</item>
+        <item>ភាសាជប៉ុន (ISO-2022-JP)</item>
+        <item>ភាសាជប៉ុន (SHIFT_JIS)</item>
+        <item>ភាសាជប៉ុន (EUC-JP)</item>
+        <item>ភាសាកូរេ (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>auto-detector</item>
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>មិនដែល</item>
+        <item>តែ Wi-Fi</item>
+        <item>ជានិច្ចកាល</item>
+    </string-array>
+    <string-array name="pref_data_preload_values">
+        <item>@string/pref_data_preload_value_never</item>
+        <item>@string/pref_data_preload_value_wifi_only</item>
+        <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="bookmarks_for_yahoo">
+        <item>Yahoo</item>
+        <item>https://yahoo.com/?.tsrc=mtkandroid</item>
+        <item>Yahoo Search</item>
+        <item>https://search.yahoo.com/?.tsrc=mtkandroid</item>
+        <item>Yahoo News</item>
+        <item>https://news.yahoo.com/?.tsrc=mtkandroid</item>
+    </string-array>
+    <string-array name="pref_op02_text_encoding_values">
+        <item>auto-detector</item>
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>UTF-16</item>
+        <item>GB2312</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Upp till 100 tecken är tillgängliga</string>
+    <string name="max_digits_alert">Maximalt antal siffror (10) har överskridits</string>
+    <string name="app_name">Kalkylator</string>
+    <string name="error_nan">Inte ett tal</string>
+    <string name="error_syntax">Fel</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">CE</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">Eulers tal</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">komma </string>
+    <string name="desc_lparen">vänsterparentes</string>
+    <string name="desc_rparen">högerparentes</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">naturlig logaritm</string>
+    <string name="desc_fun_log">logaritm</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">delat med</string>
+    <string name="desc_op_fact">fakultet</string>
+    <string name="desc_op_mul">gånger</string>
+    <string name="desc_op_pow">exponent</string>
+    <string name="desc_op_sqrt">kvadratrot</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">rensa</string>
+    <string name="desc_del">delete</string>
+    <string name="desc_eq">är lika med</string>
+</resources>

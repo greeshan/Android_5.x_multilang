@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Typ</item>
+        <item>Namn (A-Z)</item>
+        <item>Storlek (stor - liten)</item>
+        <item>Tid (ny - gammal)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">پورا بیک اپ</string>
+    <string name="restore_confirm_title">پوری بحالی</string>
+    <string name="backup_confirm_text">"ایک مربوط ڈیسک ٹاپ کمپیوٹر کے سبھی ڈیٹا کا ایک پورا بیک اپ طلب کیا گیا ہے۔ کیا آپ ایسا ہونے دینا چاہتے ہیں؟
+
+اگر آپ نے حود سے بیک اپ طلب نہیں کیا تو، یہ عمل آگے بڑھانے کی اجازت نہ دیں۔"</string>
+    <string name="allow_backup_button_label">میرا ڈیٹا بیک اپ کریں</string>
+    <string name="deny_backup_button_label">بیک اپ نہ بنائیں</string>
+    <string name="restore_confirm_text">"ایک مربوط ڈیسک ٹاپ کمپیوٹر سے سبھی ڈیٹا کی ایک پوری بحالی طلب کی گئی ہے۔ کیا آپ ایسا ہونے دینا چاہتے ہیں؟
+
+اگر آپ نے حود سے بحالی طلب نہیں کی تو، یہ عمل آگے بڑھانے کی اجازت نہ دیں۔ یہ فی الحال آلہ پر موجود سبھی ڈیٹا کو بدل دے گا!"</string>
+    <string name="allow_restore_button_label">میرا ڈیٹا بحال کریں</string>
+    <string name="deny_restore_button_label">بحال نہ کریں</string>
+    <string name="current_password_text">براہ کرم اپنا موجودہ بیک اپ پاس ورڈ نیچے درج کریں:</string>
+    <string name="device_encryption_restore_text">براہ کرم اپنے آلہ کی مرموزکاری کا پاس ورڈ نیچے درج کریں۔</string>
+    <string name="device_encryption_backup_text">براہ کرم اپنے آلہ کی مرموزکاری کا پاس ورڈ نیچے درج کریں۔ یہ بیک اپ کا آرکائیو مرموز کرنے کیلئے بھی استعمال ہوگا۔</string>
+    <string name="backup_enc_password_text">براہ کرم پورا بیک اپ ڈیٹا مرموز کرنے کیلئے استعمال ہونے والا پاس ورڈ درج کریں۔ اگر اسے خالی چھوڑ دیا جاتا ہے تو، آپ کے موجودہ بیک اپ کا پاس ورڈ استعمال ہوگا:</string>
+    <string name="backup_enc_password_optional">اگر آپ پورے بیک اپ ڈیٹا کو مرموز کرنا چاہتے ہیں تو، نیچے ایک پاس ورڈ درج کریں:</string>
+    <string name="backup_enc_password_required">چونکہ آپ کا آلہ خفیہ کاری شدہ ہے، لہذا آپ کو اپنے بیک اپ کی خفیہ کاری کی ضرورت ہوگی۔ براہ کرم ذیل میں ایک پاسورڈ درج کریں:</string>
+    <string name="restore_enc_password_text">اگر بحالی کا ڈیٹا مرموز کیا ہوا ہے تو، براہ کرم نیچے پاس ورڈ درج کریں:</string>
+    <string name="toast_backup_started">بیک اپ شروع ہو رہا ہے...</string>
+    <string name="toast_backup_ended">بیک اپ پورا ہوگیا</string>
+    <string name="toast_restore_started">بحالی شروع ہو رہی ہے...</string>
+    <string name="toast_restore_ended">بحالی ختم ہوگئی</string>
+    <string name="toast_timeout">عمل کا وقت ختم ہوگیا</string>
+</resources>

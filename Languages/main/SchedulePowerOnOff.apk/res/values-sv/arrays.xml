@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Denna påslagning är inställd på mindre än 1 minut från och med nu.</item>
+        <item>Denna påslagning är inställd på %1$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %2$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %1$s och %2$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %3$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %1$s och %3$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %2$s och %3$s från och med nu.</item>
+        <item>Denna påslagning är inställd på %1$s, %2$s och %3$s från och med nu.</item>
+        <item>Denna påslagning är inställd på mindre än 1 minut från och med nu.</item>
+        <item>Denna avslagning är inställd på %1$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %2$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %1$s och %2$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %3$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %1$s och %3$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %2$s och %3$s från och med nu.</item>
+        <item>Denna avslagning är inställd på %1$s, %2$s och %3$s från och med nu.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">کیمرا کیلئے وائس کنٹرول</string>
+    <string name="voice_ui_phone_command_title">فون کیلئے وائس کنٹرول</string>
+    <string name="voice_ui_alarm_command_title">الارم کیلئے وائس کنٹرول</string>
+    <string name="app_name">صوتی کمانڈ</string>
+    <string name="voice_ui_title">صوتی کنٹرول</string>
+    <string name="voice_ui_app_category">یہ سبھی ترجیحات دو</string>
+    <string name="voice_ui_setting_category">ترتیبات</string>
+    <string name="voice_ui_language_title">وائس کنٹرول کیلئے زبان</string>
+    <string name="incoming_call_app_name">آنے والی کال</string>
+    <string name="alarm_app_name">الارم</string>
+    <string name="camera_app_name">کیمرا</string>
+    <string name="music_app_name">چائنا موبائل موسیقی</string>
+    <string name="incomming_command_summary_format">آنے والی کالوں کا جواب دینے یا انہیں مسترد کرنے کیلئے آپ %1$s یا %2$s کہہ سکتے ہیں۔</string>
+    <string name="alarm_command_summary_format">الارم کال کو اسنوز کرنے یا روکنے کیلئے آپ %1$s یا %2$s کہہ سکتے ہیں۔</string>
+    <string name="camera_command_summary_format">آپ پکڑنے کیلئے %1$s یا %2$s کہہ سکتے ہیں۔</string>
+    <string name="music_command_summary_format">آپ موسیقی چلانے پر قابو رکھنے کیلئے %1$s اور %2$s کہہ سکتے ہیں۔</string>
+    <string name="playback_failed">ہم معذرت خواہ ہیں، فائل کھولنا ناکام</string>
+    <string name="voice_ui_commands">کمانڈز</string>
+    <string name="voice_app_command">ایپ کمانڈ</string>
+    <string name="voice_app_wakeup">ایپ چالو ہونا</string>
+    <string name="voice_wakeup_title">آواز سے چالو کرنا</string>
+    <string name="wakeup_by_anyone_summary">اسکرین آف ہونے پر %1$s کو چالو کریں</string>
+    <string name="wakeup_by_command_summary">اسکرین آف ہونے پرایپ کو چالو کریں</string>
+    <string name="confirm_dialog_title">حفاطت کے بارے میں انتباہ</string>
+    <string name="confirm_dialog_message">صوتی طور پر چالو کرنے کا عمل کسی بھی اسکرین لاک قسم میں فعال ہوگا، جس کے نتیجے میں حفاظت سے متعلق خطرہ ہوسکتا ہے۔</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="cancel">منسوخ</string>
+    <string name="voice_wakeup_missing">صوتی طور پر چالو کرنے کا عمل غائب ہے</string>
+</resources>

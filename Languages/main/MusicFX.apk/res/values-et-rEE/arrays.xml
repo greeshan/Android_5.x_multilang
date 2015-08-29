@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Puudub</item>
+        <item>Väike ruum</item>
+        <item>Keskmine ruum</item>
+        <item>Suur ruum</item>
+        <item>Keskmine saal</item>
+        <item>Suur saal</item>
+        <item>Plate Reverb</item>
+    </string-array>
+</resources>

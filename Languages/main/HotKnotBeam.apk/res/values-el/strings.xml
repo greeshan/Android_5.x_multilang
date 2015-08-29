@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Έναρξη λήψης…</string>
+    <string name="notification_group_title">Λήψη %d αρχείων…</string>
+    <string name="notification_download_done">Αγγίξτε για εμφάνιση των λεπτομερειών</string>
+    <string name="notification_group_received">%d αρχεία έχουν ληφθεί</string>
+    <string name="notification_received">Έχουν ληφθεί με επιτυχία</string>
+    <string name="notification_download_failure">Αποτυχία λήψης επειδή %s</string>
+    <string name="notification_download_cancel">Η λήψη έχει ακυρωθεί</string>
+    <string name="notification_group_received_failed">%d αρχεία έχουν αποτύχει</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d αρχεία έχουν αποτύχει, %d αρχεία έχουν ληφθεί</string>
+    <string name="download_no_file">Το αρχείο δεν υπάρχει</string>
+    <string name="notification_sending">Έναρξη αποστολής…</string>
+    <string name="notification_group_upload_title">Αποστολή %d αρχείων…</string>
+    <string name="notification_group_sent">%d αρχεία έχουν σταλεί</string>
+    <string name="notification_sent">Έχουν σταλεί με επιτυχία</string>
+    <string name="notification_upload_failed">Αποτυχία αποστολής επειδή %s</string>
+    <string name="notification_upload_cancel">Η αποστολή έχει ακυρωθεί</string>
+    <string name="notification_group_sent_failed">%d αρχεία έχουν αποτύχει</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d αρχεία έχουν αποτύχει, %d αρχεία έχουν σταλεί</string>
+    <string name="low_storage">περιορισμένος χώρος αποθήκευσης</string>
+    <string name="connect_failure">Πρόβλημα σύνδεσης</string>
+    <string name="unknown_error">Άγνωστο σφάλμα</string>
+    <string name="share_label">Κοινή χρήση HotKnot</string>
+    <string name="rx_ui_image_status">Λήψη εικόνας από %s</string>
+    <string name="rx_group_ui_image_status">Λήψη %1$d / %2$d εικόνων από %3$s</string>
+    <string name="rx_ui_video_status">Λήψη βίντεο από %s</string>
+    <string name="rx_group_ui_video_status">Λήψη %1$d / %2$d βίντεο από %3$s</string>
+    <string name="rx_ui_status">Λήψη αρχείου από %s</string>
+    <string name="rx_group_ui_status">Λήψη %1$d / %2$d αρχείων από %3$s</string>
+    <string name="rx_ui_music_status">Λήψη μουσικής από %s</string>
+    <string name="rx_group_ui_music_status">Λήψη %1$d / %2$d μουσικής από %3$s</string>
+    <string name="rx_ui_failed_status">Η λήψη δεν έχει ολοκληρωθεί</string>
+</resources>

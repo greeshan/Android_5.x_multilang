@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Startar mottagning…</string>
+    <string name="notification_group_title">Tar emot %d filer...</string>
+    <string name="notification_download_done">Tryck för att visa information</string>
+    <string name="notification_group_received">%d mottagna filer</string>
+    <string name="notification_received">Mottagning klar</string>
+    <string name="notification_download_failure">Mottagning misslyckades på grund av %s</string>
+    <string name="notification_download_cancel">Mottagningen avbröts</string>
+    <string name="notification_group_received_failed">%d filer misslyckades</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d filer misslyckades, %d mottagna filer</string>
+    <string name="download_no_file">Filen finns inte</string>
+    <string name="notification_sending">Startar sändning…</string>
+    <string name="notification_group_upload_title">Skickar %d filer...</string>
+    <string name="notification_group_sent">%d filer skickade</string>
+    <string name="notification_sent">Sändning klar</string>
+    <string name="notification_upload_failed">Sändningen misslyckades på grund av %s</string>
+    <string name="notification_upload_cancel">Sändning avbröts</string>
+    <string name="notification_group_sent_failed">%d filer misslyckades</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d filer misslyckades, %d filer skickade</string>
+    <string name="low_storage">lågt lagringsutrymme</string>
+    <string name="connect_failure">Anslutningsproblem</string>
+    <string name="unknown_error">Okänt fel</string>
+    <string name="share_label">Hotknot Share</string>
+    <string name="rx_ui_image_status">Tar emot bild från %s</string>
+    <string name="rx_group_ui_image_status">Tar emot %1$d / %2$d bilder från %3$s</string>
+    <string name="rx_ui_video_status">Tar emot video från %s</string>
+    <string name="rx_group_ui_video_status">Tar emot %1$d / %2$d videofiler från %3$s</string>
+    <string name="rx_ui_status">Tar emot fil från %s</string>
+    <string name="rx_group_ui_status">Tar emot %1$d / %2$d filer från %3$s</string>
+    <string name="rx_ui_music_status">Tar emot musik från %s</string>
+    <string name="rx_group_ui_music_status">Tar emot %1$d / %2$d musik från %3$s</string>
+    <string name="rx_ui_failed_status">Mottagning ej slutförd</string>
+    <string name="notification_download_failed">Det gick inte att hämta.</string>
+    <string name="download_no_application_title">Det går inte att öppna filen</string>
+    <string name="notification_download_complete">Hämtningen har slutförts.</string>
+    <string name="cancel">Avbryt</string>
+    <string name="incoming_connection">Ansluter ...</string>
+    <string name="outgoing_connection">Ansluter ...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

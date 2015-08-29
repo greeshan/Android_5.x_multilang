@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error_nan">Сан емес</string>
+    <string name="error_syntax">Қате</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">кос</string>
+    <string name="fun_ln">нл</string>
+    <string name="fun_log">лог</string>
+    <string name="fun_sin">син</string>
+    <string name="fun_tan">тан</string>
+    <string name="clr">тзл</string>
+    <string name="del">жою</string>
+    <string name="desc_const_e">Эйлер саны</string>
+    <string name="desc_const_pi">пи</string>
+    <string name="desc_dec_point">нүкте</string>
+    <string name="desc_lparen">сол жақ жақша</string>
+    <string name="desc_rparen">оң жақ жақша</string>
+    <string name="desc_fun_cos">косинус</string>
+    <string name="desc_fun_ln">натуралды логарифм</string>
+    <string name="desc_fun_log">логарифм</string>
+    <string name="desc_fun_sin">синус</string>
+    <string name="desc_fun_tan">тангенс</string>
+    <string name="desc_op_add">қосу</string>
+    <string name="desc_op_div">бөлу</string>
+    <string name="desc_op_fact">факториал</string>
+    <string name="desc_op_mul">көбейту</string>
+    <string name="desc_op_pow">дәреже</string>
+    <string name="desc_op_sqrt">шаршы түбір</string>
+    <string name="desc_op_sub">алу</string>
+    <string name="desc_clr">тазалау</string>
+    <string name="desc_del">delete</string>
+    <string name="desc_eq">тең</string>
+    <item type="string" name="APKTOOL_DUMMY_0046">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0047">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0048">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0049">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0050">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0051">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0052">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0053">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0054">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0055">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0056">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0057">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0058">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0059">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0060">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0061">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0062">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0063">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0064">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0065">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0066">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0067">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0068">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0069">false</item>
+</resources>

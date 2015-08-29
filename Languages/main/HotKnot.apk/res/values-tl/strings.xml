@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_receiving">Magsimulang makatanggap...</string>
+    <string name="notification_group_title">Tinatanggap ang %d (na)file...</string>
+    <string name="notification_download_done">Pindutin para tingnan ang mga detalye</string>
+    <string name="notification_group_received">%d (na) file ang natanggap</string>
+    <string name="notification_received">Matagumpay na natanggap</string>
+    <string name="notification_download_failure">Nabigong matanggap dulot ng %s</string>
+    <string name="notification_download_cancel">Kinansela ang pagtanggap</string>
+    <string name="notification_group_received_failed">%d (na) file ang nabigo</string>
+    <string name="notification_group_received_partial_failed" formatted="false">%d (na) file ang nabigo, %d (na) file ang natanggap</string>
+    <string name="download_no_file">Hindi umiiral ang file</string>
+    <string name="notification_sending">Simulang magpadala...</string>
+    <string name="notification_group_upload_title">Pinadadala ang %d (na) file...</string>
+    <string name="notification_group_sent">%d (na) files ang ipinadala</string>
+    <string name="notification_sent">Matagumpay na naipadala</string>
+    <string name="notification_upload_failed">Nabigong ipadala dulot ng %s</string>
+    <string name="notification_upload_cancel">Kinansela ang pagpapadala</string>
+    <string name="notification_group_sent_failed">%d (na) file ang nabigo</string>
+    <string name="notification_group_sent_partial_failed" formatted="false">%d (na) file ang nabigo, %d (na) file ang ipinadala</string>
+    <string name="low_storage">mababang imbakan</string>
+    <string name="connect_failure">Problema sa koneksyon</string>
+    <string name="unknown_error">Hindi kilalang error</string>
+    <string name="share_label">Pagbabahagi ng HotKnot</string>
+    <string name="rx_ui_image_status">Tumatanggap ng imahe mula sa %s</string>
+    <string name="rx_group_ui_image_status">Tumatanggap ng %1$d / %2$d mga imahe mula sa %3$s</string>
+    <string name="rx_ui_video_status">Tumatanggap ng video mula sa %s</string>
+    <string name="rx_group_ui_video_status">Tumatanggap ng %1$d / %2$d mga video mula sa %3$s</string>
+    <string name="rx_ui_status">Tumatanggap ng file mula sa %s</string>
+    <string name="rx_group_ui_status">Tumatanggap ng %1$d / %2$d (na) file mula sa %3$s</string>
+    <string name="rx_ui_music_status">Tumatanggap ng musika mula sa %s</string>
+    <string name="rx_group_ui_music_status">Tumatanggap ng %1$d / %2$d musika mula sa %3$s</string>
+    <string name="rx_ui_failed_status">Hindi natapos ang pagtanggap</string>
+    <string name="notification_download_failed">Hindi matagumpay ang pag-download.</string>
+    <string name="download_no_application_title">Hindi mabuksan ang file</string>
+    <string name="notification_download_complete">Kumpleto na ang download.</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="mtk_notification_string">Hipuin para tingnan ang mga setting ng detalye</string>
+    <string name="incoming_connection">Kumukonekta...</string>
+    <string name="outgoing_connection">Kumukonekta...</string>
+    <string name="incoming_connection_fail">Failed to send due to connection problem</string>
+    <string name="outgoing_connection_fail">Failed to receive due to connection problem</string>
+</resources>

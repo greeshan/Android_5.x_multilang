@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>"El camp de l'amfitrió no pot estar buit"</item>
+        <item>El camp del port no pot estar buit</item>
+        <item>Amfitrió no vàlid</item>
+        <item>Port no vàlid</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Predeterminat</item>
+        <item>Mono</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+</resources>

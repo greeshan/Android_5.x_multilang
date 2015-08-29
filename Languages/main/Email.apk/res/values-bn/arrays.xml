@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>উত্তর দিন</item>
+        <item>সবাইকে উত্তর দিন</item>
+        <item>ফরওয়ার্ড করুন</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>সাফল্য</item>
+        <item>সংযোগ নেই</item>
+        <item>সাইনইন করা যাচ্ছে না</item>
+        <item>নিরাপত্তা ত্রুটি</item>
+        <item>সিঙ্ক করতে পারেনি</item>
+        <item>অভ্যন্তরীণ ত্রুটি</item>
+        <item>সার্ভারে ত্রুটি</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>নতুন</item>
+        <item>পুরাতন</item>
+        <item>আলাপচারিতার তালিকা</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>আপনি মুছে ফেলার পর নতুন আলাপচারিতার দেখান</item>
+        <item>আপনি মুছে ফেলার পর পুরাতন আলাপচারিতার দেখান</item>
+        <item>আপনি মুছে ফেলার পর আলাপচারিতার তালিকা দেখান</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>আর্কাইভে রাখুন</item>
+        <item>মুছুন</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>আর্কাইভে রাখুন</item>
+        <item>মুছুন</item>
+    </string-array>
+    <string-array name="reply_choices">
+        <item>@string/reply_choice_yes</item>
+        <item>@string/reply_choice_no</item>
+        <item>@string/reply_choice_ok</item>
+        <item>@string/reply_choice_hehe</item>
+        <item>@string/reply_choice_thanks</item>
+        <item>@string/reply_choice_i_agree</item>
+        <item>@string/reply_choice_nice</item>
+        <item>@string/reply_on_my_way</item>
+        <item>@string/reply_choice_later</item>
+        <item>@string/reply_choice_smiling_face</item>
+        <item>@string/reply_choice_frowning_face</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>স্ক্রিনের একেবারে ওপরে সবসময় বার্তার কাজগুলো প্রদর্শন করুন</item>
+        <item>পোর্ট্রেইটে আবর্তনের সময় স্ক্রিনের একেবারে ওপরে বার্তার কাজগুলো প্রদর্শন করুন</item>
+        <item>বার্তার হেডারের বাইরে বার্তার কাজগুলো প্রদর্শন করবেন না</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>সবসময় দেখান</item>
+        <item>কেবল পোর্ট্রেইটে দেখান</item>
+        <item>দেখাবেন না</item>
+    </string-array>
+</resources>

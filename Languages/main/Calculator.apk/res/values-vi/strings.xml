@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_input_alert">Có sẵn đến 100 ký tự</string>
+    <string name="max_digits_alert">Vượt quá số lượng chữ số tối đa (10)</string>
+    <string name="app_name">Máy tính</string>
+    <string name="error_nan">Không phải số</string>
+    <string name="error_syntax">Lỗi</string>
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">Số Euler</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">chấm</string>
+    <string name="desc_lparen">dấu ngoặc trái</string>
+    <string name="desc_rparen">dấu ngoặc phải</string>
+    <string name="desc_fun_cos">cosin</string>
+    <string name="desc_fun_ln">logarit tự nhiên</string>
+    <string name="desc_fun_log">logarit</string>
+    <string name="desc_fun_sin">sin</string>
+    <string name="desc_fun_tan">tang</string>
+    <string name="desc_op_add">cộng</string>
+    <string name="desc_op_div">chia</string>
+    <string name="desc_op_fact">giai thừa</string>
+    <string name="desc_op_mul">nhân</string>
+    <string name="desc_op_pow">lũy thừa</string>
+    <string name="desc_op_sqrt">dấu khai căn</string>
+    <string name="desc_op_sub">trừ</string>
+    <string name="desc_clr">xóa</string>
+    <string name="desc_del">xóa</string>
+    <string name="desc_eq">bằng</string>
+</resources>

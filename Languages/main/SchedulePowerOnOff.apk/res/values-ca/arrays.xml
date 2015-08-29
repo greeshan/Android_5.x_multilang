@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Activació establerta durant menys d’1 minut a partir d’aquest moment.</item>
+        <item>Activació establerta durant %1$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %2$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %1$s i %2$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %3$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %1$s i %3$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %2$s i %3$s a partir d’aquest moment.</item>
+        <item>Activació establerta durant %1$s, %2$s i %3$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant menys d’1 minut a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %1$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %2$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %1$s i %2$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %3$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %1$s i %3$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %2$s i %3$s a partir d’aquest moment.</item>
+        <item>Desactivació establerta durant %1$s, %2$s i %3$s a partir d’aquest moment.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Polje gostitelja ne sme biti prazno</item>
+        <item>Polje vrat ne sme biti prazno</item>
+        <item>Neveljaven gostitelj</item>
+        <item>Neveljavna vrata</item>
+    </string-array>
+    <string-array name="text_font">
+        <item>Privzeto</item>
+        <item>Mono</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+</resources>

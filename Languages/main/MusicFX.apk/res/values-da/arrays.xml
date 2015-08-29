@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Ingen</item>
+        <item>Lille rum</item>
+        <item>Medium rum</item>
+        <item>Stort rum</item>
+        <item>Medium hall</item>
+        <item>Stor hall</item>
+        <item>Efterklang</item>
+    </string-array>
+</resources>

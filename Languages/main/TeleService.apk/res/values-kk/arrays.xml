@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (автоматты режим)</item>
+        <item>Тек 3G</item>
+        <item>Тек 2G</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Әдепкі желілік параметрлер</item>
+        <item>Нөмірді жасыру</item>
+        <item>Нөмірді көрсету</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Жалпы</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Тек EvDo</item>
+        <item>EvDo жоқ CDMA</item>
+        <item>CDMA/EvDo авто</item>
+        <item>GSM/WCDMA авто</item>
+        <item>Тек WCDMA</item>
+        <item>Тек GSM</item>
+        <item>Қалаулы GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Ағылшын</item>
+        <item>Француз тілі</item>
+        <item>Испан тілі</item>
+        <item>Жапон</item>
+        <item>Корей</item>
+        <item>Қытай</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тек жергілікті жүйе</item>
+        <item>Автоматты</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY өшірулі</item>
+        <item>TTY толық</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Қалыпты</item>
+        <item>Ұзақ</item>
+    </string-array>
+</resources>

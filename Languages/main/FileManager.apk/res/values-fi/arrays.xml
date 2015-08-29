@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tyyppi</item>
+        <item>Nimi (A - Ö)</item>
+        <item>Koko (suuri - pieni)</item>
+        <item>Aika (uusi - vanha)</item>
+    </string-array>
+</resources>

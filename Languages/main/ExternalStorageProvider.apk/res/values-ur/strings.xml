@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">خارجی اسٹوریج</string>
+    <string name="root_internal_storage">اندرونی آلے کا ذخیرہ</string>
+    <string name="root_documents">دستاویزات</string>
+</resources>
